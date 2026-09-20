@@ -1,0 +1,43 @@
+name: Update Visit Frederick Calendar
+
+on:
+  schedule:
+    - cron: "0 10 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up R
+        uses: r-lib/actions/setup-r@v2
+
+      - name: Install R packages
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages: |
+            any::httr2
+            any::xml2
+            any::rvest
+            any::dplyr
+            any::stringr
+            any::purrr
+            any::tibble
+
+      - name: Run Visit Frederick scraper
+        run: Rscript visit-frederick.R
+
+      - name: Commit updated calendar
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add visit_frederick.ics
+          git diff --cached --quiet || git commit -m "Update Visit Frederick calendar"
+          git push
