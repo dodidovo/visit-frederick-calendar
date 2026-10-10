@@ -6,16 +6,25 @@ METHOD:PUBLISH
 X-WR-CALNAME:Visit Frederick Events
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventalpacaopenhousehomegrownhaydays18775-20241012@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20241012
-DTEND;VALUE=DATE:20271010
+DTEND;VALUE=DATE:20281009
 SUMMARY:Alpaca Open House/Homegrown Hay Days
 DESCRIPTION:Enjoy a fun day on the Alpaca Farm\, we offer a free hay ride\, walk an alpaca\, play on the hay tower\, a tot lot for those little ones in your family\, and for a small fee\, feed an alpaca\, food available for purchase. On the 25+ acre farm you can visit with a variety of animals such as: Charlie the Texas longhorn\, beef cattle\, pigs\, and birds\, you just never know what we will have at the alpaca farm for you to see. Yearly event 2nd weekend of October. Saturday is 9am to 4pm and Sunday is 10am to 4pm.
 URL:https://www.visitfrederick.org/event/alpaca-open-house-homegrown-hay-days/18775/
 END:VEVENT
 BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventfrederickinthecivilwar23395-20260502@visitfrederick
+DTSTAMP:20261010T155031Z
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20261026
+SUMMARY:Frederick in the Civil War
+DESCRIPTION:History\, Heroics\, and the Occasional Amputation (Strictly Metaphorical) Right\, gather round\, you historically curious lot! Step smartly aboard as we begin our highly educational meander from the National Museum of Civil War Medicine in Downtown Frederick\, Maryland\, where you’ll learn how doctors once treated nearly everything with brandy\, saws\, and an unwavering sense of optimism. Your guide\, a certified docent and part-time time traveler\, will regale you with tales of battlefield brilliance\, questionable hygiene\, and the astonishing resilience of people who really ought to have taken the day off. So join us for a Frederick Civil War history tour because this isn’t just history… it’s history on the double\, with a head wound and a bandage made from curtains. Perfect for history buffs\, museum lovers\, and anyone searching for unique things to do in Frederick\, Maryland\, this unforgettable Civil War bus tour offers a delightfully British take on America’s most dramatic century.
+URL:https://www.visitfrederick.org/event/frederick-in-the-civil-war/23395/
+END:VEVENT
+BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventbarnyardband26booze11170-20260613@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20261011
 SUMMARY:Barnyard Band & Booze
@@ -23,17 +32,8 @@ DESCRIPTION:Outdoor Music Venue at Green Meadows Farm\, Our Barnyard Band & Booz
 URL:https://www.visitfrederick.org/event/barnyard-band-%26-booze/11170/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventmelbrooksyoungfrankenstein25889-20260829@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20261026
-SUMMARY:Mel Brooks' Young Frankenstein
-DESCRIPTION:Mainstage Musical - Dinner & Show The grandson of the infamous Victor Frankenstein\, Frederick Frankenstein (pronounced \\
-URL:https://www.visitfrederick.org/event/mel-brooks-young-frankenstein/25889/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfallfunfestivalatgaverfarm20763-20260904@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20261102
 SUMMARY:Fall Fun Festival at Gaver Farm
@@ -41,8 +41,17 @@ DESCRIPTION:Celebrate the vibrant colors and crisp air of autumn at the Fall Fun
 URL:https://www.visitfrederick.org/event/fall-fun-festival-at-gaver-farm/20763/
 END:VEVENT
 BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventgentleyogaflow3aabeginneryogaclass25945-20260905@visitfrederick
+DTSTAMP:20261010T155031Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20261227
+SUMMARY:Gentle Yoga Flow: A Beginner Yoga Class
+DESCRIPTION:Join us for a calming\, beginner-friendly yoga class designed to help you unwind\, stretch\, and move with ease. This all-levels session is perfect for anyone looking to build flexibility\, reduce stress\, and explore mindful movement in a welcoming environment. With over ten years' experience\, Hannah Cherry offers supportive guidance for every body. All are welcome— no prior yoga experience needed. Please wear comfortable clothes. There are a limited amount of yoga mats available\, but patrons are welcome to bring their own.
+URL:https://www.visitfrederick.org/event/gentle-yoga-flow%3a-a-beginner-yoga-class/25945/
+END:VEVENT
+BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfallfestivalatmagnoliameadowfarms17423-20260926@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20261102
 SUMMARY:Fall Festival at Magnolia Meadow Farms
@@ -50,35 +59,8 @@ DESCRIPTION:Your Fall Starts Here! Home to Maryland’s Largest Corn Maze\, we�
 URL:https://www.visitfrederick.org/event/fall-festival-at-magnolia-meadow-farms/17423/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsummersfarmfallfestival12916-20260926@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20261102
-SUMMARY:Summers Farm Fall Festival
-DESCRIPTION:Join us for our annual Fall Festival at Summers Farm! For over 30 years\, Summers Farm has been the go-to destination for fall fun in Frederick County\, Maryland. With 45+ exciting activities\, there’s something for everyone to enjoy! Whether you're planning a day of family fun\, a corporate outing\, a school field trip\, an adventurous day date\, or just some good old-fashioned fun—Summers Farm is the place to be this fall! Here's what we have planned: Pumpkin Train Photo Ops Specialty Food & Drinks Famous Corn Maze Petting Zoo Wagon Rides Pedal Car Track Giant Slides Local Food Vendors 45+ Attractions & so much more! September 26 – November 1 September Sat – Sun: 10am – 7pm October 1 – 4 Thurs – Sun: 1pm – 7pm (Thurs)\, 1pm – 9pm (Fri)\, 10am – 9pm (Sat)\, 10am – 7pm (Sun) October 7 – 31 Wed – Thurs: 1pm – 7pm Fri: 1pm – 9pm Sat: 10am – 9pm Sun: 10am – 7pm November 1 (Sunday only) 10am – 7pm *October 12\, 16 & 26th – School Daze Craze: 11:30am – 9pm
-URL:https://www.visitfrederick.org/event/summers-farm-fall-festival/12916/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventpumpkinpatchatmaynes24117-20261001@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261101
-SUMMARY:Pumpkin Patch At Mayne's
-DESCRIPTION:Pumpkin Patch At Mayne's Celebrate Fall at Mayne's Tree Farm Pumpkin Patch in Frederick\, MD. Our pumpkin patch is open for the month of October on weekdays from 10a.m. - 6p.m. and on the weekends from 10a.m. - 5p.m. Pumpkins are available in small\, medium and large. Large groups by appointment during the week. Click Here for our full events schedule on facebook! Fall Activities Include: Hayrides To The Patch Corn Maze Apple Cider Scarecrow Making Straw Jumpin Antique Tractor Display For Your Fall Decoration Needs We Offer: Gourds ~ Mini Pumpkins ~ Indian Corn ~ Corn Stalks ~ Straw Bales
-URL:https://www.visitfrederick.org/event/pumpkin-patch-at-maynes/24117/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261009@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:2026 Exhibits at Museum of Frederick County History
-DESCRIPTION:Take a deep dive into various topics that have defined Frederick's history\, as we celebrate America's 250th anniversary and our County's role in the Revolution. Featuring brand new exhibits: Cultivating Independence: Frederick in the Revolution Witnessing Revolution All Saints Street: Avenue to the History of Frederick and Its African American Community Growing Gold: A History of Frederick’s Goldfish Industry And returning favorites: Etchison Connections Timeless Toys 24 E Church Street Decorative Arts See our all new and renovated exhibits\, March 7\,2026 through December 12\, 2026. Buy tickets here.
-URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventbackfromthedeadcemeterywalk8942-20261009@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261026
 SUMMARY:Back from the Dead Cemetery Walk
@@ -86,17 +68,8 @@ DESCRIPTION:On this unique and popular Cemetery Walk\, as a guide leads you thro
 URL:https://www.visitfrederick.org/event/back-from-the-dead-cemetery-walk/8942/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventboardgamenight25654-20261009@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:Board Game Night
-DESCRIPTION:Looking for a fun way to kick off your weekend? Join us every Friday from 5 PM–9 PM for Game Night! Bring your favorite board game\, card game\, or tabletop game\, or choose from our growing collection of games available to play. Whether you’re a serious strategist\, a casual player\, or just looking to meet new people\, everyone is welcome. As a bonus\, all Game Night participants receive 10% off glasses during the event.
-URL:https://www.visitfrederick.org/event/board-game-night/25654/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfallfestatcatoctinfurnace15524-20261009@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261011
 SUMMARY:Fallfest at Catoctin Furnace
@@ -104,80 +77,8 @@ DESCRIPTION:For 62 years\, northern Frederick County has shared the glorious aut
 URL:https://www.visitfrederick.org/event/fallfest-at-catoctin-furnace/15524/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261009@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:Frederick City Parks & Rec: Senior Yoga
-DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long holds are emphasized in this class. Modifications are provided and welcome during your practice. All ages are welcome.
-URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventghosttoursofhistoricfrederick25000-20261009@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:Ghost Tours of Historic Frederick
-DESCRIPTION:Take a Remarkable Journey through Frederick’s Gruesome and Bloody Past. Nearly 300 Years of War\, Executions and Revenge. True Documented Stories of the “Paranormal” with \\
-URL:https://www.visitfrederick.org/event/ghost-tours-of-historic-frederick/25000/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261009@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:Guided Exhibit Tours
-DESCRIPTION:Experience the Museum of Frederick County History through a guided tour. Join the staff and volunteers who curated our 2026 exhibits as they explore our various galleries. Each tour is a unique experience based on the interests of the group and what special things staff wants to highlight that week. Descriptions of each week's tour can be found on the Heritage Frederick website\, which includes accessibility notes. Tours are included with admission!
-URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventjumbospumpkinpatchfallfestival11483-20261009@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:Jumbo's Pumpkin Patch Fall Festival
-DESCRIPTION:Celebrate the season with a full day of festive fun for all ages at Jumbo’s Pumpkin Patch! From classic farm adventures to fall-themed attractions\, our Fall Fun Festival is the perfect weekend outing for families\, friends\, and pumpkin lovers. What’s Included with Admission: Your ticket includes unlimited access to a variety of seasonal attractions: Hayrides through the farm 30+ acre u-pick pumpkin patch (pumpkins sold by the pound) Corn maze (14 acres) Petting zoo Jumping pillow Giant slides Mini mazes for younger guests Playgrounds and yard games General Store with fall shopping and décor​ Optional Add-Ons: (Available for Purchase Onsite - Saturday and Sunday Only) Enhance your day with these fun extras: Pony Rides – $7 Face Painting – $4 Sandy Candy (Edible Sand Art) – $4 Corn Cannon – $5 (3 shots) ​ Food & Drinks: Come hungry! A variety of food\, snacks\, and beverages are available for purchase\, including selections from Liquidity Ale Works of Mt. Airy. Tickets available online or at the gate.
-URL:https://www.visitfrederick.org/event/jumbos-pumpkin-patch-fall-festival/11483/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventlegends26lore26224-20261009@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261031
-SUMMARY:Legends & Lore
-DESCRIPTION:Come see the darker side of Frederick. When night falls\, Frederick’s familiar streets have rather different stories to tell. Climb aboard our vintage double-decker for an hour of dark tales from Frederick’s past\, researched from local histories\, old accounts and the legends that have lingered long after the people involved have gone. As we make our way through the city\, we’ll slow down at the very places connected to these stories\, from historic streets and old buildings to some of Frederick’s more famously haunted places. Along the way\, you’ll hear tales of strange happenings\, restless spirits and the darker chapters of local history\, all told against the backdrop of Frederick after dark. And because it’s October\, you’ll also get a rather good view from the top deck as the city’s historic homes and neighborhoods put on their best autumn and Halloween displays. Whether you’re a believer\, a skeptic\, or simply enjoy a good story with a slightly unsettling ending\, Legends and Lore offers a different way to discover Frederick’s history. Just remember\, it’s much easier to laugh at a ghost story when you’re not sitting on the top deck in the dark. TOUR HIGHLIGHTS Hear researched tales of Frederick’s haunted places\, local legends and darker history\, told where the stories happened. Experience Frederick after dark from the top deck\, with historic streets\, autumn displays and a few places you’ll look at rather differently afterwards. TOUR DETAILS Price: $35 per person Duration: 1 hour Recommended Age: 14+ Departure: RAK Brewing Co\, 400 Sagner Ave\, Frederick\, MD\, 21701
-URL:https://www.visitfrederick.org/event/legends-%26-lore/26224/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventthehotsardines25956-20261009@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:The Hot Sardines
-DESCRIPTION:Emerging a decade ago from the underground parties of Brooklyn to touring worldwide and recording a string of albums that have racked up more than 60 million streams\, The Hot Sardines’ own “potent and assured” ( The New York Times )\, “simply phenomenal” ( The Times \, London) brand of reinvigorated classic jazz landed them at the center of a whirlwind. In 2024\, co-founders Elizabeth Bougerol (vocals) and Evan Palazzo (piano) debuted the Sardines’ new project at Carnegie Hall\, selling out within hours. Banned Jazz is a celebration of joy as an act of resistance and the unifying power of music\, recounting how political forces in the U.S. and Europe tried (and failed) to suppress the music of Louis Armstrong\, Josephine Baker\, Benny Goodman\, and more with its messages of cultural\, racial\, and sexual freedom. The Sardines’ latest recording is C’est La Vie \, a bilingual affair of vintage jazz standards and originals. The title track\, a Bossa nova original in French\, is a timely ode to fully living each moment\, even when you don’t know what the next will bring. The Hot Sardines continue to tour\, taking Banned Jazz on the road starting in 2025\, and continuing into 2026. Learn more about the band on their official website. This show is part of the Weinberg Center’s Centennial Events\, celebrating 100 years of entertainment in our historic building. The Weinberg Center\, located in the heart of Downtown Frederick\, MD\, offers a historic backdrop and timeless atmosphere for a meaningful entertainment experience.
-URL:https://www.visitfrederick.org/event/the-hot-sardines/25956/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventthesubmensaswspecialguestspunkshow26217-20261009@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:The SUBMENSAS w/ special guests PUNK Show
-DESCRIPTION:The longest-running punk act in the DMV comes to Rockwell Brewery w/special guests on October 9th\, 2026 @ 7:30PM Formed in 1983 out of DMV’s underground punk circuit\, The Submensas have spent decades evolving without ever fully disappearing. Now\, with a steady stream of new releases that draw from influences as diverse as funk to dark country\, The Submensas have found a new relevance in the world of today. The band’s line-up itself is a collision of 1980s underground veterans: drummer Darryl Dardenne (Pony Fight)\, bassist Vernon Hawkins (Sex on TV) and Jim Mcpherson (The Platinum Slugs)\, all with roots in the band’s original era. Damon Norko\, who fronts the band\, is also a local English teacher. Says S.D. Price in the Frederick News Post: “Their cross-generational appeal has become one of the most unexpected elements of the band’s current run. What began as a product of the 1980s underground has found new life with younger listeners\, while still resonating with those who were there the first time around. It is a dynamic that speaks to something deeper than nostalgia. At its core\, The Submensas’ music is rooted in themes that have not gone away: frustration\, fairness\, and the search for meaning in systems that often feel stacked against the individual. \\
-URL:https://www.visitfrederick.org/event/the-submensas-w-special-guests-punk-show/26217/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261009@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:The YAAC Show
-DESCRIPTION:The YAAC Show is every other Friday. A LIVE talk show produced by the creative team at the Y Arts Center. Join us for an evening of inspiration\, entertainment\, and community connection—powered by the YMCA’s Arts and Humanities initiatives. Every other Friday at 6:30pm. $10 at the door. Free for YMCA Members. Check IG @y_arts_center for interview and musical guest information.
-URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261010@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -186,7 +87,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent20thanniversaryparty26polishheritagecelebration26159-20261010@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:20th Anniversary Party & Polish Heritage Celebration
@@ -195,7 +96,7 @@ URL:https://www.visitfrederick.org/event/20th-anniversary-party-%26-polish-herit
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventaveryspookypaintnsip26202-20261010@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:A Very Spooky Paint 'n Sip
@@ -204,7 +105,7 @@ URL:https://www.visitfrederick.org/event/a-very-spooky-paint-n-sip/26202/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventalexandertheprettygoodatmetcomedynight26097-20261010@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:Alexander the Pretty Good at MET Comedy Night
@@ -213,7 +114,7 @@ URL:https://www.visitfrederick.org/event/alexander-the-pretty-good-at-met-comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventalleynights23158-20261010@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:Alley Nights
@@ -222,7 +123,7 @@ URL:https://www.visitfrederick.org/event/alley-nights/23158/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventautumnreggaewineandmusicfestival20832-20261010@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261012
 SUMMARY:Autumn Reggae Wine and Music Festival
@@ -231,7 +132,7 @@ URL:https://www.visitfrederick.org/event/autumn-reggae-wine-and-music-festival/2
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventbloomsandbovines7chighlandcows2bpumpkinfloralcenterpieceevent25730-20261010@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261026
 SUMMARY:Blooms and Bovines | Highland Cows + Pumpkin Floral Centerpiece Event
@@ -240,7 +141,7 @@ URL:https://www.visitfrederick.org/event/blooms-and-bovines-%7c-highland-cows-%2
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcatoctincolorfest7331-20261010@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261012
 SUMMARY:Catoctin Colorfest
@@ -249,7 +150,7 @@ URL:https://www.visitfrederick.org/event/catoctin-colorfest/7331/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchannelzero26201-20261010@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:Channel Zero
@@ -258,7 +159,7 @@ URL:https://www.visitfrederick.org/event/channel-zero/26201/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventdavidsedaris25975-20261010@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:David Sedaris
@@ -267,7 +168,7 @@ URL:https://www.visitfrederick.org/event/david-sedaris/25975/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventexpressivecharcoalforbeginners26215-20261010@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:Expressive Charcoal for Beginners
@@ -275,8 +176,53 @@ DESCRIPTION:Step into the studio for an immersive\, hands-on exploration of char
 URL:https://www.visitfrederick.org/event/expressive-charcoal-for-beginners/26215/
 END:VEVENT
 BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventfallmushroomforaywithsamfeld5boffsite5d25997-20261010@visitfrederick
+DTSTAMP:20261010T155031Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Fall Mushroom Foray with Sam Feld [OFFSITE]
+DESCRIPTION:PLEASE NOTE: THIS EVENT IS OFFSITE\, NOT LOCATED AT FOX HAVEN. REGISTRANTS WILL RECEIVE THE EVENT ADDRESS A WEEK BEFORE CLASS. This beginner’s workshop will introduce you to the easy to identify\, edible species of mushrooms that can be found in the Maryland area during the autumn months. The class will begin with a talk about the ethics and safety of wild foraging mushrooms. We will also talk about how mushrooms grow\, what their characteristics are\, and how to spot the best habitats to increase your chances of success. This class is hands on\, so come prepared to walk in the woods. We will likely be off the beaten path\, so good woods shoes/boots are a must. Please bring some water\, a knife\, a collecting basket (or cardboard box)\, a camera and/or notebook\, tick protection\, and paper lunch bags to separate your finds. At the end of class\, we will come back together and talk about how to verify our finds. How to use field guides\, dichotomous keys\, and online resources will be discussed. We will then talk about how to prepare and preserve different species and celebrate all that we have learned by cooking up some of our finds and enjoying the gifts of the woods. The instructor recommends Mushrooms of West Virginia and the Central Appalachians by William C. Roody as an excellent beginning field guide. Samantha Feld is the owner/operator of a small mushroom growing and foraging business in Baltimore called The Mushroomworks. Her fascination with mycology began when her backyard sprouted a gorgeous garden of crazy and colorful mushrooms from the decaying roots of an old maple tree. Upon learning that they were a cousin of the powerfully medicinal Reishi\, she immersed herself\, and began researching as much as she could about the intense\, complicated\, and often misunderstood world of mycology. This led her back to the woods\, reawakening a long dormant\, but deep love of the forest. Sam is an avid forager and gardener\, and is becoming increasingly interested in the medicinal properties of mushrooms and plants. She has taught mushroom focused foraging\, cultivation\, dyeing\, and illustration classes in the Mid-Atlantic area. When not out in nature\, she can be found in the woods\, puttering around her row house homestead\, or teaching art in Baltimore City Schools.
+URL:https://www.visitfrederick.org/event/fall-mushroom-foray-with-sam-feld-%5boffsite%5d/25997/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventfieldfreshfarmersmarket23988-20261010@visitfrederick
+DTSTAMP:20261010T155031Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Field Fresh Farmers Market
+DESCRIPTION:Come visit the largest producer-only farmers market in Frederick County\, MD\, featuring over 30 local vendors! We're open every Saturday from April 25 to November 21\, 2026\, 9 am - 1 pm. See you there\, at the corner of E. Patrick St. & Franklin St.!
+URL:https://www.visitfrederick.org/event/field-fresh-farmers-market/23988/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventfrederickcountyfire26rescueopenhouse24239-20261010@visitfrederick
+DTSTAMP:20261010T155031Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Frederick County Fire & Rescue Open House
+DESCRIPTION:Come spend the day getting to know your local firefighters and EMTs! Tour emergency vehicles\, watch live demos\, learn to save a life\, enjoy family-friendly activities\, visit with some of our other public safety partners\, and more!
+URL:https://www.visitfrederick.org/event/frederick-county-fire-%26-rescue-open-house/24239/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventfrederickfarmersmarket25396-20261010@visitfrederick
+DTSTAMP:20261010T155031Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Frederick Farmers Market
+DESCRIPTION:Frederick Farmer’s Market welcomes you every Saturday from 10AM to 1PM\, running from April 25 through November 21\, 2026. It's a delightful producer-only market where you can enjoy fresh\, local goodness. Cross streets: Butterfly Lane & Himes Ave.
+URL:https://www.visitfrederick.org/event/frederick-farmers-market/25396/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventfrederickski26boardswapsale21621-20261010@visitfrederick
+DTSTAMP:20261010T155031Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+SUMMARY:Frederick Ski & Board Swap/Sale
+DESCRIPTION:Maryland's Premier Ski & Snowboard Consignment Sale is Back! Winter is coming! Whether you're shopping for your first day on the slopes or replacing your entire setup\, you'll find incredible bargains at the Frederick Ski Swap. Shop the Region's Largest Ski & Snowboard Consignment Sale. Browse thousands of new\, gently used\, and lease-return skis\, snowboards\, apparel\, and accessories from outdoor retailers and individual consignors throughout Maryland\, Pennsylvania\, and Washington\, D.C. What You'll Find: Equipment • Skis • Snowboards • Boots • Bindings • Poles Apparel • Ski Jackets • Snow Pants • Base Layers • Gloves • Snow Boots Accessories • Helmets • Goggles • Bags & Packs • And much more! Top Brands: The North Face • Patagonia • Burton • Oakley • Helly Hansen • Spyder • Obermeyer • Marmot • 686 • Under Armour • UGG • Sorel and many more! Sizes Available: Toddler 4T through Adult 2XL. Wear leggings or shorts under your clothes and bring socks so you can easily try on boots and outerwear before you buy. Payment Options: We accept: • Cash • Visa • MasterCard • Venmo A 3% processing fee applies to credit card and Venmo purchases. Please note\, for everyone's safety and convenience: • No food or drinks inside the shopping area. • No personal ski or snowboard equipment may be brought into the building while shopping.
+URL:https://www.visitfrederick.org/event/frederick-ski-%26-board-swap-sale/21621/
+END:VEVENT
+BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventghosttoursofhistoricfrederick25000-20261010@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:Ghost Tours of Historic Frederick
@@ -284,8 +230,44 @@ DESCRIPTION:Take a Remarkable Journey through Frederick’s Gruesome and Bloody 
 URL:https://www.visitfrederick.org/event/ghost-tours-of-historic-frederick/25000/
 END:VEVENT
 BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventhushtripliveinconcert40rockwellbrewery1010268pm26083-20261010@visitfrederick
+DTSTAMP:20261010T155031Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:HUSH TRIP Live in Concert @ Rockwell Brewery 10/10/26 8PM!
+DESCRIPTION:Hush Trip is coming back to THE ROCK for a night jam packed with some of the most iconic and hard driving songs of the past 4 decades. If you've never seen these guys\, Hush Trip is a five-piece rock band delivering a wide-ranging set of popular covers with a deep respect for the authentic sound and spirit of the originals. Their crowd-favorite selections pay tribute to artists like Foo Fighters\, Van Halen\, AC/DC\, Green Day\, Blur\, Lit\, Blink-182\, Audioslave\, ZZ Top\, R.E.M.\, U2\, Incubus\, and many more. With tight musicianship and well-crafted set-lists\, Hush Trip delivers a polished\, memorable\, and engaging show that connects with audiences of all ages. Get ready to enjoy the songs you know by heart and the ones you forgot you loved. Hush Trip is David Truitt (Lead Vocals / Keyboard)\, Steve Davis (Guitar / Engineer)\, Rob Shenk (Guitar)\, Matt McNiesh (Bass / Vocals) & Adam Mason (Drums). Grab all of your favorite friends\, spread the word and don't miss the fun!
+URL:https://www.visitfrederick.org/event/hush-trip-live-in-concert-%40-rockwell-brewery-10-10-26-8pm!/26083/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventhauntedhistoryatthenationalmuseumofcivilwarmedicine15484-20261010@visitfrederick
+DTSTAMP:20261010T155031Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261026
+SUMMARY:Haunted History at The National Museum of Civil War Medicine
+DESCRIPTION:Starting on October 10th\, tour the most haunted building in Frederick – the National Museum of Civil War Medicine. Explore the building’s history amidst the darkened galleries and offices. On the tour\, staff and volunteers will share stories of Civil War embalmers\, the building’s most infamous tenants\, and their first-hand accounts of paranormal activity that have given the building its spooky reputation. In addition to a trip through the museum galleries\, the tour provides exclusive access to the third floor where numerous sightings have occurred. 48 East Patrick Street was built in the 1830s. Before it became the National Museum of Civil War Medicine\, the building was a furniture shop and a site of Civil War embalming\, as well as home to many Frederick residents and their businesses. The past still echoes through the halls of the building. The haunting sights\, sounds\, and sensations from the building have been reported for decades by the people who lived and worked in the building over many years. Join us to hear our staff and volunteers’ stories first-hand. You are invited to bring your own cameras and ghost-finding apps – who knows what you’ll capture! Flash photography and LIVE streaming are prohibited. Tours will be given on October 10\, 17\, 24\, and 25\, from 5:30 p.m.-6:30 p.m. This year we are offering two special Halloween tours on Saturday\, October 31\, from 5:30 p.m.-8:00 p.m. and 8:00 p.m.-10:30 p.m. During these special Halloween night tours\, you’ll have additional time to tour the galleries without a guide.
+URL:https://www.visitfrederick.org/event/haunted-history-at-the-national-museum-of-civil-war-medicine/15484/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventhealthhive26179-20261010@visitfrederick
+DTSTAMP:20261010T155031Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Health Hive
+DESCRIPTION:The Health Hive is a collective space for all things health and wellness\, focused on promoting Frederick/MD local small businesses. Here\, we come together to collaborate with people across all facets of human health. From wellness practitioners\, exercise studios and whole foods\, to regenerative farmers and conscious product and service based companies\, the Health Hive is a place for the community to support each other\, learn\, grow\, and gain access to wellness resources they may not have known was available in Frederick. WellNest is a woman-owned and operated holistic women’s health practice\, with a focus on bio-individuality\, functional nutrition\, cycle syncing\, and fertility coaching. Co-host FITCI is a woman-led 501(c)(3) nonprofit\, and has been Maryland’s #1 business incubator for 3 consecutive years\, helping startup companies grow\, scale\, and thrive. Together\, we are aiming to connect the businesses dedicated to improving the wellness of our community\, to the community itself. The 3rd annual Health Hive is a FREE admission\, family friendly\, fun event to shop\, learn\, and support local. There will be music\, coffee\, juice\, raffle prizes\, and more to enjoy!
+URL:https://www.visitfrederick.org/event/health-hive/26179/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventinsidethefarmsofmonocacy24722-20261010@visitfrederick
+DTSTAMP:20261010T155031Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Inside the Farms of Monocacy
+DESCRIPTION:The Best and Worthington farms are an integral part of the history of both the Civil War and the Battle of Monocacy. Join rangers and volunteers to learn about the people who lived\, worked\, and fought on the farms. Visitors will also get a rare opportunity to tour the first floor of these historic structures. Guest should meet at Best Farm\, tour stop #1 on Monocacy National Battlefield at 9am on October 10\, 2026. Following the tour of Best Farm and its grounds\, guests will be asked to meet at Worthington Farm\, tour stop #2\, by 11am for a tour of Worthington Farm. Space is limited at both farms so please contact Monocacy National Battlefield via their email\, mono_mail@nps.gov or by calling 301-662-3515 to make your reservation.
+URL:https://www.visitfrederick.org/event/inside-the-farms-of-monocacy/24722/
+END:VEVENT
+BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventjumbospumpkinpatchfallfestival11483-20261010@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:Jumbo's Pumpkin Patch Fall Festival
@@ -294,7 +276,7 @@ URL:https://www.visitfrederick.org/event/jumbos-pumpkin-patch-fall-festival/1148
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventjumbospumpkinpatchfallfestival11483-20261011@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:Jumbo's Pumpkin Patch Fall Festival
@@ -302,17 +284,8 @@ DESCRIPTION:Celebrate the season with a full day of festive fun for all ages at 
 URL:https://www.visitfrederick.org/event/jumbos-pumpkin-patch-fall-festival/11483/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261014@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:Frederick City Parks & Rec: Senior Yoga
-DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long holds are emphasized in this class. Modifications are provided and welcome during your practice. All ages are welcome.
-URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261015@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -321,7 +294,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261016@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -329,26 +302,8 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventboardgamenight25654-20261016@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:Board Game Night
-DESCRIPTION:Looking for a fun way to kick off your weekend? Join us every Friday from 5 PM–9 PM for Game Night! Bring your favorite board game\, card game\, or tabletop game\, or choose from our growing collection of games available to play. Whether you’re a serious strategist\, a casual player\, or just looking to meet new people\, everyone is welcome. As a bonus\, all Game Night participants receive 10% off glasses during the event.
-URL:https://www.visitfrederick.org/event/board-game-night/25654/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261016@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:Frederick City Parks & Rec: Senior Yoga
-DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long holds are emphasized in this class. Modifications are provided and welcome during your practice. All ages are welcome.
-URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventghosttoursofhistoricfrederick25000-20261016@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Ghost Tours of Historic Frederick
@@ -356,17 +311,8 @@ DESCRIPTION:Take a Remarkable Journey through Frederick’s Gruesome and Bloody 
 URL:https://www.visitfrederick.org/event/ghost-tours-of-historic-frederick/25000/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261016@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:Guided Exhibit Tours
-DESCRIPTION:Experience the Museum of Frederick County History through a guided tour. Join the staff and volunteers who curated our 2026 exhibits as they explore our various galleries. Each tour is a unique experience based on the interests of the group and what special things staff wants to highlight that week. Descriptions of each week's tour can be found on the Heritage Frederick website\, which includes accessibility notes. Tours are included with admission!
-URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventjumbospumpkinpatchfallfestival11483-20261016@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Jumbo's Pumpkin Patch Fall Festival
@@ -374,17 +320,8 @@ DESCRIPTION:Celebrate the season with a full day of festive fun for all ages at 
 URL:https://www.visitfrederick.org/event/jumbos-pumpkin-patch-fall-festival/11483/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261016@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:The YAAC Show
-DESCRIPTION:The YAAC Show is every other Friday. A LIVE talk show produced by the creative team at the Y Arts Center. Join us for an evening of inspiration\, entertainment\, and community connection—powered by the YMCA’s Arts and Humanities initiatives. Every other Friday at 6:30pm. $10 at the door. Free for YMCA Members. Check IG @y_arts_center for interview and musical guest information.
-URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261017@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -393,7 +330,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventalleynights23158-20261017@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Alley Nights
@@ -401,8 +338,26 @@ DESCRIPTION:Welcome to Alley Nights — your Saturday night destination in Downt
 URL:https://www.visitfrederick.org/event/alley-nights/23158/
 END:VEVENT
 BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventfieldfreshfarmersmarket23988-20261017@visitfrederick
+DTSTAMP:20261010T155031Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Field Fresh Farmers Market
+DESCRIPTION:Come visit the largest producer-only farmers market in Frederick County\, MD\, featuring over 30 local vendors! We're open every Saturday from April 25 to November 21\, 2026\, 9 am - 1 pm. See you there\, at the corner of E. Patrick St. & Franklin St.!
+URL:https://www.visitfrederick.org/event/field-fresh-farmers-market/23988/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventfrederickfarmersmarket25396-20261017@visitfrederick
+DTSTAMP:20261010T155031Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Frederick Farmers Market
+DESCRIPTION:Frederick Farmer’s Market welcomes you every Saturday from 10AM to 1PM\, running from April 25 through November 21\, 2026. It's a delightful producer-only market where you can enjoy fresh\, local goodness. Cross streets: Butterfly Lane & Himes Ave.
+URL:https://www.visitfrederick.org/event/frederick-farmers-market/25396/
+END:VEVENT
+BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventghosttoursofhistoricfrederick25000-20261017@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Ghost Tours of Historic Frederick
@@ -411,7 +366,7 @@ URL:https://www.visitfrederick.org/event/ghost-tours-of-historic-frederick/25000
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventjumbospumpkinpatchfallfestival11483-20261017@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Jumbo's Pumpkin Patch Fall Festival
@@ -420,7 +375,7 @@ URL:https://www.visitfrederick.org/event/jumbos-pumpkin-patch-fall-festival/1148
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventjumbospumpkinpatchfallfestival11483-20261018@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Jumbo's Pumpkin Patch Fall Festival
@@ -428,17 +383,8 @@ DESCRIPTION:Celebrate the season with a full day of festive fun for all ages at 
 URL:https://www.visitfrederick.org/event/jumbos-pumpkin-patch-fall-festival/11483/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261021@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:Frederick City Parks & Rec: Senior Yoga
-DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long holds are emphasized in this class. Modifications are provided and welcome during your practice. All ages are welcome.
-URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261022@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -447,7 +393,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261023@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -455,26 +401,8 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventboardgamenight25654-20261023@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:Board Game Night
-DESCRIPTION:Looking for a fun way to kick off your weekend? Join us every Friday from 5 PM–9 PM for Game Night! Bring your favorite board game\, card game\, or tabletop game\, or choose from our growing collection of games available to play. Whether you’re a serious strategist\, a casual player\, or just looking to meet new people\, everyone is welcome. As a bonus\, all Game Night participants receive 10% off glasses during the event.
-URL:https://www.visitfrederick.org/event/board-game-night/25654/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261023@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:Frederick City Parks & Rec: Senior Yoga
-DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long holds are emphasized in this class. Modifications are provided and welcome during your practice. All ages are welcome.
-URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventghosttoursofhistoricfrederick25000-20261023@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Ghost Tours of Historic Frederick
@@ -482,17 +410,8 @@ DESCRIPTION:Take a Remarkable Journey through Frederick’s Gruesome and Bloody 
 URL:https://www.visitfrederick.org/event/ghost-tours-of-historic-frederick/25000/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261023@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:Guided Exhibit Tours
-DESCRIPTION:Experience the Museum of Frederick County History through a guided tour. Join the staff and volunteers who curated our 2026 exhibits as they explore our various galleries. Each tour is a unique experience based on the interests of the group and what special things staff wants to highlight that week. Descriptions of each week's tour can be found on the Heritage Frederick website\, which includes accessibility notes. Tours are included with admission!
-URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventjumbospumpkinpatchfallfestival11483-20261023@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Jumbo's Pumpkin Patch Fall Festival
@@ -500,17 +419,8 @@ DESCRIPTION:Celebrate the season with a full day of festive fun for all ages at 
 URL:https://www.visitfrederick.org/event/jumbos-pumpkin-patch-fall-festival/11483/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261023@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:The YAAC Show
-DESCRIPTION:The YAAC Show is every other Friday. A LIVE talk show produced by the creative team at the Y Arts Center. Join us for an evening of inspiration\, entertainment\, and community connection—powered by the YMCA’s Arts and Humanities initiatives. Every other Friday at 6:30pm. $10 at the door. Free for YMCA Members. Check IG @y_arts_center for interview and musical guest information.
-URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261024@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -519,7 +429,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventalleynights23158-20261024@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Alley Nights
@@ -527,8 +437,26 @@ DESCRIPTION:Welcome to Alley Nights — your Saturday night destination in Downt
 URL:https://www.visitfrederick.org/event/alley-nights/23158/
 END:VEVENT
 BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventfieldfreshfarmersmarket23988-20261024@visitfrederick
+DTSTAMP:20261010T155031Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Field Fresh Farmers Market
+DESCRIPTION:Come visit the largest producer-only farmers market in Frederick County\, MD\, featuring over 30 local vendors! We're open every Saturday from April 25 to November 21\, 2026\, 9 am - 1 pm. See you there\, at the corner of E. Patrick St. & Franklin St.!
+URL:https://www.visitfrederick.org/event/field-fresh-farmers-market/23988/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventfrederickfarmersmarket25396-20261024@visitfrederick
+DTSTAMP:20261010T155031Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Frederick Farmers Market
+DESCRIPTION:Frederick Farmer’s Market welcomes you every Saturday from 10AM to 1PM\, running from April 25 through November 21\, 2026. It's a delightful producer-only market where you can enjoy fresh\, local goodness. Cross streets: Butterfly Lane & Himes Ave.
+URL:https://www.visitfrederick.org/event/frederick-farmers-market/25396/
+END:VEVENT
+BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventghosttoursofhistoricfrederick25000-20261024@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Ghost Tours of Historic Frederick
@@ -537,7 +465,7 @@ URL:https://www.visitfrederick.org/event/ghost-tours-of-historic-frederick/25000
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventjumbospumpkinpatchfallfestival11483-20261024@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Jumbo's Pumpkin Patch Fall Festival
@@ -546,7 +474,7 @@ URL:https://www.visitfrederick.org/event/jumbos-pumpkin-patch-fall-festival/1148
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventjumbospumpkinpatchfallfestival11483-20261025@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:Jumbo's Pumpkin Patch Fall Festival
@@ -554,17 +482,8 @@ DESCRIPTION:Celebrate the season with a full day of festive fun for all ages at 
 URL:https://www.visitfrederick.org/event/jumbos-pumpkin-patch-fall-festival/11483/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261028@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-SUMMARY:Frederick City Parks & Rec: Senior Yoga
-DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long holds are emphasized in this class. Modifications are provided and welcome during your practice. All ages are welcome.
-URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261029@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -573,7 +492,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261030@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -581,35 +500,8 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventboardgamenight25654-20261030@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:Board Game Night
-DESCRIPTION:Looking for a fun way to kick off your weekend? Join us every Friday from 5 PM–9 PM for Game Night! Bring your favorite board game\, card game\, or tabletop game\, or choose from our growing collection of games available to play. Whether you’re a serious strategist\, a casual player\, or just looking to meet new people\, everyone is welcome. As a bonus\, all Game Night participants receive 10% off glasses during the event.
-URL:https://www.visitfrederick.org/event/board-game-night/25654/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261030@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:Frederick City Parks & Rec: Senior Yoga
-DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long holds are emphasized in this class. Modifications are provided and welcome during your practice. All ages are welcome.
-URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261030@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:Guided Exhibit Tours
-DESCRIPTION:Experience the Museum of Frederick County History through a guided tour. Join the staff and volunteers who curated our 2026 exhibits as they explore our various galleries. Each tour is a unique experience based on the interests of the group and what special things staff wants to highlight that week. Descriptions of each week's tour can be found on the Heritage Frederick website\, which includes accessibility notes. Tours are included with admission!
-URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventjumbospumpkinpatchfallfestival11483-20261030@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Jumbo's Pumpkin Patch Fall Festival
@@ -617,17 +509,8 @@ DESCRIPTION:Celebrate the season with a full day of festive fun for all ages at 
 URL:https://www.visitfrederick.org/event/jumbos-pumpkin-patch-fall-festival/11483/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261030@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:The YAAC Show
-DESCRIPTION:The YAAC Show is every other Friday. A LIVE talk show produced by the creative team at the Y Arts Center. Join us for an evening of inspiration\, entertainment\, and community connection—powered by the YMCA’s Arts and Humanities initiatives. Every other Friday at 6:30pm. $10 at the door. Free for YMCA Members. Check IG @y_arts_center for interview and musical guest information.
-URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261031@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -636,7 +519,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventalleynights23158-20261031@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Alley Nights
@@ -644,8 +527,26 @@ DESCRIPTION:Welcome to Alley Nights — your Saturday night destination in Downt
 URL:https://www.visitfrederick.org/event/alley-nights/23158/
 END:VEVENT
 BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventfieldfreshfarmersmarket23988-20261031@visitfrederick
+DTSTAMP:20261010T155031Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Field Fresh Farmers Market
+DESCRIPTION:Come visit the largest producer-only farmers market in Frederick County\, MD\, featuring over 30 local vendors! We're open every Saturday from April 25 to November 21\, 2026\, 9 am - 1 pm. See you there\, at the corner of E. Patrick St. & Franklin St.!
+URL:https://www.visitfrederick.org/event/field-fresh-farmers-market/23988/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventfrederickfarmersmarket25396-20261031@visitfrederick
+DTSTAMP:20261010T155031Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Frederick Farmers Market
+DESCRIPTION:Frederick Farmer’s Market welcomes you every Saturday from 10AM to 1PM\, running from April 25 through November 21\, 2026. It's a delightful producer-only market where you can enjoy fresh\, local goodness. Cross streets: Butterfly Lane & Himes Ave.
+URL:https://www.visitfrederick.org/event/frederick-farmers-market/25396/
+END:VEVENT
+BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventjumbospumpkinpatchfallfestival11483-20261031@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Jumbo's Pumpkin Patch Fall Festival
@@ -653,17 +554,8 @@ DESCRIPTION:Celebrate the season with a full day of festive fun for all ages at 
 URL:https://www.visitfrederick.org/event/jumbos-pumpkin-patch-fall-festival/11483/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261104@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-SUMMARY:Frederick City Parks & Rec: Senior Yoga
-DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long holds are emphasized in this class. Modifications are provided and welcome during your practice. All ages are welcome.
-URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261105@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -672,7 +564,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261106@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -680,35 +572,8 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261106@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-SUMMARY:Frederick City Parks & Rec: Senior Yoga
-DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long holds are emphasized in this class. Modifications are provided and welcome during your practice. All ages are welcome.
-URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261106@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-SUMMARY:Guided Exhibit Tours
-DESCRIPTION:Experience the Museum of Frederick County History through a guided tour. Join the staff and volunteers who curated our 2026 exhibits as they explore our various galleries. Each tour is a unique experience based on the interests of the group and what special things staff wants to highlight that week. Descriptions of each week's tour can be found on the Heritage Frederick website\, which includes accessibility notes. Tours are included with admission!
-URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261106@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-SUMMARY:The YAAC Show
-DESCRIPTION:The YAAC Show is every other Friday. A LIVE talk show produced by the creative team at the Y Arts Center. Join us for an evening of inspiration\, entertainment\, and community connection—powered by the YMCA’s Arts and Humanities initiatives. Every other Friday at 6:30pm. $10 at the door. Free for YMCA Members. Check IG @y_arts_center for interview and musical guest information.
-URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261107@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -716,17 +581,26 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261111@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:Frederick City Parks & Rec: Senior Yoga
-DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long holds are emphasized in this class. Modifications are provided and welcome during your practice. All ages are welcome.
-URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
+UID:httpswwwvisitfrederickorgeventfieldfreshfarmersmarket23988-20261107@visitfrederick
+DTSTAMP:20261010T155031Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Field Fresh Farmers Market
+DESCRIPTION:Come visit the largest producer-only farmers market in Frederick County\, MD\, featuring over 30 local vendors! We're open every Saturday from April 25 to November 21\, 2026\, 9 am - 1 pm. See you there\, at the corner of E. Patrick St. & Franklin St.!
+URL:https://www.visitfrederick.org/event/field-fresh-farmers-market/23988/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventfrederickfarmersmarket25396-20261107@visitfrederick
+DTSTAMP:20261010T155031Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Frederick Farmers Market
+DESCRIPTION:Frederick Farmer’s Market welcomes you every Saturday from 10AM to 1PM\, running from April 25 through November 21\, 2026. It's a delightful producer-only market where you can enjoy fresh\, local goodness. Cross streets: Butterfly Lane & Himes Ave.
+URL:https://www.visitfrederick.org/event/frederick-farmers-market/25396/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261112@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -735,7 +609,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261113@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -743,35 +617,8 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261113@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:Frederick City Parks & Rec: Senior Yoga
-DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long holds are emphasized in this class. Modifications are provided and welcome during your practice. All ages are welcome.
-URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261113@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:Guided Exhibit Tours
-DESCRIPTION:Experience the Museum of Frederick County History through a guided tour. Join the staff and volunteers who curated our 2026 exhibits as they explore our various galleries. Each tour is a unique experience based on the interests of the group and what special things staff wants to highlight that week. Descriptions of each week's tour can be found on the Heritage Frederick website\, which includes accessibility notes. Tours are included with admission!
-URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261113@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:The YAAC Show
-DESCRIPTION:The YAAC Show is every other Friday. A LIVE talk show produced by the creative team at the Y Arts Center. Join us for an evening of inspiration\, entertainment\, and community connection—powered by the YMCA’s Arts and Humanities initiatives. Every other Friday at 6:30pm. $10 at the door. Free for YMCA Members. Check IG @y_arts_center for interview and musical guest information.
-URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261114@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -779,17 +626,26 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261118@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Frederick City Parks & Rec: Senior Yoga
-DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long holds are emphasized in this class. Modifications are provided and welcome during your practice. All ages are welcome.
-URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
+UID:httpswwwvisitfrederickorgeventfieldfreshfarmersmarket23988-20261114@visitfrederick
+DTSTAMP:20261010T155031Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Field Fresh Farmers Market
+DESCRIPTION:Come visit the largest producer-only farmers market in Frederick County\, MD\, featuring over 30 local vendors! We're open every Saturday from April 25 to November 21\, 2026\, 9 am - 1 pm. See you there\, at the corner of E. Patrick St. & Franklin St.!
+URL:https://www.visitfrederick.org/event/field-fresh-farmers-market/23988/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventfrederickfarmersmarket25396-20261114@visitfrederick
+DTSTAMP:20261010T155031Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Frederick Farmers Market
+DESCRIPTION:Frederick Farmer’s Market welcomes you every Saturday from 10AM to 1PM\, running from April 25 through November 21\, 2026. It's a delightful producer-only market where you can enjoy fresh\, local goodness. Cross streets: Butterfly Lane & Himes Ave.
+URL:https://www.visitfrederick.org/event/frederick-farmers-market/25396/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261119@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -798,7 +654,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261120@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -806,35 +662,8 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261120@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:Frederick City Parks & Rec: Senior Yoga
-DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long holds are emphasized in this class. Modifications are provided and welcome during your practice. All ages are welcome.
-URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261120@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:Guided Exhibit Tours
-DESCRIPTION:Experience the Museum of Frederick County History through a guided tour. Join the staff and volunteers who curated our 2026 exhibits as they explore our various galleries. Each tour is a unique experience based on the interests of the group and what special things staff wants to highlight that week. Descriptions of each week's tour can be found on the Heritage Frederick website\, which includes accessibility notes. Tours are included with admission!
-URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261120@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:The YAAC Show
-DESCRIPTION:The YAAC Show is every other Friday. A LIVE talk show produced by the creative team at the Y Arts Center. Join us for an evening of inspiration\, entertainment\, and community connection—powered by the YMCA’s Arts and Humanities initiatives. Every other Friday at 6:30pm. $10 at the door. Free for YMCA Members. Check IG @y_arts_center for interview and musical guest information.
-URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261121@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -842,17 +671,26 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261125@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:Frederick City Parks & Rec: Senior Yoga
-DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long holds are emphasized in this class. Modifications are provided and welcome during your practice. All ages are welcome.
-URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
+UID:httpswwwvisitfrederickorgeventfieldfreshfarmersmarket23988-20261121@visitfrederick
+DTSTAMP:20261010T155031Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Field Fresh Farmers Market
+DESCRIPTION:Come visit the largest producer-only farmers market in Frederick County\, MD\, featuring over 30 local vendors! We're open every Saturday from April 25 to November 21\, 2026\, 9 am - 1 pm. See you there\, at the corner of E. Patrick St. & Franklin St.!
+URL:https://www.visitfrederick.org/event/field-fresh-farmers-market/23988/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventfrederickfarmersmarket25396-20261121@visitfrederick
+DTSTAMP:20261010T155031Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Frederick Farmers Market
+DESCRIPTION:Frederick Farmer’s Market welcomes you every Saturday from 10AM to 1PM\, running from April 25 through November 21\, 2026. It's a delightful producer-only market where you can enjoy fresh\, local goodness. Cross streets: Butterfly Lane & Himes Ave.
+URL:https://www.visitfrederick.org/event/frederick-farmers-market/25396/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261126@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -861,7 +699,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261127@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -869,35 +707,8 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261127@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-SUMMARY:Frederick City Parks & Rec: Senior Yoga
-DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long holds are emphasized in this class. Modifications are provided and welcome during your practice. All ages are welcome.
-URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261127@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-SUMMARY:Guided Exhibit Tours
-DESCRIPTION:Experience the Museum of Frederick County History through a guided tour. Join the staff and volunteers who curated our 2026 exhibits as they explore our various galleries. Each tour is a unique experience based on the interests of the group and what special things staff wants to highlight that week. Descriptions of each week's tour can be found on the Heritage Frederick website\, which includes accessibility notes. Tours are included with admission!
-URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261127@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-SUMMARY:The YAAC Show
-DESCRIPTION:The YAAC Show is every other Friday. A LIVE talk show produced by the creative team at the Y Arts Center. Join us for an evening of inspiration\, entertainment\, and community connection—powered by the YMCA’s Arts and Humanities initiatives. Every other Friday at 6:30pm. $10 at the door. Free for YMCA Members. Check IG @y_arts_center for interview and musical guest information.
-URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261128@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -905,17 +716,8 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261202@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:Frederick City Parks & Rec: Senior Yoga
-DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long holds are emphasized in this class. Modifications are provided and welcome during your practice. All ages are welcome.
-URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261203@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -924,7 +726,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261204@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -932,35 +734,8 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261204@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:Frederick City Parks & Rec: Senior Yoga
-DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long holds are emphasized in this class. Modifications are provided and welcome during your practice. All ages are welcome.
-URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261204@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:Guided Exhibit Tours
-DESCRIPTION:Experience the Museum of Frederick County History through a guided tour. Join the staff and volunteers who curated our 2026 exhibits as they explore our various galleries. Each tour is a unique experience based on the interests of the group and what special things staff wants to highlight that week. Descriptions of each week's tour can be found on the Heritage Frederick website\, which includes accessibility notes. Tours are included with admission!
-URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261204@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:The YAAC Show
-DESCRIPTION:The YAAC Show is every other Friday. A LIVE talk show produced by the creative team at the Y Arts Center. Join us for an evening of inspiration\, entertainment\, and community connection—powered by the YMCA’s Arts and Humanities initiatives. Every other Friday at 6:30pm. $10 at the door. Free for YMCA Members. Check IG @y_arts_center for interview and musical guest information.
-URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261205@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -968,17 +743,8 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261209@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
-SUMMARY:Frederick City Parks & Rec: Senior Yoga
-DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long holds are emphasized in this class. Modifications are provided and welcome during your practice. All ages are welcome.
-URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261210@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -987,7 +753,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261211@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -995,93 +761,12 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261211@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261212
-SUMMARY:Frederick City Parks & Rec: Senior Yoga
-DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long holds are emphasized in this class. Modifications are provided and welcome during your practice. All ages are welcome.
-URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261211@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261212
-SUMMARY:Guided Exhibit Tours
-DESCRIPTION:Experience the Museum of Frederick County History through a guided tour. Join the staff and volunteers who curated our 2026 exhibits as they explore our various galleries. Each tour is a unique experience based on the interests of the group and what special things staff wants to highlight that week. Descriptions of each week's tour can be found on the Heritage Frederick website\, which includes accessibility notes. Tours are included with admission!
-URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261211@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261212
-SUMMARY:The YAAC Show
-DESCRIPTION:The YAAC Show is every other Friday. A LIVE talk show produced by the creative team at the Y Arts Center. Join us for an evening of inspiration\, entertainment\, and community connection—powered by the YMCA’s Arts and Humanities initiatives. Every other Friday at 6:30pm. $10 at the door. Free for YMCA Members. Check IG @y_arts_center for interview and musical guest information.
-URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261212@visitfrederick
-DTSTAMP:20261009T165624Z
+DTSTAMP:20261010T155031Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:2026 Exhibits at Museum of Frederick County History
 DESCRIPTION:Take a deep dive into various topics that have defined Frederick's history\, as we celebrate America's 250th anniversary and our County's role in the Revolution. Featuring brand new exhibits: Cultivating Independence: Frederick in the Revolution Witnessing Revolution All Saints Street: Avenue to the History of Frederick and Its African American Community Growing Gold: A History of Frederick’s Goldfish Industry And returning favorites: Etchison Connections Timeless Toys 24 E Church Street Decorative Arts See our all new and renovated exhibits\, March 7\,2026 through December 12\, 2026. Buy tickets here.
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261216@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
-SUMMARY:Frederick City Parks & Rec: Senior Yoga
-DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long holds are emphasized in this class. Modifications are provided and welcome during your practice. All ages are welcome.
-URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261218@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261218
-DTEND;VALUE=DATE:20261219
-SUMMARY:Frederick City Parks & Rec: Senior Yoga
-DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long holds are emphasized in this class. Modifications are provided and welcome during your practice. All ages are welcome.
-URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261218@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261218
-DTEND;VALUE=DATE:20261219
-SUMMARY:The YAAC Show
-DESCRIPTION:The YAAC Show is every other Friday. A LIVE talk show produced by the creative team at the Y Arts Center. Join us for an evening of inspiration\, entertainment\, and community connection—powered by the YMCA’s Arts and Humanities initiatives. Every other Friday at 6:30pm. $10 at the door. Free for YMCA Members. Check IG @y_arts_center for interview and musical guest information.
-URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261223@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261223
-DTEND;VALUE=DATE:20261224
-SUMMARY:Frederick City Parks & Rec: Senior Yoga
-DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long holds are emphasized in this class. Modifications are provided and welcome during your practice. All ages are welcome.
-URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261225@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261225
-DTEND;VALUE=DATE:20261226
-SUMMARY:Frederick City Parks & Rec: Senior Yoga
-DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long holds are emphasized in this class. Modifications are provided and welcome during your practice. All ages are welcome.
-URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261230@visitfrederick
-DTSTAMP:20261009T165624Z
-DTSTART;VALUE=DATE:20261230
-DTEND;VALUE=DATE:20261231
-SUMMARY:Frederick City Parks & Rec: Senior Yoga
-DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long holds are emphasized in this class. Modifications are provided and welcome during your practice. All ages are welcome.
-URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
 END:VEVENT
 END:VCALENDAR
