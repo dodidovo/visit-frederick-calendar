@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Visit Frederick Events
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventaarchwaystothepast3aafricanamericanhistorybustour24104-20260523@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20261025
 SUMMARY:AARCHways to the Past: African American History Bus Tour
@@ -14,8 +14,17 @@ DESCRIPTION:Join us for a powerful and enlightening one hour journey aboard our 
 URL:https://www.visitfrederick.org/event/aarchways-to-the-past%3a-african-american-history-bus-tour/24104/
 END:VEVENT
 BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventafricanamericanhistorywalkingtour15513-20260523@visitfrederick
+DTSTAMP:20261023T145227Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20261025
+SUMMARY:African American History Walking Tour
+DESCRIPTION:Step into history with the AARCH Society Walking Tour! Led by tour guides from Frederick's Black Community who share first hand experiences and stories. Join us as we uncover the rich African American history\, stories\, landmarks\, and legacies that helped shape our community. Bring your walking shoes and experience Frederick through a powerful new authentic lens.
+URL:https://www.visitfrederick.org/event/african-american-history-walking-tour/15513/
+END:VEVENT
+BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfallfunfestivalatgaverfarm20763-20260904@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20261102
 SUMMARY:Fall Fun Festival at Gaver Farm
@@ -24,7 +33,7 @@ URL:https://www.visitfrederick.org/event/fall-fun-festival-at-gaver-farm/20763/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsummersfarmfallfestival12916-20260926@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20261102
 SUMMARY:Summers Farm Fall Festival
@@ -33,7 +42,7 @@ URL:https://www.visitfrederick.org/event/summers-farm-fall-festival/12916/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpumpkinpatchatmaynes24117-20261001@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261101
 SUMMARY:Pumpkin Patch At Mayne's
@@ -42,7 +51,7 @@ URL:https://www.visitfrederick.org/event/pumpkin-patch-at-maynes/24117/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventbackfromthedeadcemeterywalk8942-20261009@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261026
 SUMMARY:Back from the Dead Cemetery Walk
@@ -51,7 +60,7 @@ URL:https://www.visitfrederick.org/event/back-from-the-dead-cemetery-walk/8942/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventlegends26lore26224-20261009@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261031
 SUMMARY:Legends & Lore
@@ -60,7 +69,7 @@ URL:https://www.visitfrederick.org/event/legends-%26-lore/26224/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventbloomsandbovines7chighlandcows2bpumpkinfloralcenterpieceevent25730-20261010@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261026
 SUMMARY:Blooms and Bovines | Highland Cows + Pumpkin Floral Centerpiece Event
@@ -69,7 +78,7 @@ URL:https://www.visitfrederick.org/event/blooms-and-bovines-%7c-highland-cows-%2
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventtrailofjackolanternswithtrickortreating9284-20261016@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261101
 SUMMARY:Trail of Jack-O-Lanterns with Trick or Treating
@@ -78,7 +87,7 @@ URL:https://www.visitfrederick.org/event/trail-of-jack-o-lanterns-with-trick-or-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventtrekortreat21019-20261016@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261101
 SUMMARY:Trek or Treat
@@ -86,80 +95,8 @@ DESCRIPTION:Get off the screen and into the scream at Tree Trekkers for Trek or 
 URL:https://www.visitfrederick.org/event/trek-or-treat/21019/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261022@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:2026 Exhibits at Museum of Frederick County History
-DESCRIPTION:Take a deep dive into various topics that have defined Frederick's history\, as we celebrate America's 250th anniversary and our County's role in the Revolution. Featuring brand new exhibits: Cultivating Independence: Frederick in the Revolution Witnessing Revolution All Saints Street: Avenue to the History of Frederick and Its African American Community Growing Gold: A History of Frederick’s Goldfish Industry And returning favorites: Etchison Connections Timeless Toys 24 E Church Street Decorative Arts See our all new and renovated exhibits\, March 7\,2026 through December 12\, 2026. Buy tickets here.
-URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261022@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:Board Game Night
-DESCRIPTION:Join us at the Sandbox for Board Game Night! Every Thursday evening at 6PM. Learn a new game from local board game enthusiast Michael Southers and stay to play! The games are provided\, and Michael’s easy going style makes games approachable to new players for the evening. First come\, first served. Alternatively\, feel free to come out with friends to play your own game to be around others with a shared interest.
-URL:https://www.visitfrederick.org/event/board-game-night/23706/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventcentennialfilmseries3agolddiggersof1933193325980-20261022@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:CENTENNIAL FILM Series: Gold Diggers of 1933 (1933)
-DESCRIPTION:This glamorous musical comedy blends dazzling spectacle with Depression-era social commentary. The film follows a group of out-of-work chorus girls struggling to find work in New York City as they prepare a Broadway-style production to secure financial stability. As love and ambition collide\, the story balances romance\, backstage drama\, and sharp humor. Known for its elaborately choreographed musical numbers\, including the iconic “We’re in the Money” sequence\, the film is celebrated for its innovative camerawork\, geometric dance formations\, and lavish production design. Gold Diggers of 1933 remains one of the defining musicals of the early sound era and a landmark of Hollywood’s Golden Age\, reflecting both escapism and economic reality during the Great Depression. STARS: Busby Berkeley\, Joan Blondell\, Dick Powell\, Ruby Keeler\, Ginger Rogers\, Warren William RUNTIME: 97 minutes GENRE: Musical\, Comedy This show is part of the Weinberg Center’s Centennial Film Event\, celebrating 100 years of screenings in our historic building. The Weinberg Center\, located in the heart of Downtown Frederick\, MD\, offers a historic backdrop and timeless atmosphere for a unique film experience.
-URL:https://www.visitfrederick.org/event/centennial-film-series%3a-gold-diggers-of-1933-(1933)/25980/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261022@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:City of Frederick Parks & Rec: Senior Exercise
-DESCRIPTION:A full body class! Utilizing bands\, light weights and body weight exercises you will get a full body workout. Cardio and stretching are incorporated into this class to give you a well-rounded workout.
-URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-senior-exercise/24651/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventcuriousiguanapresents3abestsellingthrillerauthorrichardchizmar25907-20261022@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:Curious Iguana Presents: Bestselling Thriller Author Richard Chizmar
-DESCRIPTION:We are excited to welcome back bestselling author Richard Chizmar to Frederick on Thursday\, October 22 from 6:00-7:00 pm at Frederick Book Arts Center! Join us to hear about Richard’s novel\, Killing the Boogeyman \, the thrilling conclusion to his bestselling Boogeyman series. Following Richard’s talk\, he will answer questions and sign books. Copies of Killing the Boogeyman will be available for purchase at the event. Location: Frederick Book Arts Center\, 127 S. Carroll Street\, Frederick\, MD 21787 This event is free and open to the public. We are proud to partner with Frederick Book Arts Center for this event. For accessibility requests\, email events@curiousiguana.com at least two (2) weeks prior to the event. About the book: The terrifying horror trilogy finale to the New York Times and USA TODAY bestselling series that includes Chasing the Boogeyman and Becoming the Boogeyman from “one of horror’s indispensable writers” (Paste). Notorious serial killer Joshua Gallagher—dubbed “the Boogeyman” by the media—has vanished from prison. One moment\, he was locked inside a maximum-security cell\; the next\, he was gone\, leaving behind on the wall a crude hangman puzzle and two chilling words: IT’S TIME. Now\, days later\, the world is coming apart again. Bodies are turning up near writer and Gallagher confidante Richard Chizmar’s home\, echoing the Boogeyman’s signature horrors. The news frenzy reignites while the police chase shadows...even as Gallagher’s twisted true crime fanbase celebrates online\, acknowledging that he’s something more than human now. To everyone else\, it’s a desperate hunt for answers. To Chizmar\, it’s more like destiny closing in. The evidence\, the sightings\, the voices in the dark all point to one unthinkable conclusion: the Boogeyman never left. And very soon\, Chizmar must come face-to-face with the thing wearing Gallagher’s skin\, and learns all too quickly that some nightmares don’t return—they evolve. “Richard Chizmar delves deep into our worst fears and touches the darkness that lives there.” —S. A. Cosby About the author: Richard Chizmar is the author of New York Times bestselling novels Chasing the Boogeyman \, Becoming the Boogeyman \, Memorials \, and Widow’s Point: The Complete Haunting (cowritten with son\, W.H. Chizmar)\, and coauthor (with Stephen King) of the New York Times bestselling novella Gwendy’s Button Box \, the novel Gwendy’s Final Task \, and the solo novella Gwendy’s Magic Feather . His short fiction has appeared in dozens of publications\, most recently\, the bestselling anthology\, The End of The World as We Know It: New Stories of Stephen King’s The Stand . He is the founder and publisher of the specialty press publisher of horror and dark suspense\, Cemetery Dance. He has won two World Fantasy awards\, four International Horror Guild awards\, and the HWA’s Board of Trustees award. Chizmar’s work has been translated into more than fifteen languages throughout the world\, and he has appeared at numerous conferences as a writing instructor\, speaker\, panelist\, and guest of honor. Follow him on X\, Facebook\, Instagram\, Threads\, and Bluesky: @‌RichardChizmar\, or visit his website at RichardChizmar.com.
-URL:https://www.visitfrederick.org/event/curious-iguana-presents%3a-bestselling-thriller-author-richard-chizmar/25907/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventfjsallstars25979-20261022@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:FJS All Stars
-DESCRIPTION:Get ready to be blown away by the incredible talent of the Frederick Jazz Society Allstars at the kickoff of another season of the DMV Jazz Series. Join us for a night of jazz as we celebrate the timeless sound inspired by Art Blakey and the Jazz Messengers. This high-energy concert will transport you to the golden era of hard bop\, filled with driving rhythms\, soulful horn lines\, and fiery solos. The ensemble channels the spirit of Blakey’s legendary group\, delivering powerful drum work\, expressive improvisation\, and the raw\, joyful swing that defined a generation. Whether you are a lifelong jazz fan or new to the music\, this evening promises a stirring tribute to one of jazz’s most influential voices\, right in the heart of Frederick. Learn more about this show and the Frederick Jazz Society by visiting their official website. This show is part of the DMV Jazz Series\, hosted by Eric Byrd and in partnership with the Frederick Jazz Society. New Spire Stages\, located in the heart of Downtown Frederick\, MD\, offers an intimate venue for a memorable concert experience.
-URL:https://www.visitfrederick.org/event/fjs-all-stars/25979/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventhopelayinhiswashedhands26260-20261022@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:Hope Lay in His Washed Hands
-DESCRIPTION:The Microbiology\, Public Health & History film festival at Hood College celebrates Global Handwashing Day with a screening of \\
-URL:https://www.visitfrederick.org/event/hope-lay-in-his-washed-hands/26260/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261022@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:Pour House Trivia at Steinhardt Brewing Company
-DESCRIPTION:Trivia hosted by Pour House Trivia. Every Thursday 7-9 PM
-URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing-company/18781/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261023@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -168,7 +105,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventallisontaylor26206-20261023@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Allison Taylor
@@ -177,7 +114,7 @@ URL:https://www.visitfrederick.org/event/allison-taylor/26206/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventboardgamenight25654-20261023@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Board Game Night
@@ -186,7 +123,7 @@ URL:https://www.visitfrederick.org/event/board-game-night/25654/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcollide26thedamagesliveinconcert26195-20261023@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Collide & The Damages Live in Concert
@@ -195,7 +132,7 @@ URL:https://www.visitfrederick.org/event/collide-%26-the-damages-live-in-concert
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261023@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -204,7 +141,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventghosttoursofhistoricfrederick25000-20261023@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Ghost Tours of Historic Frederick
@@ -213,7 +150,7 @@ URL:https://www.visitfrederick.org/event/ghost-tours-of-historic-frederick/25000
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventghoulsnightout26253-20261023@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Ghouls Night Out
@@ -222,7 +159,7 @@ URL:https://www.visitfrederick.org/event/ghouls-night-out/26253/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261023@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Guided Exhibit Tours
@@ -231,7 +168,7 @@ URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventhistorytrickortreat25837-20261023@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261025
 SUMMARY:History Trick or Treat
@@ -240,7 +177,7 @@ URL:https://www.visitfrederick.org/event/history-trick-or-treat/25837/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventjumbospumpkinpatchfallfestival11483-20261023@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Jumbo's Pumpkin Patch Fall Festival
@@ -249,7 +186,7 @@ URL:https://www.visitfrederick.org/event/jumbos-pumpkin-patch-fall-festival/1148
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventteennighthalloweenhaunt25866-20261023@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Teen Night Halloween Haunt
@@ -258,7 +195,7 @@ URL:https://www.visitfrederick.org/event/teen-night-halloween-haunt/25866/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261023@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:The YAAC Show
@@ -267,7 +204,7 @@ URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261024@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -276,7 +213,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent7thannualcaninesonthecreek20787-20261024@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:7th Annual Canines on the Creek
@@ -284,8 +221,62 @@ DESCRIPTION:Strut your mutt at our annual celebration of dogs in kooky get-ups. 
 URL:https://www.visitfrederick.org/event/7th-annual-canines-on-the-creek/20787/
 END:VEVENT
 BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventadaptivemonstermash23834-20261024@visitfrederick
+DTSTAMP:20261023T145227Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Adaptive Monster Mash
+DESCRIPTION:This program is designed for people ages 16+ with intellectual and developmental disabilities to enhance their social skills and expand their communication skills. Join us as we take part in various activities throughout the community. Come dressed in your favorite costume! Snacks and games will be provided Essential Eligibility: Program levels 1 - 3. Difficulty with terrain. May use assistive and/or self-propelled device as listed in Level 2\, plus powered wheelchair or scooter. Maintains personal hygiene with some assistance. Can follow instructions with assistance. Able to convey feelings\, desires and needs with picture cues or communication device. Demonstrates age-appropriate social and emotional skills in managing personal boundaries\, relationships\, communication\, stress\, and conflict with assistance. Will stay with group with continuous supervision. Can manage the sensory stimulation of occasionally large\, loud\, and energetic group environment with assistance. If a participant needs personal care\, a caregiver must remain onsite. Advanced registration is required. Registrations will not be accepted at the door. There will be no drop ins.
+URL:https://www.visitfrederick.org/event/adaptive-monster-mash/23834/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventalleynights23158-20261024@visitfrederick
+DTSTAMP:20261023T145227Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Alley Nights
+DESCRIPTION:Welcome to Alley Nights — your Saturday night destination in Downtown Frederick. With three bars open\, the party moves wherever the night takes you! Start in our newly renovated Main Bar\, catch the DJ spinning in Terrace\, or head upstairs to the rooftop bar for drinks and views of downtown Frederick. Add late-night bites\, great music\, and a lively crowd — and you’ve got everything you need for the perfect Saturday night! Benefactor Events joins us every first and third Saturday of the month to get the party going in Terrace! Meet us at Alley Nights! No cover | 21+ event.
+URL:https://www.visitfrederick.org/event/alley-nights/23158/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventamerica2503aechoesonthewater26221-20261024@visitfrederick
+DTSTAMP:20261023T145227Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:America 250: Echoes on the Water
+DESCRIPTION:Celebrate America's 250th Through Music. Join the Frederick Catoctones for an unforgettable afternoon celebrating the people\, places\, and waterways that helped shape our nation over the past 250 years. Featuring the Frederick Children's Chorus\, Secret Best Friends (2025 Mid-Atlantic District Quartet Champions)\, and Catoctones quartets Remnants and Chordians of the Galaxy\, this concert blends powerful storytelling\, rich harmonies\, and outstanding musicianship into a celebration the whole family will enjoy. What You'll Experience: • A unique musical journey celebrating America's 250th Anniversary • Inspiring performances from outstanding guest ensembles and quartets • Barbershop harmony\, contemporary favorites\, and timeless classics • Beautiful acoustics and comfortable seating at Frederick Church of the Brethren • Free on-site parking Your attendance supports local music\, youth education\, and community singing throughout Frederick.
+URL:https://www.visitfrederick.org/event/america-250%3a-echoes-on-the-water/26221/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventartnightindowntownbrunswick26273-20261024@visitfrederick
+DTSTAMP:20261023T145227Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Art Night in Downtown Brunswick
+DESCRIPTION:Art gallery openings\, artist talks\, and entertainment at Smoketown Brewing! The art gallery events are free\, and several artists will be present to answer questions about their work. After enjoying the art galleries\, check out Smoketown Brewing for their concert and music events\, and try their latest craft brews! Gilded Dragonfly Gallery is a brand-new gallery specializing in hand-crafted jewelry and fine artisan crafts. They're hosting a grand opening celebration with light food and beverages! You will also have the opportunity to meet the artists represented at the gallery! Located at 27 W. Potomac Street. 5- 7 p.m. Lockhouse Gallery will host an artist talk and reception for Neo-Expressionist artist Sam Gross! He will take questions\, read poetry\, and give away a few of his small paintings\, with a drawing for attendees. Light food\, wine\, and beverages will be served. Located at 17 W. Potomac St.\, 6- 9 p.m. Roots & River Gallery will open to show Kathleen Howsare's amazing paintings and to meet her\, who will answer questions about her work. Ron Batcher's and Vicki Michael's work is also on display. Located at 30 W. Potomac St.\, 4:30-7 p.m. All of these galleries are right next to each other\, and Smoketown Brewing is two blocks away. These are casual events\, so no need to dress up. Come enjoy our great art in Downtown Brunswick!!
+URL:https://www.visitfrederick.org/event/art-night-in-downtown-brunswick/26273/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventbiginkprintmakingdemo26093-20261024@visitfrederick
+DTSTAMP:20261023T145227Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+SUMMARY:BIG INK Printmaking Demo
+DESCRIPTION:Visitors are invited to watch the printing process during the BIG INK printmaking workshop taking place at The Delaplaine Arts Center from 2–4 PM each day\, Oct 24 and 25. BIG INK will also set up The Anchovy\, a small press used to produce 2″ x 3″ mini prints\, which are complimentary for visitors. FREE
+URL:https://www.visitfrederick.org/event/big-ink-printmaking-demo/26093/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventbangles26brews26203-20261024@visitfrederick
+DTSTAMP:20261023T145227Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Bangles & Brews
+DESCRIPTION:Join Kris Reifel\, the artisan behind KMR Original Jewelry\, in this beginner-friendly workshop. You will design a beautiful stacked memory wire bracelet using your choice of beads and colors to create a one-of-a-kind piece. Choose from Kris's classic materials collection\, along with seasonal color and charm options. All tools and materials will be provided\, and no complicated techniques are required. Each participant will also receive a charm to attach to your bracelet\; an included Sandbox Brewhouse beer\, NA\, or soda\; and a relaxing\, cozy workshop experience. Limited seats\, so reserve your spot now!
+URL:https://www.visitfrederick.org/event/bangles-%26-brews/26203/
+END:VEVENT
+BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventghosttoursofhistoricfrederick25000-20261024@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Ghost Tours of Historic Frederick
@@ -294,7 +285,7 @@ URL:https://www.visitfrederick.org/event/ghost-tours-of-historic-frederick/25000
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventjumbospumpkinpatchfallfestival11483-20261024@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Jumbo's Pumpkin Patch Fall Festival
@@ -303,7 +294,7 @@ URL:https://www.visitfrederick.org/event/jumbos-pumpkin-patch-fall-festival/1148
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventjumbospumpkinpatchfallfestival11483-20261025@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:Jumbo's Pumpkin Patch Fall Festival
@@ -311,17 +302,8 @@ DESCRIPTION:Celebrate the season with a full day of festive fun for all ages at 
 URL:https://www.visitfrederick.org/event/jumbos-pumpkin-patch-fall-festival/11483/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261027@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-SUMMARY:City of Frederick Parks & Rec: Senior Exercise
-DESCRIPTION:A full body class! Utilizing bands\, light weights and body weight exercises you will get a full body workout. Cardio and stretching are incorporated into this class to give you a well-rounded workout.
-URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-senior-exercise/24651/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261028@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -330,7 +312,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261029@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -338,35 +320,8 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261029@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Board Game Night
-DESCRIPTION:Join us at the Sandbox for Board Game Night! Every Thursday evening at 6PM. Learn a new game from local board game enthusiast Michael Southers and stay to play! The games are provided\, and Michael’s easy going style makes games approachable to new players for the evening. First come\, first served. Alternatively\, feel free to come out with friends to play your own game to be around others with a shared interest.
-URL:https://www.visitfrederick.org/event/board-game-night/23706/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261029@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:City of Frederick Parks & Rec: Senior Exercise
-DESCRIPTION:A full body class! Utilizing bands\, light weights and body weight exercises you will get a full body workout. Cardio and stretching are incorporated into this class to give you a well-rounded workout.
-URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-senior-exercise/24651/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261029@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Pour House Trivia at Steinhardt Brewing Company
-DESCRIPTION:Trivia hosted by Pour House Trivia. Every Thursday 7-9 PM
-URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing-company/18781/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261030@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -375,7 +330,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventboardgamenight25654-20261030@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Board Game Night
@@ -384,7 +339,7 @@ URL:https://www.visitfrederick.org/event/board-game-night/25654/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261030@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -393,7 +348,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261030@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Guided Exhibit Tours
@@ -402,7 +357,7 @@ URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventjumbospumpkinpatchfallfestival11483-20261030@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Jumbo's Pumpkin Patch Fall Festival
@@ -411,7 +366,7 @@ URL:https://www.visitfrederick.org/event/jumbos-pumpkin-patch-fall-festival/1148
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261030@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:The YAAC Show
@@ -420,7 +375,7 @@ URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261031@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -428,8 +383,17 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventalleynights23158-20261031@visitfrederick
+DTSTAMP:20261023T145227Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Alley Nights
+DESCRIPTION:Welcome to Alley Nights — your Saturday night destination in Downtown Frederick. With three bars open\, the party moves wherever the night takes you! Start in our newly renovated Main Bar\, catch the DJ spinning in Terrace\, or head upstairs to the rooftop bar for drinks and views of downtown Frederick. Add late-night bites\, great music\, and a lively crowd — and you’ve got everything you need for the perfect Saturday night! Benefactor Events joins us every first and third Saturday of the month to get the party going in Terrace! Meet us at Alley Nights! No cover | 21+ event.
+URL:https://www.visitfrederick.org/event/alley-nights/23158/
+END:VEVENT
+BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventjumbospumpkinpatchfallfestival11483-20261031@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Jumbo's Pumpkin Patch Fall Festival
@@ -437,17 +401,8 @@ DESCRIPTION:Celebrate the season with a full day of festive fun for all ages at 
 URL:https://www.visitfrederick.org/event/jumbos-pumpkin-patch-fall-festival/11483/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261103@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:City of Frederick Parks & Rec: Senior Exercise
-DESCRIPTION:A full body class! Utilizing bands\, light weights and body weight exercises you will get a full body workout. Cardio and stretching are incorporated into this class to give you a well-rounded workout.
-URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-senior-exercise/24651/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261104@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -456,7 +411,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261105@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -464,35 +419,8 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261105@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:Board Game Night
-DESCRIPTION:Join us at the Sandbox for Board Game Night! Every Thursday evening at 6PM. Learn a new game from local board game enthusiast Michael Southers and stay to play! The games are provided\, and Michael’s easy going style makes games approachable to new players for the evening. First come\, first served. Alternatively\, feel free to come out with friends to play your own game to be around others with a shared interest.
-URL:https://www.visitfrederick.org/event/board-game-night/23706/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261105@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:City of Frederick Parks & Rec: Senior Exercise
-DESCRIPTION:A full body class! Utilizing bands\, light weights and body weight exercises you will get a full body workout. Cardio and stretching are incorporated into this class to give you a well-rounded workout.
-URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-senior-exercise/24651/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261105@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:Pour House Trivia at Steinhardt Brewing Company
-DESCRIPTION:Trivia hosted by Pour House Trivia. Every Thursday 7-9 PM
-URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing-company/18781/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261106@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -501,7 +429,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261106@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -510,7 +438,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261106@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Guided Exhibit Tours
@@ -519,7 +447,7 @@ URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261106@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:The YAAC Show
@@ -528,7 +456,7 @@ URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261107@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -536,17 +464,8 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261110@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:City of Frederick Parks & Rec: Senior Exercise
-DESCRIPTION:A full body class! Utilizing bands\, light weights and body weight exercises you will get a full body workout. Cardio and stretching are incorporated into this class to give you a well-rounded workout.
-URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-senior-exercise/24651/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261111@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -555,7 +474,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261112@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -563,35 +482,8 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261112@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:Board Game Night
-DESCRIPTION:Join us at the Sandbox for Board Game Night! Every Thursday evening at 6PM. Learn a new game from local board game enthusiast Michael Southers and stay to play! The games are provided\, and Michael’s easy going style makes games approachable to new players for the evening. First come\, first served. Alternatively\, feel free to come out with friends to play your own game to be around others with a shared interest.
-URL:https://www.visitfrederick.org/event/board-game-night/23706/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261112@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:City of Frederick Parks & Rec: Senior Exercise
-DESCRIPTION:A full body class! Utilizing bands\, light weights and body weight exercises you will get a full body workout. Cardio and stretching are incorporated into this class to give you a well-rounded workout.
-URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-senior-exercise/24651/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261112@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:Pour House Trivia at Steinhardt Brewing Company
-DESCRIPTION:Trivia hosted by Pour House Trivia. Every Thursday 7-9 PM
-URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing-company/18781/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261113@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -600,7 +492,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261113@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -609,7 +501,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261113@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Guided Exhibit Tours
@@ -618,7 +510,7 @@ URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261113@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:The YAAC Show
@@ -627,7 +519,7 @@ URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261114@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -635,17 +527,8 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261117@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:City of Frederick Parks & Rec: Senior Exercise
-DESCRIPTION:A full body class! Utilizing bands\, light weights and body weight exercises you will get a full body workout. Cardio and stretching are incorporated into this class to give you a well-rounded workout.
-URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-senior-exercise/24651/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261118@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -654,7 +537,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261119@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -662,35 +545,8 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261119@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Board Game Night
-DESCRIPTION:Join us at the Sandbox for Board Game Night! Every Thursday evening at 6PM. Learn a new game from local board game enthusiast Michael Southers and stay to play! The games are provided\, and Michael’s easy going style makes games approachable to new players for the evening. First come\, first served. Alternatively\, feel free to come out with friends to play your own game to be around others with a shared interest.
-URL:https://www.visitfrederick.org/event/board-game-night/23706/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261119@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:City of Frederick Parks & Rec: Senior Exercise
-DESCRIPTION:A full body class! Utilizing bands\, light weights and body weight exercises you will get a full body workout. Cardio and stretching are incorporated into this class to give you a well-rounded workout.
-URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-senior-exercise/24651/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261119@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Pour House Trivia at Steinhardt Brewing Company
-DESCRIPTION:Trivia hosted by Pour House Trivia. Every Thursday 7-9 PM
-URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing-company/18781/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261120@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -699,7 +555,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261120@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -708,7 +564,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261120@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Guided Exhibit Tours
@@ -717,7 +573,7 @@ URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261120@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:The YAAC Show
@@ -726,7 +582,7 @@ URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261121@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -734,17 +590,8 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261124@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:City of Frederick Parks & Rec: Senior Exercise
-DESCRIPTION:A full body class! Utilizing bands\, light weights and body weight exercises you will get a full body workout. Cardio and stretching are incorporated into this class to give you a well-rounded workout.
-URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-senior-exercise/24651/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261125@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -753,7 +600,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261126@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -761,35 +608,8 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261126@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:Board Game Night
-DESCRIPTION:Join us at the Sandbox for Board Game Night! Every Thursday evening at 6PM. Learn a new game from local board game enthusiast Michael Southers and stay to play! The games are provided\, and Michael’s easy going style makes games approachable to new players for the evening. First come\, first served. Alternatively\, feel free to come out with friends to play your own game to be around others with a shared interest.
-URL:https://www.visitfrederick.org/event/board-game-night/23706/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261126@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:City of Frederick Parks & Rec: Senior Exercise
-DESCRIPTION:A full body class! Utilizing bands\, light weights and body weight exercises you will get a full body workout. Cardio and stretching are incorporated into this class to give you a well-rounded workout.
-URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-senior-exercise/24651/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261126@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:Pour House Trivia at Steinhardt Brewing Company
-DESCRIPTION:Trivia hosted by Pour House Trivia. Every Thursday 7-9 PM
-URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing-company/18781/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261127@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -798,7 +618,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261127@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -807,7 +627,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261127@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Guided Exhibit Tours
@@ -816,7 +636,7 @@ URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261127@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:The YAAC Show
@@ -825,7 +645,7 @@ URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261128@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -833,17 +653,8 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261201@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
-SUMMARY:City of Frederick Parks & Rec: Senior Exercise
-DESCRIPTION:A full body class! Utilizing bands\, light weights and body weight exercises you will get a full body workout. Cardio and stretching are incorporated into this class to give you a well-rounded workout.
-URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-senior-exercise/24651/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261202@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -852,7 +663,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261203@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -860,35 +671,8 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261203@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261203
-DTEND;VALUE=DATE:20261204
-SUMMARY:Board Game Night
-DESCRIPTION:Join us at the Sandbox for Board Game Night! Every Thursday evening at 6PM. Learn a new game from local board game enthusiast Michael Southers and stay to play! The games are provided\, and Michael’s easy going style makes games approachable to new players for the evening. First come\, first served. Alternatively\, feel free to come out with friends to play your own game to be around others with a shared interest.
-URL:https://www.visitfrederick.org/event/board-game-night/23706/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261203@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261203
-DTEND;VALUE=DATE:20261204
-SUMMARY:City of Frederick Parks & Rec: Senior Exercise
-DESCRIPTION:A full body class! Utilizing bands\, light weights and body weight exercises you will get a full body workout. Cardio and stretching are incorporated into this class to give you a well-rounded workout.
-URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-senior-exercise/24651/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261203@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261203
-DTEND;VALUE=DATE:20261204
-SUMMARY:Pour House Trivia at Steinhardt Brewing Company
-DESCRIPTION:Trivia hosted by Pour House Trivia. Every Thursday 7-9 PM
-URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing-company/18781/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261204@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -897,7 +681,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261204@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -906,7 +690,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261204@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Guided Exhibit Tours
@@ -915,7 +699,7 @@ URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261204@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:The YAAC Show
@@ -924,7 +708,7 @@ URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261205@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -932,17 +716,8 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261208@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261208
-DTEND;VALUE=DATE:20261209
-SUMMARY:City of Frederick Parks & Rec: Senior Exercise
-DESCRIPTION:A full body class! Utilizing bands\, light weights and body weight exercises you will get a full body workout. Cardio and stretching are incorporated into this class to give you a well-rounded workout.
-URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-senior-exercise/24651/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261209@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -951,7 +726,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261210@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -959,35 +734,8 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261210@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261210
-DTEND;VALUE=DATE:20261211
-SUMMARY:Board Game Night
-DESCRIPTION:Join us at the Sandbox for Board Game Night! Every Thursday evening at 6PM. Learn a new game from local board game enthusiast Michael Southers and stay to play! The games are provided\, and Michael’s easy going style makes games approachable to new players for the evening. First come\, first served. Alternatively\, feel free to come out with friends to play your own game to be around others with a shared interest.
-URL:https://www.visitfrederick.org/event/board-game-night/23706/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261210@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261210
-DTEND;VALUE=DATE:20261211
-SUMMARY:City of Frederick Parks & Rec: Senior Exercise
-DESCRIPTION:A full body class! Utilizing bands\, light weights and body weight exercises you will get a full body workout. Cardio and stretching are incorporated into this class to give you a well-rounded workout.
-URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-senior-exercise/24651/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261210@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261210
-DTEND;VALUE=DATE:20261211
-SUMMARY:Pour House Trivia at Steinhardt Brewing Company
-DESCRIPTION:Trivia hosted by Pour House Trivia. Every Thursday 7-9 PM
-URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing-company/18781/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261211@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -996,7 +744,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261211@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -1005,7 +753,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261211@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Guided Exhibit Tours
@@ -1014,7 +762,7 @@ URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261211@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:The YAAC Show
@@ -1023,7 +771,7 @@ URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261212@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -1031,17 +779,8 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261215@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261215
-DTEND;VALUE=DATE:20261216
-SUMMARY:City of Frederick Parks & Rec: Senior Exercise
-DESCRIPTION:A full body class! Utilizing bands\, light weights and body weight exercises you will get a full body workout. Cardio and stretching are incorporated into this class to give you a well-rounded workout.
-URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-senior-exercise/24651/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261216@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -1049,35 +788,8 @@ DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long
 URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261217@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261217
-DTEND;VALUE=DATE:20261218
-SUMMARY:Board Game Night
-DESCRIPTION:Join us at the Sandbox for Board Game Night! Every Thursday evening at 6PM. Learn a new game from local board game enthusiast Michael Southers and stay to play! The games are provided\, and Michael’s easy going style makes games approachable to new players for the evening. First come\, first served. Alternatively\, feel free to come out with friends to play your own game to be around others with a shared interest.
-URL:https://www.visitfrederick.org/event/board-game-night/23706/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261217@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261217
-DTEND;VALUE=DATE:20261218
-SUMMARY:City of Frederick Parks & Rec: Senior Exercise
-DESCRIPTION:A full body class! Utilizing bands\, light weights and body weight exercises you will get a full body workout. Cardio and stretching are incorporated into this class to give you a well-rounded workout.
-URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-senior-exercise/24651/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261217@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261217
-DTEND;VALUE=DATE:20261218
-SUMMARY:Pour House Trivia at Steinhardt Brewing Company
-DESCRIPTION:Trivia hosted by Pour House Trivia. Every Thursday 7-9 PM
-URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing-company/18781/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261218@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -1086,7 +798,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261218@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:The YAAC Show
@@ -1094,17 +806,8 @@ DESCRIPTION:The YAAC Show is every other Friday. A LIVE talk show produced by th
 URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261222@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261222
-DTEND;VALUE=DATE:20261223
-SUMMARY:City of Frederick Parks & Rec: Senior Exercise
-DESCRIPTION:A full body class! Utilizing bands\, light weights and body weight exercises you will get a full body workout. Cardio and stretching are incorporated into this class to give you a well-rounded workout.
-URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-senior-exercise/24651/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261223@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -1112,35 +815,8 @@ DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long
 URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261224@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261224
-DTEND;VALUE=DATE:20261225
-SUMMARY:Board Game Night
-DESCRIPTION:Join us at the Sandbox for Board Game Night! Every Thursday evening at 6PM. Learn a new game from local board game enthusiast Michael Southers and stay to play! The games are provided\, and Michael’s easy going style makes games approachable to new players for the evening. First come\, first served. Alternatively\, feel free to come out with friends to play your own game to be around others with a shared interest.
-URL:https://www.visitfrederick.org/event/board-game-night/23706/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261224@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261224
-DTEND;VALUE=DATE:20261225
-SUMMARY:City of Frederick Parks & Rec: Senior Exercise
-DESCRIPTION:A full body class! Utilizing bands\, light weights and body weight exercises you will get a full body workout. Cardio and stretching are incorporated into this class to give you a well-rounded workout.
-URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-senior-exercise/24651/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261224@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261224
-DTEND;VALUE=DATE:20261225
-SUMMARY:Pour House Trivia at Steinhardt Brewing Company
-DESCRIPTION:Trivia hosted by Pour House Trivia. Every Thursday 7-9 PM
-URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing-company/18781/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261225@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -1148,48 +824,12 @@ DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long
 URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261229@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261229
-DTEND;VALUE=DATE:20261230
-SUMMARY:City of Frederick Parks & Rec: Senior Exercise
-DESCRIPTION:A full body class! Utilizing bands\, light weights and body weight exercises you will get a full body workout. Cardio and stretching are incorporated into this class to give you a well-rounded workout.
-URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-senior-exercise/24651/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261230@visitfrederick
-DTSTAMP:20261022T150125Z
+DTSTAMP:20261023T145227Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
 DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long holds are emphasized in this class. Modifications are provided and welcome during your practice. All ages are welcome.
 URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261231@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-SUMMARY:Board Game Night
-DESCRIPTION:Join us at the Sandbox for Board Game Night! Every Thursday evening at 6PM. Learn a new game from local board game enthusiast Michael Southers and stay to play! The games are provided\, and Michael’s easy going style makes games approachable to new players for the evening. First come\, first served. Alternatively\, feel free to come out with friends to play your own game to be around others with a shared interest.
-URL:https://www.visitfrederick.org/event/board-game-night/23706/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261231@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-SUMMARY:City of Frederick Parks & Rec: Senior Exercise
-DESCRIPTION:A full body class! Utilizing bands\, light weights and body weight exercises you will get a full body workout. Cardio and stretching are incorporated into this class to give you a well-rounded workout.
-URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-senior-exercise/24651/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261231@visitfrederick
-DTSTAMP:20261022T150125Z
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-SUMMARY:Pour House Trivia at Steinhardt Brewing Company
-DESCRIPTION:Trivia hosted by Pour House Trivia. Every Thursday 7-9 PM
-URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing-company/18781/
 END:VEVENT
 END:VCALENDAR
