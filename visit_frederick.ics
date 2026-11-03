@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Visit Frederick Events
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcivilwarwalkingtour17630-20261003@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261108
 SUMMARY:Civil War Walking Tour
@@ -15,7 +15,7 @@ URL:https://www.visitfrederick.org/event/civil-war-walking-tour/17630/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventwelcometoquarantinos26277-20261101@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261109
 SUMMARY:Welcome to Quarantino's
@@ -23,17 +23,8 @@ DESCRIPTION:Welcome to Quarantino's is a BRAND-NEW\, riotous musical comedy set 
 URL:https://www.visitfrederick.org/event/welcome-to-quarantinos/26277/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventpourhousetriviaatsandboxbrewhouse23336-20261102@visitfrederick
-DTSTAMP:20261102T201135Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:Pour House Trivia at Sandbox Brewhouse
-DESCRIPTION:Monday nights presented by Pour House Trivia are so ON! Every Monday\, 7-close. Bring a friend\, grab a beer\, and be prepared to test your knowledge with your host\, Ian\, from Pour House Trivia.
-URL:https://www.visitfrederick.org/event/pour-house-trivia-at-sandbox-brewhouse/23336/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261103@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -42,7 +33,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20261103@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:First Tuesday Karaoke
@@ -51,7 +42,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261104@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -60,7 +51,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventgamenight24976-20261104@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:Game Night
@@ -69,7 +60,7 @@ URL:https://www.visitfrederick.org/event/game-night/24976/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventopenmicnight25200-20261104@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:Open Mic Night
@@ -78,7 +69,7 @@ URL:https://www.visitfrederick.org/event/open-mic-night/25200/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261105@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -87,7 +78,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261105@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Board Game Night
@@ -96,7 +87,7 @@ URL:https://www.visitfrederick.org/event/board-game-night/23706/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasinfrederick3aholidaypopupbar26249-20261105@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Christmas In Frederick: Holiday Pop-Up Bar
@@ -105,7 +96,7 @@ URL:https://www.visitfrederick.org/event/christmas-in-frederick%3a-holiday-pop-u
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261105@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -114,7 +105,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcuriousiguanabookspresents3aviraltiktoker26cheftiniyounger26231-20261105@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Curious Iguana Books Presents: Viral TikToker & Chef Tini Younger
@@ -123,7 +114,7 @@ URL:https://www.visitfrederick.org/event/curious-iguana-books-presents%3a-viral-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventholidaymarketkickoff26332-20261105@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261109
 SUMMARY:Holiday Market Kickoff
@@ -131,8 +122,17 @@ DESCRIPTION:Mark your calendar and come get into the spirit of the season with o
 URL:https://www.visitfrederick.org/event/holiday-market-kickoff/26332/
 END:VEVENT
 BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventkaraokewithdjspyder26337-20261105@visitfrederick
+DTSTAMP:20261103T174104Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Karaoke with DJ Spyder
+DESCRIPTION:Karaoke with DJ Spyder at Cellar Door. $10 burgers and $5 drafts all day long!
+URL:https://www.visitfrederick.org/event/karaoke-with-dj-spyder/26337/
+END:VEVENT
+BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261105@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Pour House Trivia at Steinhardt Brewing Company
@@ -141,7 +141,7 @@ URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261106@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -150,7 +150,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventechoesofvalor26290-20261106@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261130
 SUMMARY:Echoes of Valor
@@ -159,7 +159,7 @@ URL:https://www.visitfrederick.org/event/echoes-of-valor/26290/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfolkwaysbythefire23837-20261106@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Folkways by the Fire
@@ -168,7 +168,7 @@ URL:https://www.visitfrederick.org/event/folkways-by-the-fire/23837/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261106@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -177,7 +177,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventghosttoursofhistoricfrederick25001-20261106@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Ghost Tours of Historic Frederick
@@ -186,7 +186,7 @@ URL:https://www.visitfrederick.org/event/ghost-tours-of-historic-frederick/25001
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261106@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Guided Exhibit Tours
@@ -195,7 +195,7 @@ URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventjamiekayefirstfridays25206-20261106@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Jamie Kaye First Fridays
@@ -204,7 +204,7 @@ URL:https://www.visitfrederick.org/event/jamie-kaye-first-fridays/25206/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventrootstorest3aacuaromasleepsupportwithruxandrameinze26309-20261106@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Roots to Rest: AcuAroma Sleep Support with Ruxandra Meinze
@@ -213,7 +213,7 @@ URL:https://www.visitfrederick.org/event/roots-to-rest%3a-acuaroma-sleep-support
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261106@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:The YAAC Show
@@ -222,7 +222,7 @@ URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventtolumide26100-20261106@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:TolumiDE
@@ -231,7 +231,7 @@ URL:https://www.visitfrederick.org/event/tolumide/26100/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261107@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -240,7 +240,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventaverymerryvine26vendormarket26293-20261107@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:A Very Merry Vine & Vendor Market
@@ -249,7 +249,7 @@ URL:https://www.visitfrederick.org/event/a-very-merry-vine-%26-vendor-market/262
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventartmattersartisttalk3anationaljuriedphotographyexhibitionjurorebradyrobinson22411-20261107@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Art Matters Artist Talk: National Juried Photography Exhibition Juror\, E. Brady Robinson
@@ -258,7 +258,7 @@ URL:https://www.visitfrederick.org/event/art-matters-artist-talk%3a-national-jur
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventexhibitionopenings3afocusatthedelaplaine22244-20261107@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Exhibition Openings: FOCUS at The Delaplaine
@@ -267,7 +267,7 @@ URL:https://www.visitfrederick.org/event/exhibition-openings%3a-focus-at-the-del
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfacetedseminarseries7chandsculpted3atheart26evolutionofengraving26237-20261107@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:FACETED Seminar Series | Hand Sculpted: The Art & Evolution of Engraving
@@ -276,7 +276,7 @@ URL:https://www.visitfrederick.org/event/faceted-seminar-series-%7c-hand-sculpte
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfamilyseries3ahandmadepuppetdreams3afamiliesvoli26101-20261107@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:FAMILY Series: Handmade Puppet Dreams: Families Vol I
@@ -285,7 +285,7 @@ URL:https://www.visitfrederick.org/event/family-series%3a-handmade-puppet-dreams
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfieldfreshfarmersmarket23988-20261107@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Field Fresh Farmers Market
@@ -294,7 +294,7 @@ URL:https://www.visitfrederick.org/event/field-fresh-farmers-market/23988/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventghosttoursofhistoricfrederick25001-20261107@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Ghost Tours of Historic Frederick
@@ -302,17 +302,8 @@ DESCRIPTION:Take a Remarkable Journey through Frederick’s Gruesome and Bloody 
 URL:https://www.visitfrederick.org/event/ghost-tours-of-historic-frederick/25001/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventpourhousetriviaatsandboxbrewhouse23336-20261109@visitfrederick
-DTSTAMP:20261102T201135Z
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:Pour House Trivia at Sandbox Brewhouse
-DESCRIPTION:Monday nights presented by Pour House Trivia are so ON! Every Monday\, 7-close. Bring a friend\, grab a beer\, and be prepared to test your knowledge with your host\, Ian\, from Pour House Trivia.
-URL:https://www.visitfrederick.org/event/pour-house-trivia-at-sandbox-brewhouse/23336/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261110@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -321,7 +312,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20261110@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:First Tuesday Karaoke
@@ -330,7 +321,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261111@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -339,7 +330,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventgamenight24976-20261111@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Game Night
@@ -348,7 +339,7 @@ URL:https://www.visitfrederick.org/event/game-night/24976/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventopenmicnight25200-20261111@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Open Mic Night
@@ -357,7 +348,7 @@ URL:https://www.visitfrederick.org/event/open-mic-night/25200/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261112@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -366,7 +357,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261112@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Board Game Night
@@ -375,7 +366,7 @@ URL:https://www.visitfrederick.org/event/board-game-night/23706/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261112@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -383,8 +374,17 @@ DESCRIPTION:A full body class! Utilizing bands\, light weights and body weight e
 URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-senior-exercise/24651/
 END:VEVENT
 BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventkaraokewithdjspyder26337-20261112@visitfrederick
+DTSTAMP:20261103T174104Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Karaoke with DJ Spyder
+DESCRIPTION:Karaoke with DJ Spyder at Cellar Door. $10 burgers and $5 drafts all day long!
+URL:https://www.visitfrederick.org/event/karaoke-with-dj-spyder/26337/
+END:VEVENT
+BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261112@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Pour House Trivia at Steinhardt Brewing Company
@@ -393,7 +393,7 @@ URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261113@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -402,7 +402,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261113@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -411,7 +411,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261113@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Guided Exhibit Tours
@@ -420,7 +420,7 @@ URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventjamiekayefirstfridays25206-20261113@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Jamie Kaye First Fridays
@@ -429,7 +429,7 @@ URL:https://www.visitfrederick.org/event/jamie-kaye-first-fridays/25206/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261113@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:The YAAC Show
@@ -438,7 +438,7 @@ URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261114@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -447,7 +447,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfieldfreshfarmersmarket23988-20261114@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Field Fresh Farmers Market
@@ -455,17 +455,8 @@ DESCRIPTION:Come visit the largest producer-only farmers market in Frederick Cou
 URL:https://www.visitfrederick.org/event/field-fresh-farmers-market/23988/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventpourhousetriviaatsandboxbrewhouse23336-20261116@visitfrederick
-DTSTAMP:20261102T201135Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:Pour House Trivia at Sandbox Brewhouse
-DESCRIPTION:Monday nights presented by Pour House Trivia are so ON! Every Monday\, 7-close. Bring a friend\, grab a beer\, and be prepared to test your knowledge with your host\, Ian\, from Pour House Trivia.
-URL:https://www.visitfrederick.org/event/pour-house-trivia-at-sandbox-brewhouse/23336/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261117@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -474,7 +465,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20261117@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:First Tuesday Karaoke
@@ -483,7 +474,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261118@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -492,7 +483,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventgamenight24976-20261118@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Game Night
@@ -501,7 +492,7 @@ URL:https://www.visitfrederick.org/event/game-night/24976/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventopenmicnight25200-20261118@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Open Mic Night
@@ -510,7 +501,7 @@ URL:https://www.visitfrederick.org/event/open-mic-night/25200/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261119@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -519,7 +510,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261119@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Board Game Night
@@ -528,7 +519,7 @@ URL:https://www.visitfrederick.org/event/board-game-night/23706/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261119@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -536,8 +527,17 @@ DESCRIPTION:A full body class! Utilizing bands\, light weights and body weight e
 URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-senior-exercise/24651/
 END:VEVENT
 BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventkaraokewithdjspyder26337-20261119@visitfrederick
+DTSTAMP:20261103T174104Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Karaoke with DJ Spyder
+DESCRIPTION:Karaoke with DJ Spyder at Cellar Door. $10 burgers and $5 drafts all day long!
+URL:https://www.visitfrederick.org/event/karaoke-with-dj-spyder/26337/
+END:VEVENT
+BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261119@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Pour House Trivia at Steinhardt Brewing Company
@@ -546,7 +546,7 @@ URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261120@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -555,7 +555,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261120@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -564,7 +564,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261120@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Guided Exhibit Tours
@@ -573,7 +573,7 @@ URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventjamiekayefirstfridays25206-20261120@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Jamie Kaye First Fridays
@@ -582,7 +582,7 @@ URL:https://www.visitfrederick.org/event/jamie-kaye-first-fridays/25206/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261120@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:The YAAC Show
@@ -591,7 +591,7 @@ URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261121@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -600,7 +600,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfieldfreshfarmersmarket23988-20261121@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Field Fresh Farmers Market
@@ -608,17 +608,8 @@ DESCRIPTION:Come visit the largest producer-only farmers market in Frederick Cou
 URL:https://www.visitfrederick.org/event/field-fresh-farmers-market/23988/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventpourhousetriviaatsandboxbrewhouse23336-20261123@visitfrederick
-DTSTAMP:20261102T201135Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:Pour House Trivia at Sandbox Brewhouse
-DESCRIPTION:Monday nights presented by Pour House Trivia are so ON! Every Monday\, 7-close. Bring a friend\, grab a beer\, and be prepared to test your knowledge with your host\, Ian\, from Pour House Trivia.
-URL:https://www.visitfrederick.org/event/pour-house-trivia-at-sandbox-brewhouse/23336/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261124@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -627,7 +618,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20261124@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:First Tuesday Karaoke
@@ -636,7 +627,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261125@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -645,7 +636,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventgamenight24976-20261125@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Game Night
@@ -654,7 +645,7 @@ URL:https://www.visitfrederick.org/event/game-night/24976/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventopenmicnight25200-20261125@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Open Mic Night
@@ -663,7 +654,7 @@ URL:https://www.visitfrederick.org/event/open-mic-night/25200/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261126@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -672,7 +663,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261126@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Board Game Night
@@ -681,7 +672,7 @@ URL:https://www.visitfrederick.org/event/board-game-night/23706/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261126@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -689,8 +680,17 @@ DESCRIPTION:A full body class! Utilizing bands\, light weights and body weight e
 URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-senior-exercise/24651/
 END:VEVENT
 BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventkaraokewithdjspyder26337-20261126@visitfrederick
+DTSTAMP:20261103T174104Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Karaoke with DJ Spyder
+DESCRIPTION:Karaoke with DJ Spyder at Cellar Door. $10 burgers and $5 drafts all day long!
+URL:https://www.visitfrederick.org/event/karaoke-with-dj-spyder/26337/
+END:VEVENT
+BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261126@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Pour House Trivia at Steinhardt Brewing Company
@@ -699,7 +699,7 @@ URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261127@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -708,7 +708,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261127@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -717,7 +717,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261127@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Guided Exhibit Tours
@@ -726,7 +726,7 @@ URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventjamiekayefirstfridays25206-20261127@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Jamie Kaye First Fridays
@@ -735,7 +735,7 @@ URL:https://www.visitfrederick.org/event/jamie-kaye-first-fridays/25206/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261127@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:The YAAC Show
@@ -744,7 +744,7 @@ URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261128@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -752,17 +752,8 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventpourhousetriviaatsandboxbrewhouse23336-20261130@visitfrederick
-DTSTAMP:20261102T201135Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:Pour House Trivia at Sandbox Brewhouse
-DESCRIPTION:Monday nights presented by Pour House Trivia are so ON! Every Monday\, 7-close. Bring a friend\, grab a beer\, and be prepared to test your knowledge with your host\, Ian\, from Pour House Trivia.
-URL:https://www.visitfrederick.org/event/pour-house-trivia-at-sandbox-brewhouse/23336/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261201@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -771,7 +762,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20261201@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:First Tuesday Karaoke
@@ -780,7 +771,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261202@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -789,7 +780,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventgamenight24976-20261202@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Game Night
@@ -798,7 +789,7 @@ URL:https://www.visitfrederick.org/event/game-night/24976/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventopenmicnight25200-20261202@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Open Mic Night
@@ -807,7 +798,7 @@ URL:https://www.visitfrederick.org/event/open-mic-night/25200/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261203@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -816,7 +807,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261203@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Board Game Night
@@ -825,7 +816,7 @@ URL:https://www.visitfrederick.org/event/board-game-night/23706/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261203@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -833,8 +824,17 @@ DESCRIPTION:A full body class! Utilizing bands\, light weights and body weight e
 URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-senior-exercise/24651/
 END:VEVENT
 BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventkaraokewithdjspyder26337-20261203@visitfrederick
+DTSTAMP:20261103T174104Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Karaoke with DJ Spyder
+DESCRIPTION:Karaoke with DJ Spyder at Cellar Door. $10 burgers and $5 drafts all day long!
+URL:https://www.visitfrederick.org/event/karaoke-with-dj-spyder/26337/
+END:VEVENT
+BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261203@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Pour House Trivia at Steinhardt Brewing Company
@@ -843,7 +843,7 @@ URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261204@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -852,7 +852,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261204@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -861,7 +861,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261204@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Guided Exhibit Tours
@@ -870,7 +870,7 @@ URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventjamiekayefirstfridays25206-20261204@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Jamie Kaye First Fridays
@@ -879,7 +879,7 @@ URL:https://www.visitfrederick.org/event/jamie-kaye-first-fridays/25206/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261204@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:The YAAC Show
@@ -888,7 +888,7 @@ URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261205@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -896,17 +896,8 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventpourhousetriviaatsandboxbrewhouse23336-20261207@visitfrederick
-DTSTAMP:20261102T201135Z
-DTSTART;VALUE=DATE:20261207
-DTEND;VALUE=DATE:20261208
-SUMMARY:Pour House Trivia at Sandbox Brewhouse
-DESCRIPTION:Monday nights presented by Pour House Trivia are so ON! Every Monday\, 7-close. Bring a friend\, grab a beer\, and be prepared to test your knowledge with your host\, Ian\, from Pour House Trivia.
-URL:https://www.visitfrederick.org/event/pour-house-trivia-at-sandbox-brewhouse/23336/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261208@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -915,7 +906,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20261208@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:First Tuesday Karaoke
@@ -924,7 +915,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261209@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -933,7 +924,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventgamenight24976-20261209@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Game Night
@@ -942,7 +933,7 @@ URL:https://www.visitfrederick.org/event/game-night/24976/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261210@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -951,7 +942,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261210@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Board Game Night
@@ -960,7 +951,7 @@ URL:https://www.visitfrederick.org/event/board-game-night/23706/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261210@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -968,8 +959,17 @@ DESCRIPTION:A full body class! Utilizing bands\, light weights and body weight e
 URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-senior-exercise/24651/
 END:VEVENT
 BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventkaraokewithdjspyder26337-20261210@visitfrederick
+DTSTAMP:20261103T174104Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Karaoke with DJ Spyder
+DESCRIPTION:Karaoke with DJ Spyder at Cellar Door. $10 burgers and $5 drafts all day long!
+URL:https://www.visitfrederick.org/event/karaoke-with-dj-spyder/26337/
+END:VEVENT
+BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261210@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Pour House Trivia at Steinhardt Brewing Company
@@ -978,7 +978,7 @@ URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261211@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -987,7 +987,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261211@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -996,7 +996,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261211@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Guided Exhibit Tours
@@ -1005,7 +1005,7 @@ URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261211@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:The YAAC Show
@@ -1014,7 +1014,7 @@ URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261212@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -1022,17 +1022,8 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventpourhousetriviaatsandboxbrewhouse23336-20261214@visitfrederick
-DTSTAMP:20261102T201135Z
-DTSTART;VALUE=DATE:20261214
-DTEND;VALUE=DATE:20261215
-SUMMARY:Pour House Trivia at Sandbox Brewhouse
-DESCRIPTION:Monday nights presented by Pour House Trivia are so ON! Every Monday\, 7-close. Bring a friend\, grab a beer\, and be prepared to test your knowledge with your host\, Ian\, from Pour House Trivia.
-URL:https://www.visitfrederick.org/event/pour-house-trivia-at-sandbox-brewhouse/23336/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261215@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -1041,7 +1032,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20261215@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:First Tuesday Karaoke
@@ -1050,7 +1041,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261216@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -1059,7 +1050,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventgamenight24976-20261216@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Game Night
@@ -1068,7 +1059,7 @@ URL:https://www.visitfrederick.org/event/game-night/24976/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261217@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:Board Game Night
@@ -1077,7 +1068,7 @@ URL:https://www.visitfrederick.org/event/board-game-night/23706/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261217@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -1085,8 +1076,17 @@ DESCRIPTION:A full body class! Utilizing bands\, light weights and body weight e
 URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-senior-exercise/24651/
 END:VEVENT
 BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventkaraokewithdjspyder26337-20261217@visitfrederick
+DTSTAMP:20261103T174104Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Karaoke with DJ Spyder
+DESCRIPTION:Karaoke with DJ Spyder at Cellar Door. $10 burgers and $5 drafts all day long!
+URL:https://www.visitfrederick.org/event/karaoke-with-dj-spyder/26337/
+END:VEVENT
+BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261217@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:Pour House Trivia at Steinhardt Brewing Company
@@ -1095,7 +1095,7 @@ URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261218@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -1104,7 +1104,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261218@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:The YAAC Show
@@ -1112,17 +1112,8 @@ DESCRIPTION:The YAAC Show is every other Friday. A LIVE talk show produced by th
 URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventpourhousetriviaatsandboxbrewhouse23336-20261221@visitfrederick
-DTSTAMP:20261102T201135Z
-DTSTART;VALUE=DATE:20261221
-DTEND;VALUE=DATE:20261222
-SUMMARY:Pour House Trivia at Sandbox Brewhouse
-DESCRIPTION:Monday nights presented by Pour House Trivia are so ON! Every Monday\, 7-close. Bring a friend\, grab a beer\, and be prepared to test your knowledge with your host\, Ian\, from Pour House Trivia.
-URL:https://www.visitfrederick.org/event/pour-house-trivia-at-sandbox-brewhouse/23336/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261222@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -1131,7 +1122,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20261222@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
 SUMMARY:First Tuesday Karaoke
@@ -1140,7 +1131,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261223@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -1149,7 +1140,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventgamenight24976-20261223@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:Game Night
@@ -1158,7 +1149,7 @@ URL:https://www.visitfrederick.org/event/game-night/24976/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261224@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:Board Game Night
@@ -1167,7 +1158,7 @@ URL:https://www.visitfrederick.org/event/board-game-night/23706/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261224@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -1176,7 +1167,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261224@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:Pour House Trivia at Steinhardt Brewing Company
@@ -1185,7 +1176,7 @@ URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261225@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -1194,7 +1185,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261229@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -1203,7 +1194,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20261229@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
 SUMMARY:First Tuesday Karaoke
@@ -1212,7 +1203,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261230@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -1221,7 +1212,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventgamenight24976-20261230@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:Game Night
@@ -1230,7 +1221,7 @@ URL:https://www.visitfrederick.org/event/game-night/24976/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261231@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Board Game Night
@@ -1239,7 +1230,7 @@ URL:https://www.visitfrederick.org/event/board-game-night/23706/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261231@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -1248,7 +1239,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261231@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Pour House Trivia at Steinhardt Brewing Company
@@ -1257,7 +1248,7 @@ URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270105@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
 SUMMARY:First Tuesday Karaoke
@@ -1266,7 +1257,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270112@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
 SUMMARY:First Tuesday Karaoke
@@ -1275,7 +1266,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270119@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
 SUMMARY:First Tuesday Karaoke
@@ -1284,7 +1275,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270126@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
 SUMMARY:First Tuesday Karaoke
@@ -1293,7 +1284,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270202@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
 SUMMARY:First Tuesday Karaoke
@@ -1302,7 +1293,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270209@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
 SUMMARY:First Tuesday Karaoke
@@ -1311,7 +1302,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270216@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270217
 SUMMARY:First Tuesday Karaoke
@@ -1320,7 +1311,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270223@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270224
 SUMMARY:First Tuesday Karaoke
@@ -1329,7 +1320,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270302@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
 SUMMARY:First Tuesday Karaoke
@@ -1338,7 +1329,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270309@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
 SUMMARY:First Tuesday Karaoke
@@ -1347,7 +1338,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270316@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270317
 SUMMARY:First Tuesday Karaoke
@@ -1356,7 +1347,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270323@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270324
 SUMMARY:First Tuesday Karaoke
@@ -1365,7 +1356,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270330@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270330
 DTEND;VALUE=DATE:20270331
 SUMMARY:First Tuesday Karaoke
@@ -1374,7 +1365,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270406@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
 SUMMARY:First Tuesday Karaoke
@@ -1383,7 +1374,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270413@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270413
 DTEND;VALUE=DATE:20270414
 SUMMARY:First Tuesday Karaoke
@@ -1392,7 +1383,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270420@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
 SUMMARY:First Tuesday Karaoke
@@ -1401,7 +1392,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270427@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270427
 DTEND;VALUE=DATE:20270428
 SUMMARY:First Tuesday Karaoke
@@ -1410,7 +1401,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270504@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
 SUMMARY:First Tuesday Karaoke
@@ -1419,7 +1410,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270511@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270512
 SUMMARY:First Tuesday Karaoke
@@ -1428,7 +1419,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270518@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270518
 DTEND;VALUE=DATE:20270519
 SUMMARY:First Tuesday Karaoke
@@ -1437,7 +1428,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270525@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270525
 DTEND;VALUE=DATE:20270526
 SUMMARY:First Tuesday Karaoke
@@ -1446,7 +1437,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270601@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270601
 DTEND;VALUE=DATE:20270602
 SUMMARY:First Tuesday Karaoke
@@ -1455,7 +1446,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270608@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270608
 DTEND;VALUE=DATE:20270609
 SUMMARY:First Tuesday Karaoke
@@ -1464,7 +1455,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270615@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270615
 DTEND;VALUE=DATE:20270616
 SUMMARY:First Tuesday Karaoke
@@ -1473,7 +1464,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270622@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270622
 DTEND;VALUE=DATE:20270623
 SUMMARY:First Tuesday Karaoke
@@ -1482,7 +1473,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270629@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270629
 DTEND;VALUE=DATE:20270630
 SUMMARY:First Tuesday Karaoke
@@ -1491,7 +1482,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270706@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270706
 DTEND;VALUE=DATE:20270707
 SUMMARY:First Tuesday Karaoke
@@ -1500,7 +1491,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270713@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270713
 DTEND;VALUE=DATE:20270714
 SUMMARY:First Tuesday Karaoke
@@ -1509,7 +1500,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270720@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270720
 DTEND;VALUE=DATE:20270721
 SUMMARY:First Tuesday Karaoke
@@ -1518,7 +1509,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270727@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270727
 DTEND;VALUE=DATE:20270728
 SUMMARY:First Tuesday Karaoke
@@ -1527,7 +1518,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270803@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270803
 DTEND;VALUE=DATE:20270804
 SUMMARY:First Tuesday Karaoke
@@ -1536,7 +1527,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270810@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270810
 DTEND;VALUE=DATE:20270811
 SUMMARY:First Tuesday Karaoke
@@ -1545,7 +1536,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270817@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270817
 DTEND;VALUE=DATE:20270818
 SUMMARY:First Tuesday Karaoke
@@ -1554,7 +1545,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270824@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270824
 DTEND;VALUE=DATE:20270825
 SUMMARY:First Tuesday Karaoke
@@ -1563,7 +1554,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270831@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270831
 DTEND;VALUE=DATE:20270901
 SUMMARY:First Tuesday Karaoke
@@ -1572,7 +1563,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270907@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270907
 DTEND;VALUE=DATE:20270908
 SUMMARY:First Tuesday Karaoke
@@ -1581,7 +1572,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270914@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270914
 DTEND;VALUE=DATE:20270915
 SUMMARY:First Tuesday Karaoke
@@ -1590,7 +1581,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270921@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270921
 DTEND;VALUE=DATE:20270922
 SUMMARY:First Tuesday Karaoke
@@ -1599,7 +1590,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20270928@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20270928
 DTEND;VALUE=DATE:20270929
 SUMMARY:First Tuesday Karaoke
@@ -1608,7 +1599,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20271005@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20271005
 DTEND;VALUE=DATE:20271006
 SUMMARY:First Tuesday Karaoke
@@ -1617,7 +1608,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20271012@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20271012
 DTEND;VALUE=DATE:20271013
 SUMMARY:First Tuesday Karaoke
@@ -1626,7 +1617,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20271019@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20271019
 DTEND;VALUE=DATE:20271020
 SUMMARY:First Tuesday Karaoke
@@ -1635,7 +1626,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20271026@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20271026
 DTEND;VALUE=DATE:20271027
 SUMMARY:First Tuesday Karaoke
@@ -1644,7 +1635,7 @@ URL:https://www.visitfrederick.org/event/first-tuesday-karaoke/26212/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfirsttuesdaykaraoke26212-20271102@visitfrederick
-DTSTAMP:20261102T201135Z
+DTSTAMP:20261103T174104Z
 DTSTART;VALUE=DATE:20271102
 DTEND;VALUE=DATE:20271103
 SUMMARY:First Tuesday Karaoke
