@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Visit Frederick Events
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventechoesofvalor26290-20261106@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261130
 SUMMARY:Echoes of Valor
@@ -14,17 +14,8 @@ DESCRIPTION:A juried exhibition highlighting creative work by veterans\, active-
 URL:https://www.visitfrederick.org/event/echoes-of-valor/26290/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventholidaybazaaratblackanklevineyards24471-20261107@visitfrederick
-DTSTAMP:20261115T165621Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261116
-SUMMARY:Holiday Bazaar at Black Ankle Vineyards
-DESCRIPTION:Black Ankle Vineyards’ 5th Annual Holiday Bazaar is a festive\, two-weekend holiday market featuring a variety of local artisans\, makers\, and small businesses. The event brings together a thoughtfully curated selection of vendors offering unique\, handmade\, and locally sourced gifts (plus we've got some excellent bakers joining us this year). Guests can browse one-of-a-kind treasures\, enjoy Black Ankle wines\, and experience the warmth of the holiday season in a cozy vineyard setting. The Holiday Bazaar celebrates local craftsmanship\, community\, and the joy of shopping small during the holiday season.
-URL:https://www.visitfrederick.org/event/holiday-bazaar-at-black-ankle-vineyards/24471/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventgyro26pastrydays14500-20261112@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261122
 SUMMARY:Gyro & Pastry Days
@@ -32,71 +23,8 @@ DESCRIPTION:Get ready for TEN delicious days of Greek flavor\, Frederick! Join u
 URL:https://www.visitfrederick.org/event/gyro-%26-pastry-days/14500/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventyourbodyinyoga3aafunctionalanatomyweekendwithmachellelee26311-20261114@visitfrederick
-DTSTAMP:20261115T165621Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261116
-SUMMARY:YOUR Body in Yoga: A Functional Anatomy Weekend with Machelle Lee
-DESCRIPTION:Harshly judging one's range of motion is one of the greatest sources of unnecessary suffering in many people’s yoga practice. The poses in yoga are intended to be a method to move the regenerative and healing life force. To do that effectively in yoga\, we must understand each of our own (or our students) unique structures and explore when we can move more deeply into a posture or when to acknowledge limitations with respect. Although some restrictions in range of motion are related to tight muscles\, and more are related to contracted fascia and ligaments\, many significant limitations are actually due to variations in bone shapes and joint orientations that can differ dramatically from one person to the next. Understanding YOUR yoga anatomy is best learned through direct hands-on experience - testing your bones/joints and witnessing them curiously and compassionately to the bones of others. This functional\, comparative anatomy workshop explores the 14 major joint segments of the body that account for most of our yoga postures. For each joint intersection\, we will perform bone analysis and range of motion tests on ourselves\, compare with each other\, and demonstrate how each varying joints will express itself in specific yoga postures. 12 CEUs Available for Yoga Teachers with Yoga Alliance Anatomy is a vast subject\, but this interactive workshop reveals the basics in a way that clarifies and simplifies the yoga practice - putting the attention back where it belongs - how the key action of each pose makes you FEEL and moves the life force. In this workshop\, participants often experience an “ah-ha” moment about their body and their practice\, which can be powerfully liberating and self-accepting. This workshop is ideal for all yoga practitioners\, whether one is a beginner or experienced student wishing to deepen their knowledge of their body in practice and for yoga teachers looking to expand their teaching and cueing.
-URL:https://www.visitfrederick.org/event/your-body-in-yoga%3a-a-functional-anatomy-weekend-with-machelle-lee/26311/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventamericanaconcertatschifferstadt26280-20261115@visitfrederick
-DTSTAMP:20261115T165621Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:Americana Concert at Schifferstadt
-DESCRIPTION:Join Frederick County Landmarks Foundation\, in celebration of A250\, for a live Americana Concert with the Jen Hawley Trio. The event is on Sunday November 15\, 2026 and starts at 3PM. Hot cider and cookies will be available. FREE to attend.
-URL:https://www.visitfrederick.org/event/americana-concert-at-schifferstadt/26280/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventcarveandprintworkshop26363-20261115@visitfrederick
-DTSTAMP:20261115T165621Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261130
-SUMMARY:Carve and Print Workshop
-DESCRIPTION:We will be carving and printing our own 4x6” design into rubber. This is great for beginners and advanced printmakers. The cost covers all the supplies needed to make and print- the carving tools\, ink\, blocks\, paper\, and everything extra. You get to take your block and prints home with you. Carving tools are not to keep. Ages 15+
-URL:https://www.visitfrederick.org/event/carve-and-print-workshop/26363/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventfrederickcitymarket11348-20261115@visitfrederick
-DTSTAMP:20261115T165621Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:Frederick City Market
-DESCRIPTION:The Frederick City Market is a local food and artisan market located in the historic district of Downtown Frederick\, Maryland. Join us on every Sunday from May through November. Parking is free on Sundays and there are usually plenty of spots on 7th Street and Market Street. You can park at Gravel and Grind (15 E 6th Street) and walk through the gap into the market lot.
-URL:https://www.visitfrederick.org/event/frederick-city-market/11348/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventkninerescueadoptionevent25849-20261115@visitfrederick
-DTSTAMP:20261115T165621Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:Knine Rescue Adoption Event
-DESCRIPTION:Dogs? Beer? What better way to spend your Sunday afternoon! Knine Rescue is a non-profit 501(3)c organization dedicated to animal care and protection through helping shelters find forever homes for their rescues. Learn more here. Meet the pups in our taproom - Knine Rescue will be bringing adorable puppies and lovable adult dogs\, ready to be your new best friend! Get pre-approved for adoption here.
-URL:https://www.visitfrederick.org/event/knine-rescue-adoption-event/25849/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventmountolivetcemeteryhistory26mysterytour25244-20261115@visitfrederick
-DTSTAMP:20261115T165621Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:Mount Olivet Cemetery History & Mystery Tour
-DESCRIPTION:Discover Frederick’s Past as we Navigate through the Labyrinth of Graves\, Crypts and Monuments of Historic Mount Olivet Cemetery. One of Maryland’s Largest and most Beautiful Cemeteries. Final Resting Place of Francis Scott Key\, Author of our National Anthem\, the Star Spangled Banner\; Maryland's first Governor\, Thomas Johnson and Civil War Heroine\, Barbara Fritchie. Tour also includes Intriguing Facts about the Cemetery’s Origin\, Tombstone Design\, Grave Robbing\, Mass Graves\, plus stops at other Distinctive Burial Plots\, including Revolutionary War\, War of 1812 and Civil War. Tour concludes with a visit to the Key Memorial Chapel. Reservations Required. (This is Not a Ghost Tour)
-URL:https://www.visitfrederick.org/event/mount-olivet-cemetery-history-%26-mystery-tour/25244/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventpatrioticmusicbingo26259-20261115@visitfrederick
-DTSTAMP:20261115T165621Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:Patriotic Music Bingo
-DESCRIPTION:Patriotic Music Bingo - bingo\, food and fun for all!
-URL:https://www.visitfrederick.org/event/patriotic-music-bingo/26259/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsandboxbrewhouse23336-20261116@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Pour House Trivia at Sandbox Brewhouse
@@ -105,7 +33,7 @@ URL:https://www.visitfrederick.org/event/pour-house-trivia-at-sandbox-brewhouse/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261117@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -114,7 +42,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpaintyourpet22769-20261117@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Paint Your Pet
@@ -123,7 +51,7 @@ URL:https://www.visitfrederick.org/event/paint-your-pet/22769/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventworldwide3aunchartedterritoriesscreening26349-20261117@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Worldwide: Uncharted Territories Screening
@@ -132,7 +60,7 @@ URL:https://www.visitfrederick.org/event/worldwide%3a-uncharted-territories-scre
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261118@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -141,7 +69,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventgamenight24976-20261118@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Game Night
@@ -150,7 +78,7 @@ URL:https://www.visitfrederick.org/event/game-night/24976/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsasquatchhuntadult26familyexpeditions23838-20261118@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Sasquatch Hunt - Adult & Family Expeditions
@@ -159,7 +87,7 @@ URL:https://www.visitfrederick.org/event/sasquatch-hunt-adult-%26-family-expedit
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20261118@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Songwriter's Workshop
@@ -168,7 +96,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261119@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -177,7 +105,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261119@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Board Game Night
@@ -186,7 +114,7 @@ URL:https://www.visitfrederick.org/event/board-game-night/23706/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcentennialfilmseries3acabininthesky194326105-20261119@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:CENTENNIAL FILM Series: Cabin in the Sky (1943)
@@ -195,7 +123,7 @@ URL:https://www.visitfrederick.org/event/centennial-film-series%3a-cabin-in-the-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261119@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -204,7 +132,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventdmvjazzseries3aalexhamburger26104-20261119@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:DMV Jazz Series: Alex Hamburger
@@ -213,7 +141,7 @@ URL:https://www.visitfrederick.org/event/dmv-jazz-series%3a-alex-hamburger/26104
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfeedingthearmy3alogisticsfoodandfootballinthecivilwar26325-20261119@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Feeding the Army: Logistics\, Food and Football in the Civil War
@@ -222,7 +150,7 @@ URL:https://www.visitfrederick.org/event/feeding-the-army%3a-logistics-food-and-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventkaraokewithdjspyder26337-20261119@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Karaoke with DJ Spyder
@@ -231,7 +159,7 @@ URL:https://www.visitfrederick.org/event/karaoke-with-dj-spyder/26337/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261119@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Pour House Trivia at Steinhardt Brewing Company
@@ -240,7 +168,7 @@ URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthegreatwarandgreatflucometothemothercontinent26365-20261119@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:The Great War and Great Flu Come to the Mother Continent
@@ -249,7 +177,7 @@ URL:https://www.visitfrederick.org/event/the-great-war-and-great-flu-come-to-the
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261120@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -258,7 +186,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventartatnoon3afelixgonzaleztorresatglenstone22249-20261120@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Art at Noon: Felix Gonzalez-Torres at Glenstone
@@ -267,7 +195,7 @@ URL:https://www.visitfrederick.org/event/art-at-noon%3a-felix-gonzalez-torres-at
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261120@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -276,7 +204,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261120@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Guided Exhibit Tours
@@ -285,7 +213,7 @@ URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventmarylandchristmasshow9126-20261120@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261130
 SUMMARY:Maryland Christmas Show
@@ -293,8 +221,62 @@ DESCRIPTION:Nothing brings back the yuletide spirit quite like the Maryland Chri
 URL:https://www.visitfrederick.org/event/maryland-christmas-show/9126/
 END:VEVENT
 BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventreelreflections26374-20261120@visitfrederick
+DTSTAMP:20261116T201549Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261219
+SUMMARY:Reel Reflections
+DESCRIPTION:Step into the brand-new Heritage Center Theater for Reels of Reflection! Enjoy a screening of South & Saints\, a moving & humorous stage production\, complete with a bag of popcorn and an opportunity to stay afterward for engaging conversation and community connection.
+URL:https://www.visitfrederick.org/event/reel-reflections/26374/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventsoundbathhealingwithsabrinaremsberg26312-20261120@visitfrederick
+DTSTAMP:20261116T201549Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Sound Bath Healing with Sabrina Remsberg
+DESCRIPTION:Immerse yourself in deep rest and renewal through the power of sound. In this workshop\, you’ll be guided into relaxation as the tones of crystal singing bowls\, chimes\, and other resonant instruments create a soothing\, immersive soundscape. Sound baths are more than just beautiful to listen to - they recalibrate body and mind through subtle energy. Vibrational tones: - Calm the nervous system and reduce stress - Support better sleep and deep relaxation - Release tension held in the body - Quiet busy thoughts and ease anxiety - Promote a meditative\, spacious state of awareness - Restore a sense of harmony and balance No prior experience is needed. Simply come as you are\, lie back comfortably\, and allow the waves of sound to wash through you. Many participants leave feeling lighter\, more grounded\, and deeply refreshed\, as if they’ve had hours of rest in just one session. Consider bringing your own pillow\, blanket\, extra mat/padding or anything else to make your experience cozy. We will provide a yoga mat\, bolster and extra blankets\, to assist to set you up comfortably.
+URL:https://www.visitfrederick.org/event/sound-bath-healing-with-sabrina-remsberg/26312/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventthe90sunplugged26350-20261120@visitfrederick
+DTSTAMP:20261116T201549Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:The 90's Unplugged
+DESCRIPTION:Local musicians Will Sims\, Bekah Rogers\, and Gabe Singer are bringing The 90’s Unplugged: an open mic & live karaoke event to Sandbox Brewhouse! This is a Here for the Beats production\; an organization dedicated to bringing people together over live music for a good cause. Founded by Gabe and Bekah. Whether you’re participating on the stage or just there for the vibes\, you’re bound to have a blast. From talented musicians throwing their hat into the open mic\, to karaoke accompanied by real instrumentals\, there will surely be a little bit of everything musical at this event.
+URL:https://www.visitfrederick.org/event/the-90s-unplugged/26350/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261120@visitfrederick
+DTSTAMP:20261116T201549Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:The Crater Sisters' Christmas Special
+DESCRIPTION:When the entire cast and crew quit thirty minutes before her comeback special\, a diva is forced to reunite with the sister she’s not spoken to in three decades. A zany\, musical romp filled with ghosts\, wonder\, delusion\, and the magic of the holidays! Created in part by MET Ensemble Member\, Lori Boyd. THE CRATER SISTERS’ CHRISTMAS SPECIAL BY JOHN MOROGIELLO AND LORI BOYD DIRECTED BY LYNN SHAPR SPEARS MUSIC DIRECTED BY MELYNDA BURDETTE WINTROL CHOREOGRAPHED BY JULIE HERBER NOVEMBER 20 – DECEMBER 20
+URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25835/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventthewharfratslivegratefuldeadband26342-20261120@visitfrederick
+DTSTAMP:20261116T201549Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:The Wharf Rats LIVE Grateful Dead Band
+DESCRIPTION:Don't miss one of the DMV's longest running GRATEFUL DEAD TRIBUTE BANDS! Get ready to jam! Rock\, Blues\, Soul\, Country\, Reggae\, You'll hear it all! Check out The Wharf Rats Live! @ Rockwell Brewery 11/20/26 @ 8PM One of the DMV's Best GRATEFUL DEAD TRIBUTE BAND is coming back to the Rockwell Stage - and YOU Are Invited!! Get ready to Jam! You are in store for a full band musical trip. this is a band and night you don't want to miss out on - They will definitely put a smile on your face and get you dancing all night long! These guys started fifteen years ago as a project to bring a new interpretation to the long format jam sound created by the Dead. The band has evolved over these past years to incorporate all of the classics\, as well as originals in the same genre. The sound is unique and captivating\, drawing the audience in as we expand our musical bounds that have no limits. \\
+URL:https://www.visitfrederick.org/event/the-wharf-rats-live-grateful-dead-band/26342/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261120@visitfrederick
+DTSTAMP:20261116T201549Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:The YAAC Show
+DESCRIPTION:The YAAC Show is every other Friday. A LIVE talk show produced by the creative team at the Y Arts Center. Join us for an evening of inspiration\, entertainment\, and community connection—powered by the YMCA’s Arts and Humanities initiatives. Every other Friday at 6:30pm. $10 at the door. Free for YMCA Members. Check IG @y_arts_center for interview and musical guest information.
+URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
+END:VEVENT
+BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261121@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -302,17 +284,44 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventfrederickcitymarket11348-20261122@visitfrederick
-DTSTAMP:20261115T165621Z
+UID:httpswwwvisitfrederickorgeventamotownchristmas20746-20261121@visitfrederick
+DTSTAMP:20261116T201549Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:A Motown Christmas
+DESCRIPTION:The Music & Magic of Motown Celebrate the season with A Motown Christmas \, a high-energy holiday spectacular featuring legendary vocalists from The Miracles and The Contours. Backed by a dynamic six-piece band\, these icons deliver powerful performances of timeless Motown hits and holiday classics\, all wrapped in lush harmonies and captivating choreography. Perfect for the whole family\, this festive concert invites audiences to sing\, dance\, and relive the golden age of soul music while embracing the warmth and joy of the holidays. Whether you’re a long-time Motown fan or discovering the magic of Motown music for the first time\, A Motown Christmas guarantees a night of celebration\, nostalgia\, and heart. Learn more about A Motown Christmas on the official website.
+URL:https://www.visitfrederick.org/event/a-motown-christmas/20746/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventart26architecturewalkingtour22070-20261121@visitfrederick
+DTSTAMP:20261116T201549Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Art & Architecture Walking Tour
+DESCRIPTION:Look at Frederick with new eyes. Experience the history and beauty of downtown as we explore some of the popular architectural styles\, local art\, and history. *Tour starts at the Museum of Frederick County History\, 24 East Church Street\, Frederick\, MD 21701 Length: 90 minutes\, about 1 mile
+URL:https://www.visitfrederick.org/event/art-%26-architecture-walking-tour/22070/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261121@visitfrederick
+DTSTAMP:20261116T201549Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:The Crater Sisters' Christmas Special
+DESCRIPTION:When the entire cast and crew quit thirty minutes before her comeback special\, a diva is forced to reunite with the sister she’s not spoken to in three decades. A zany\, musical romp filled with ghosts\, wonder\, delusion\, and the magic of the holidays! Created in part by MET Ensemble Member\, Lori Boyd. THE CRATER SISTERS’ CHRISTMAS SPECIAL BY JOHN MOROGIELLO AND LORI BOYD DIRECTED BY LYNN SHAPR SPEARS MUSIC DIRECTED BY MELYNDA BURDETTE WINTROL CHOREOGRAPHED BY JULIE HERBER NOVEMBER 20 – DECEMBER 20
+URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25835/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261122@visitfrederick
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-SUMMARY:Frederick City Market
-DESCRIPTION:The Frederick City Market is a local food and artisan market located in the historic district of Downtown Frederick\, Maryland. Join us on every Sunday from May through November. Parking is free on Sundays and there are usually plenty of spots on 7th Street and Market Street. You can park at Gravel and Grind (15 E 6th Street) and walk through the gap into the market lot.
-URL:https://www.visitfrederick.org/event/frederick-city-market/11348/
+SUMMARY:The Crater Sisters' Christmas Special
+DESCRIPTION:When the entire cast and crew quit thirty minutes before her comeback special\, a diva is forced to reunite with the sister she’s not spoken to in three decades. A zany\, musical romp filled with ghosts\, wonder\, delusion\, and the magic of the holidays! Created in part by MET Ensemble Member\, Lori Boyd. THE CRATER SISTERS’ CHRISTMAS SPECIAL BY JOHN MOROGIELLO AND LORI BOYD DIRECTED BY LYNN SHAPR SPEARS MUSIC DIRECTED BY MELYNDA BURDETTE WINTROL CHOREOGRAPHED BY JULIE HERBER NOVEMBER 20 – DECEMBER 20
+URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25835/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsandboxbrewhouse23336-20261123@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Pour House Trivia at Sandbox Brewhouse
@@ -321,7 +330,7 @@ URL:https://www.visitfrederick.org/event/pour-house-trivia-at-sandbox-brewhouse/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261124@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -330,7 +339,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261125@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -339,7 +348,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventgamenight24976-20261125@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Game Night
@@ -348,7 +357,7 @@ URL:https://www.visitfrederick.org/event/game-night/24976/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20261125@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Songwriter's Workshop
@@ -357,7 +366,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261126@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -366,7 +375,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261126@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Board Game Night
@@ -375,7 +384,7 @@ URL:https://www.visitfrederick.org/event/board-game-night/23706/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261126@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -384,7 +393,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventkaraokewithdjspyder26337-20261126@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Karaoke with DJ Spyder
@@ -393,7 +402,7 @@ URL:https://www.visitfrederick.org/event/karaoke-with-dj-spyder/26337/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261126@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Pour House Trivia at Steinhardt Brewing Company
@@ -401,8 +410,17 @@ DESCRIPTION:Trivia hosted by Pour House Trivia. Every Thursday 7-9 PM
 URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing-company/18781/
 END:VEVENT
 BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261126@visitfrederick
+DTSTAMP:20261116T201549Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:The Crater Sisters' Christmas Special
+DESCRIPTION:When the entire cast and crew quit thirty minutes before her comeback special\, a diva is forced to reunite with the sister she’s not spoken to in three decades. A zany\, musical romp filled with ghosts\, wonder\, delusion\, and the magic of the holidays! Created in part by MET Ensemble Member\, Lori Boyd. THE CRATER SISTERS’ CHRISTMAS SPECIAL BY JOHN MOROGIELLO AND LORI BOYD DIRECTED BY LYNN SHAPR SPEARS MUSIC DIRECTED BY MELYNDA BURDETTE WINTROL CHOREOGRAPHED BY JULIE HERBER NOVEMBER 20 – DECEMBER 20
+URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25835/
+END:VEVENT
+BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261127@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -411,7 +429,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261127@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -420,7 +438,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261127@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Guided Exhibit Tours
@@ -428,8 +446,26 @@ DESCRIPTION:Experience the Museum of Frederick County History through a guided t
 URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
 END:VEVENT
 BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261127@visitfrederick
+DTSTAMP:20261116T201549Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:The Crater Sisters' Christmas Special
+DESCRIPTION:When the entire cast and crew quit thirty minutes before her comeback special\, a diva is forced to reunite with the sister she’s not spoken to in three decades. A zany\, musical romp filled with ghosts\, wonder\, delusion\, and the magic of the holidays! Created in part by MET Ensemble Member\, Lori Boyd. THE CRATER SISTERS’ CHRISTMAS SPECIAL BY JOHN MOROGIELLO AND LORI BOYD DIRECTED BY LYNN SHAPR SPEARS MUSIC DIRECTED BY MELYNDA BURDETTE WINTROL CHOREOGRAPHED BY JULIE HERBER NOVEMBER 20 – DECEMBER 20
+URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25835/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261127@visitfrederick
+DTSTAMP:20261116T201549Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:The YAAC Show
+DESCRIPTION:The YAAC Show is every other Friday. A LIVE talk show produced by the creative team at the Y Arts Center. Join us for an evening of inspiration\, entertainment\, and community connection—powered by the YMCA’s Arts and Humanities initiatives. Every other Friday at 6:30pm. $10 at the door. Free for YMCA Members. Check IG @y_arts_center for interview and musical guest information.
+URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
+END:VEVENT
+BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261128@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -437,17 +473,26 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventfrederickcitymarket11348-20261129@visitfrederick
-DTSTAMP:20261115T165621Z
+UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261128@visitfrederick
+DTSTAMP:20261116T201549Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:The Crater Sisters' Christmas Special
+DESCRIPTION:When the entire cast and crew quit thirty minutes before her comeback special\, a diva is forced to reunite with the sister she’s not spoken to in three decades. A zany\, musical romp filled with ghosts\, wonder\, delusion\, and the magic of the holidays! Created in part by MET Ensemble Member\, Lori Boyd. THE CRATER SISTERS’ CHRISTMAS SPECIAL BY JOHN MOROGIELLO AND LORI BOYD DIRECTED BY LYNN SHAPR SPEARS MUSIC DIRECTED BY MELYNDA BURDETTE WINTROL CHOREOGRAPHED BY JULIE HERBER NOVEMBER 20 – DECEMBER 20
+URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25835/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261129@visitfrederick
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-SUMMARY:Frederick City Market
-DESCRIPTION:The Frederick City Market is a local food and artisan market located in the historic district of Downtown Frederick\, Maryland. Join us on every Sunday from May through November. Parking is free on Sundays and there are usually plenty of spots on 7th Street and Market Street. You can park at Gravel and Grind (15 E 6th Street) and walk through the gap into the market lot.
-URL:https://www.visitfrederick.org/event/frederick-city-market/11348/
+SUMMARY:The Crater Sisters' Christmas Special
+DESCRIPTION:When the entire cast and crew quit thirty minutes before her comeback special\, a diva is forced to reunite with the sister she’s not spoken to in three decades. A zany\, musical romp filled with ghosts\, wonder\, delusion\, and the magic of the holidays! Created in part by MET Ensemble Member\, Lori Boyd. THE CRATER SISTERS’ CHRISTMAS SPECIAL BY JOHN MOROGIELLO AND LORI BOYD DIRECTED BY LYNN SHAPR SPEARS MUSIC DIRECTED BY MELYNDA BURDETTE WINTROL CHOREOGRAPHED BY JULIE HERBER NOVEMBER 20 – DECEMBER 20
+URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25835/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsandboxbrewhouse23336-20261130@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Pour House Trivia at Sandbox Brewhouse
@@ -456,7 +501,7 @@ URL:https://www.visitfrederick.org/event/pour-house-trivia-at-sandbox-brewhouse/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261201@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -465,7 +510,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261202@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -474,7 +519,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventgamenight24976-20261202@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Game Night
@@ -483,7 +528,7 @@ URL:https://www.visitfrederick.org/event/game-night/24976/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20261202@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Songwriter's Workshop
@@ -492,7 +537,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261203@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -501,7 +546,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261203@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Board Game Night
@@ -510,7 +555,7 @@ URL:https://www.visitfrederick.org/event/board-game-night/23706/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261203@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -519,7 +564,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventkaraokewithdjspyder26337-20261203@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Karaoke with DJ Spyder
@@ -528,7 +573,7 @@ URL:https://www.visitfrederick.org/event/karaoke-with-dj-spyder/26337/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261203@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Pour House Trivia at Steinhardt Brewing Company
@@ -536,8 +581,17 @@ DESCRIPTION:Trivia hosted by Pour House Trivia. Every Thursday 7-9 PM
 URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing-company/18781/
 END:VEVENT
 BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261203@visitfrederick
+DTSTAMP:20261116T201549Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:The Crater Sisters' Christmas Special
+DESCRIPTION:When the entire cast and crew quit thirty minutes before her comeback special\, a diva is forced to reunite with the sister she’s not spoken to in three decades. A zany\, musical romp filled with ghosts\, wonder\, delusion\, and the magic of the holidays! Created in part by MET Ensemble Member\, Lori Boyd. THE CRATER SISTERS’ CHRISTMAS SPECIAL BY JOHN MOROGIELLO AND LORI BOYD DIRECTED BY LYNN SHAPR SPEARS MUSIC DIRECTED BY MELYNDA BURDETTE WINTROL CHOREOGRAPHED BY JULIE HERBER NOVEMBER 20 – DECEMBER 20
+URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25835/
+END:VEVENT
+BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261204@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -546,7 +600,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261204@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -555,7 +609,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261204@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Guided Exhibit Tours
@@ -563,8 +617,26 @@ DESCRIPTION:Experience the Museum of Frederick County History through a guided t
 URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
 END:VEVENT
 BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261204@visitfrederick
+DTSTAMP:20261116T201549Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:The Crater Sisters' Christmas Special
+DESCRIPTION:When the entire cast and crew quit thirty minutes before her comeback special\, a diva is forced to reunite with the sister she’s not spoken to in three decades. A zany\, musical romp filled with ghosts\, wonder\, delusion\, and the magic of the holidays! Created in part by MET Ensemble Member\, Lori Boyd. THE CRATER SISTERS’ CHRISTMAS SPECIAL BY JOHN MOROGIELLO AND LORI BOYD DIRECTED BY LYNN SHAPR SPEARS MUSIC DIRECTED BY MELYNDA BURDETTE WINTROL CHOREOGRAPHED BY JULIE HERBER NOVEMBER 20 – DECEMBER 20
+URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25835/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261204@visitfrederick
+DTSTAMP:20261116T201549Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:The YAAC Show
+DESCRIPTION:The YAAC Show is every other Friday. A LIVE talk show produced by the creative team at the Y Arts Center. Join us for an evening of inspiration\, entertainment\, and community connection—powered by the YMCA’s Arts and Humanities initiatives. Every other Friday at 6:30pm. $10 at the door. Free for YMCA Members. Check IG @y_arts_center for interview and musical guest information.
+URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
+END:VEVENT
+BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261205@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -572,8 +644,26 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261205@visitfrederick
+DTSTAMP:20261116T201549Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:The Crater Sisters' Christmas Special
+DESCRIPTION:When the entire cast and crew quit thirty minutes before her comeback special\, a diva is forced to reunite with the sister she’s not spoken to in three decades. A zany\, musical romp filled with ghosts\, wonder\, delusion\, and the magic of the holidays! Created in part by MET Ensemble Member\, Lori Boyd. THE CRATER SISTERS’ CHRISTMAS SPECIAL BY JOHN MOROGIELLO AND LORI BOYD DIRECTED BY LYNN SHAPR SPEARS MUSIC DIRECTED BY MELYNDA BURDETTE WINTROL CHOREOGRAPHED BY JULIE HERBER NOVEMBER 20 – DECEMBER 20
+URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25835/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261206@visitfrederick
+DTSTAMP:20261116T201549Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:The Crater Sisters' Christmas Special
+DESCRIPTION:When the entire cast and crew quit thirty minutes before her comeback special\, a diva is forced to reunite with the sister she’s not spoken to in three decades. A zany\, musical romp filled with ghosts\, wonder\, delusion\, and the magic of the holidays! Created in part by MET Ensemble Member\, Lori Boyd. THE CRATER SISTERS’ CHRISTMAS SPECIAL BY JOHN MOROGIELLO AND LORI BOYD DIRECTED BY LYNN SHAPR SPEARS MUSIC DIRECTED BY MELYNDA BURDETTE WINTROL CHOREOGRAPHED BY JULIE HERBER NOVEMBER 20 – DECEMBER 20
+URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25835/
+END:VEVENT
+BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsandboxbrewhouse23336-20261207@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Pour House Trivia at Sandbox Brewhouse
@@ -582,7 +672,7 @@ URL:https://www.visitfrederick.org/event/pour-house-trivia-at-sandbox-brewhouse/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261208@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -591,7 +681,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261209@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -600,7 +690,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventgamenight24976-20261209@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Game Night
@@ -609,7 +699,7 @@ URL:https://www.visitfrederick.org/event/game-night/24976/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20261209@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Songwriter's Workshop
@@ -618,7 +708,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261210@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -627,7 +717,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261210@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Board Game Night
@@ -636,7 +726,7 @@ URL:https://www.visitfrederick.org/event/board-game-night/23706/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261210@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -645,7 +735,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventkaraokewithdjspyder26337-20261210@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Karaoke with DJ Spyder
@@ -654,7 +744,7 @@ URL:https://www.visitfrederick.org/event/karaoke-with-dj-spyder/26337/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261210@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Pour House Trivia at Steinhardt Brewing Company
@@ -662,8 +752,17 @@ DESCRIPTION:Trivia hosted by Pour House Trivia. Every Thursday 7-9 PM
 URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing-company/18781/
 END:VEVENT
 BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261210@visitfrederick
+DTSTAMP:20261116T201549Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:The Crater Sisters' Christmas Special
+DESCRIPTION:When the entire cast and crew quit thirty minutes before her comeback special\, a diva is forced to reunite with the sister she’s not spoken to in three decades. A zany\, musical romp filled with ghosts\, wonder\, delusion\, and the magic of the holidays! Created in part by MET Ensemble Member\, Lori Boyd. THE CRATER SISTERS’ CHRISTMAS SPECIAL BY JOHN MOROGIELLO AND LORI BOYD DIRECTED BY LYNN SHAPR SPEARS MUSIC DIRECTED BY MELYNDA BURDETTE WINTROL CHOREOGRAPHED BY JULIE HERBER NOVEMBER 20 – DECEMBER 20
+URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25835/
+END:VEVENT
+BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261211@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -672,7 +771,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261211@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -681,7 +780,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261211@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Guided Exhibit Tours
@@ -689,8 +788,26 @@ DESCRIPTION:Experience the Museum of Frederick County History through a guided t
 URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
 END:VEVENT
 BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261211@visitfrederick
+DTSTAMP:20261116T201549Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:The Crater Sisters' Christmas Special
+DESCRIPTION:When the entire cast and crew quit thirty minutes before her comeback special\, a diva is forced to reunite with the sister she’s not spoken to in three decades. A zany\, musical romp filled with ghosts\, wonder\, delusion\, and the magic of the holidays! Created in part by MET Ensemble Member\, Lori Boyd. THE CRATER SISTERS’ CHRISTMAS SPECIAL BY JOHN MOROGIELLO AND LORI BOYD DIRECTED BY LYNN SHAPR SPEARS MUSIC DIRECTED BY MELYNDA BURDETTE WINTROL CHOREOGRAPHED BY JULIE HERBER NOVEMBER 20 – DECEMBER 20
+URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25835/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261211@visitfrederick
+DTSTAMP:20261116T201549Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:The YAAC Show
+DESCRIPTION:The YAAC Show is every other Friday. A LIVE talk show produced by the creative team at the Y Arts Center. Join us for an evening of inspiration\, entertainment\, and community connection—powered by the YMCA’s Arts and Humanities initiatives. Every other Friday at 6:30pm. $10 at the door. Free for YMCA Members. Check IG @y_arts_center for interview and musical guest information.
+URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
+END:VEVENT
+BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261212@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -698,8 +815,26 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261212@visitfrederick
+DTSTAMP:20261116T201549Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:The Crater Sisters' Christmas Special
+DESCRIPTION:When the entire cast and crew quit thirty minutes before her comeback special\, a diva is forced to reunite with the sister she’s not spoken to in three decades. A zany\, musical romp filled with ghosts\, wonder\, delusion\, and the magic of the holidays! Created in part by MET Ensemble Member\, Lori Boyd. THE CRATER SISTERS’ CHRISTMAS SPECIAL BY JOHN MOROGIELLO AND LORI BOYD DIRECTED BY LYNN SHAPR SPEARS MUSIC DIRECTED BY MELYNDA BURDETTE WINTROL CHOREOGRAPHED BY JULIE HERBER NOVEMBER 20 – DECEMBER 20
+URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25835/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261213@visitfrederick
+DTSTAMP:20261116T201549Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:The Crater Sisters' Christmas Special
+DESCRIPTION:When the entire cast and crew quit thirty minutes before her comeback special\, a diva is forced to reunite with the sister she’s not spoken to in three decades. A zany\, musical romp filled with ghosts\, wonder\, delusion\, and the magic of the holidays! Created in part by MET Ensemble Member\, Lori Boyd. THE CRATER SISTERS’ CHRISTMAS SPECIAL BY JOHN MOROGIELLO AND LORI BOYD DIRECTED BY LYNN SHAPR SPEARS MUSIC DIRECTED BY MELYNDA BURDETTE WINTROL CHOREOGRAPHED BY JULIE HERBER NOVEMBER 20 – DECEMBER 20
+URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25835/
+END:VEVENT
+BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsandboxbrewhouse23336-20261214@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:Pour House Trivia at Sandbox Brewhouse
@@ -708,7 +843,7 @@ URL:https://www.visitfrederick.org/event/pour-house-trivia-at-sandbox-brewhouse/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261215@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -717,7 +852,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261216@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -726,7 +861,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventgamenight24976-20261216@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Game Night
@@ -735,7 +870,7 @@ URL:https://www.visitfrederick.org/event/game-night/24976/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20261216@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Songwriter's Workshop
@@ -744,7 +879,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261217@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:Board Game Night
@@ -753,7 +888,7 @@ URL:https://www.visitfrederick.org/event/board-game-night/23706/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261217@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -762,7 +897,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventkaraokewithdjspyder26337-20261217@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:Karaoke with DJ Spyder
@@ -771,7 +906,7 @@ URL:https://www.visitfrederick.org/event/karaoke-with-dj-spyder/26337/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261217@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:Pour House Trivia at Steinhardt Brewing Company
@@ -779,8 +914,17 @@ DESCRIPTION:Trivia hosted by Pour House Trivia. Every Thursday 7-9 PM
 URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing-company/18781/
 END:VEVENT
 BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261217@visitfrederick
+DTSTAMP:20261116T201549Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:The Crater Sisters' Christmas Special
+DESCRIPTION:When the entire cast and crew quit thirty minutes before her comeback special\, a diva is forced to reunite with the sister she’s not spoken to in three decades. A zany\, musical romp filled with ghosts\, wonder\, delusion\, and the magic of the holidays! Created in part by MET Ensemble Member\, Lori Boyd. THE CRATER SISTERS’ CHRISTMAS SPECIAL BY JOHN MOROGIELLO AND LORI BOYD DIRECTED BY LYNN SHAPR SPEARS MUSIC DIRECTED BY MELYNDA BURDETTE WINTROL CHOREOGRAPHED BY JULIE HERBER NOVEMBER 20 – DECEMBER 20
+URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25835/
+END:VEVENT
+BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261218@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -788,8 +932,44 @@ DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long
 URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
 END:VEVENT
 BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261218@visitfrederick
+DTSTAMP:20261116T201549Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:The Crater Sisters' Christmas Special
+DESCRIPTION:When the entire cast and crew quit thirty minutes before her comeback special\, a diva is forced to reunite with the sister she’s not spoken to in three decades. A zany\, musical romp filled with ghosts\, wonder\, delusion\, and the magic of the holidays! Created in part by MET Ensemble Member\, Lori Boyd. THE CRATER SISTERS’ CHRISTMAS SPECIAL BY JOHN MOROGIELLO AND LORI BOYD DIRECTED BY LYNN SHAPR SPEARS MUSIC DIRECTED BY MELYNDA BURDETTE WINTROL CHOREOGRAPHED BY JULIE HERBER NOVEMBER 20 – DECEMBER 20
+URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25835/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261218@visitfrederick
+DTSTAMP:20261116T201549Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:The YAAC Show
+DESCRIPTION:The YAAC Show is every other Friday. A LIVE talk show produced by the creative team at the Y Arts Center. Join us for an evening of inspiration\, entertainment\, and community connection—powered by the YMCA’s Arts and Humanities initiatives. Every other Friday at 6:30pm. $10 at the door. Free for YMCA Members. Check IG @y_arts_center for interview and musical guest information.
+URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261219@visitfrederick
+DTSTAMP:20261116T201549Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:The Crater Sisters' Christmas Special
+DESCRIPTION:When the entire cast and crew quit thirty minutes before her comeback special\, a diva is forced to reunite with the sister she’s not spoken to in three decades. A zany\, musical romp filled with ghosts\, wonder\, delusion\, and the magic of the holidays! Created in part by MET Ensemble Member\, Lori Boyd. THE CRATER SISTERS’ CHRISTMAS SPECIAL BY JOHN MOROGIELLO AND LORI BOYD DIRECTED BY LYNN SHAPR SPEARS MUSIC DIRECTED BY MELYNDA BURDETTE WINTROL CHOREOGRAPHED BY JULIE HERBER NOVEMBER 20 – DECEMBER 20
+URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25835/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261220@visitfrederick
+DTSTAMP:20261116T201549Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:The Crater Sisters' Christmas Special
+DESCRIPTION:When the entire cast and crew quit thirty minutes before her comeback special\, a diva is forced to reunite with the sister she’s not spoken to in three decades. A zany\, musical romp filled with ghosts\, wonder\, delusion\, and the magic of the holidays! Created in part by MET Ensemble Member\, Lori Boyd. THE CRATER SISTERS’ CHRISTMAS SPECIAL BY JOHN MOROGIELLO AND LORI BOYD DIRECTED BY LYNN SHAPR SPEARS MUSIC DIRECTED BY MELYNDA BURDETTE WINTROL CHOREOGRAPHED BY JULIE HERBER NOVEMBER 20 – DECEMBER 20
+URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25835/
+END:VEVENT
+BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsandboxbrewhouse23336-20261221@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:Pour House Trivia at Sandbox Brewhouse
@@ -798,7 +978,7 @@ URL:https://www.visitfrederick.org/event/pour-house-trivia-at-sandbox-brewhouse/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261222@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -807,7 +987,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261223@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -816,7 +996,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventgamenight24976-20261223@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:Game Night
@@ -825,7 +1005,7 @@ URL:https://www.visitfrederick.org/event/game-night/24976/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20261223@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:Songwriter's Workshop
@@ -834,7 +1014,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261224@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:Board Game Night
@@ -843,7 +1023,7 @@ URL:https://www.visitfrederick.org/event/board-game-night/23706/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261224@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -852,7 +1032,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261224@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:Pour House Trivia at Steinhardt Brewing Company
@@ -861,7 +1041,7 @@ URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261225@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -870,7 +1050,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261229@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -879,7 +1059,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261230@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -888,7 +1068,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventgamenight24976-20261230@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:Game Night
@@ -897,7 +1077,7 @@ URL:https://www.visitfrederick.org/event/game-night/24976/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20261230@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:Songwriter's Workshop
@@ -906,7 +1086,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261231@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Board Game Night
@@ -915,7 +1095,7 @@ URL:https://www.visitfrederick.org/event/board-game-night/23706/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261231@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -924,7 +1104,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261231@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Pour House Trivia at Steinhardt Brewing Company
@@ -933,7 +1113,7 @@ URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270106@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:Songwriter's Workshop
@@ -942,7 +1122,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270113@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
 SUMMARY:Songwriter's Workshop
@@ -951,7 +1131,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270120@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 SUMMARY:Songwriter's Workshop
@@ -960,7 +1140,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270127@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:Songwriter's Workshop
@@ -969,7 +1149,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270203@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 SUMMARY:Songwriter's Workshop
@@ -978,7 +1158,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270210@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
 SUMMARY:Songwriter's Workshop
@@ -987,7 +1167,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270217@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
 SUMMARY:Songwriter's Workshop
@@ -996,7 +1176,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270224@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
 SUMMARY:Songwriter's Workshop
@@ -1005,7 +1185,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270303@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
 SUMMARY:Songwriter's Workshop
@@ -1014,7 +1194,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270310@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
 SUMMARY:Songwriter's Workshop
@@ -1023,7 +1203,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270317@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
 SUMMARY:Songwriter's Workshop
@@ -1032,7 +1212,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270324@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270325
 SUMMARY:Songwriter's Workshop
@@ -1041,7 +1221,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270331@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
 SUMMARY:Songwriter's Workshop
@@ -1050,7 +1230,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270407@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
 SUMMARY:Songwriter's Workshop
@@ -1059,7 +1239,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270414@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270414
 DTEND;VALUE=DATE:20270415
 SUMMARY:Songwriter's Workshop
@@ -1068,7 +1248,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270421@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270422
 SUMMARY:Songwriter's Workshop
@@ -1077,7 +1257,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270428@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270429
 SUMMARY:Songwriter's Workshop
@@ -1086,7 +1266,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270505@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270506
 SUMMARY:Songwriter's Workshop
@@ -1095,7 +1275,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270512@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270512
 DTEND;VALUE=DATE:20270513
 SUMMARY:Songwriter's Workshop
@@ -1104,7 +1284,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270519@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
 SUMMARY:Songwriter's Workshop
@@ -1113,7 +1293,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270526@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270526
 DTEND;VALUE=DATE:20270527
 SUMMARY:Songwriter's Workshop
@@ -1122,7 +1302,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270602@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270602
 DTEND;VALUE=DATE:20270603
 SUMMARY:Songwriter's Workshop
@@ -1131,7 +1311,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270609@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270610
 SUMMARY:Songwriter's Workshop
@@ -1140,7 +1320,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270616@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270616
 DTEND;VALUE=DATE:20270617
 SUMMARY:Songwriter's Workshop
@@ -1149,7 +1329,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270623@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270623
 DTEND;VALUE=DATE:20270624
 SUMMARY:Songwriter's Workshop
@@ -1158,7 +1338,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270630@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:Songwriter's Workshop
@@ -1167,7 +1347,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270707@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270707
 DTEND;VALUE=DATE:20270708
 SUMMARY:Songwriter's Workshop
@@ -1176,7 +1356,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270714@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270714
 DTEND;VALUE=DATE:20270715
 SUMMARY:Songwriter's Workshop
@@ -1185,7 +1365,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270721@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270721
 DTEND;VALUE=DATE:20270722
 SUMMARY:Songwriter's Workshop
@@ -1194,7 +1374,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270728@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270728
 DTEND;VALUE=DATE:20270729
 SUMMARY:Songwriter's Workshop
@@ -1203,7 +1383,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270804@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270804
 DTEND;VALUE=DATE:20270805
 SUMMARY:Songwriter's Workshop
@@ -1212,7 +1392,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270811@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270811
 DTEND;VALUE=DATE:20270812
 SUMMARY:Songwriter's Workshop
@@ -1221,7 +1401,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270818@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270818
 DTEND;VALUE=DATE:20270819
 SUMMARY:Songwriter's Workshop
@@ -1230,7 +1410,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270825@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270825
 DTEND;VALUE=DATE:20270826
 SUMMARY:Songwriter's Workshop
@@ -1239,7 +1419,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270901@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270901
 DTEND;VALUE=DATE:20270902
 SUMMARY:Songwriter's Workshop
@@ -1248,7 +1428,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270908@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270908
 DTEND;VALUE=DATE:20270909
 SUMMARY:Songwriter's Workshop
@@ -1257,7 +1437,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270915@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270916
 SUMMARY:Songwriter's Workshop
@@ -1266,7 +1446,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270922@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270922
 DTEND;VALUE=DATE:20270923
 SUMMARY:Songwriter's Workshop
@@ -1275,7 +1455,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270929@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20270929
 DTEND;VALUE=DATE:20270930
 SUMMARY:Songwriter's Workshop
@@ -1284,7 +1464,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20271006@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20271006
 DTEND;VALUE=DATE:20271007
 SUMMARY:Songwriter's Workshop
@@ -1293,7 +1473,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20271013@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20271013
 DTEND;VALUE=DATE:20271014
 SUMMARY:Songwriter's Workshop
@@ -1302,7 +1482,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20271020@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20271020
 DTEND;VALUE=DATE:20271021
 SUMMARY:Songwriter's Workshop
@@ -1311,7 +1491,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20271027@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20271027
 DTEND;VALUE=DATE:20271028
 SUMMARY:Songwriter's Workshop
@@ -1320,7 +1500,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20271103@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20271103
 DTEND;VALUE=DATE:20271104
 SUMMARY:Songwriter's Workshop
@@ -1329,7 +1509,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20271110@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20271110
 DTEND;VALUE=DATE:20271111
 SUMMARY:Songwriter's Workshop
@@ -1338,7 +1518,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20271117@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20271117
 DTEND;VALUE=DATE:20271118
 SUMMARY:Songwriter's Workshop
@@ -1347,7 +1527,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20271124@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20271124
 DTEND;VALUE=DATE:20271125
 SUMMARY:Songwriter's Workshop
@@ -1356,7 +1536,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20271201@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20271201
 DTEND;VALUE=DATE:20271202
 SUMMARY:Songwriter's Workshop
@@ -1365,7 +1545,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20271208@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20271208
 DTEND;VALUE=DATE:20271209
 SUMMARY:Songwriter's Workshop
@@ -1374,7 +1554,7 @@ URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20271215@visitfrederick
-DTSTAMP:20261115T165621Z
+DTSTAMP:20261116T201549Z
 DTSTART;VALUE=DATE:20271215
 DTEND;VALUE=DATE:20271216
 SUMMARY:Songwriter's Workshop
