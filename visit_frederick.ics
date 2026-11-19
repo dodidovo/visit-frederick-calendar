@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Visit Frederick Events
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventgentleyogaflow3aabeginneryogaclass25945-20260905@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20261227
 SUMMARY:Gentle Yoga Flow: A Beginner Yoga Class
@@ -15,7 +15,7 @@ URL:https://www.visitfrederick.org/event/gentle-yoga-flow%3a-a-beginner-yoga-cla
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventechoesofvalor26290-20261106@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261130
 SUMMARY:Echoes of Valor
@@ -24,7 +24,7 @@ URL:https://www.visitfrederick.org/event/echoes-of-valor/26290/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventgyro26pastrydays14500-20261112@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261122
 SUMMARY:Gyro & Pastry Days
@@ -32,44 +32,8 @@ DESCRIPTION:Get ready for TEN delicious days of Greek flavor\, Frederick! Join u
 URL:https://www.visitfrederick.org/event/gyro-%26-pastry-days/14500/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261118@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Frederick City Parks & Rec: Senior Yoga
-DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long holds are emphasized in this class. Modifications are provided and welcome during your practice. All ages are welcome.
-URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventgamenight24976-20261118@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Game Night
-DESCRIPTION:Join us weekly and participate in a FREE poker tournament. Games start at 6:00pm and 8:00pm. Check out our large library of board games. Test your chess skill with a growing group of chess enthusiasts (all levels are welcome). Happy Hour Specials: $3 Beef Tacos\, $3 canned beer\, & $5 Margarita's
-URL:https://www.visitfrederick.org/event/game-night/24976/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsasquatchhuntadult26familyexpeditions23838-20261118@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Sasquatch Hunt - Adult & Family Expeditions
-DESCRIPTION:Truth-seekers\, MythBusters\, and folklorists—unite! Reports have surfaced that the elusive Bigfoot —yes\, the legend himself—has wandered far from the misty forests of the Pacific Northwest and taken up winter residence right here in Frederick County. His chosen hideout? The shadowy trails of Othello Park. Frederick County Parks and Recreation is calling on fun-loving adventurers - both solo explorers and fun-loving groups - to join an exclusive expedition to uncover clues\, undeniable evidence\, and perhaps—just perhaps—be the ones to finally solve this legendary mystery. Each discovery earns you raffle tickets for a chance to win amazing prizes from local businesses. Whether you're a devoted believer or a curious skeptic\, this is one adventure you won’t want to miss! So\, lace up your boots\, sharpen your senses\, and prepare for a legendary park adventure. Who knows what—or who—you’ll find out there (1) registration is good for up to 5 household (share the same residence) family members. Family Expedition: This 1-mile loop features moderate terrain\, with mostly even footing and slight elevation changes. This event is open to all ages and involves walking\, so we encourage families to participate at a pace that feels comfortable for them within the allotted time. Trail map provided\; map does not include locations of clues. Event held rain or shine. Additional information to follow in email the week of the event. This session will be held during daylight hours.... perfect for those who feel more comfortable participating before it gets dark! At 6:30 PM the Adult Sasquatch Hunt will begin. The trail spans approximately 2 miles\, featuring moderate terrain with generally even footing and gentle inclines and declines. Trail map provided\; map does not include locations of clues. Please bring headlamp and/or standard flashlight. Event held rain or shine. Additional information to follow in email the week of the event. (1) Registration covers a duo team—or a solo adventurer\, if you dare!
-URL:https://www.visitfrederick.org/event/sasquatch-hunt-adult-%26-family-expeditions/23838/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20261118@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261119@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -78,7 +42,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261119@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Board Game Night
@@ -87,7 +51,7 @@ URL:https://www.visitfrederick.org/event/board-game-night/23706/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcentennialfilmseries3acabininthesky194326105-20261119@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:CENTENNIAL FILM Series: Cabin in the Sky (1943)
@@ -96,7 +60,7 @@ URL:https://www.visitfrederick.org/event/centennial-film-series%3a-cabin-in-the-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261119@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -105,7 +69,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventdmvjazzseries3aalexhamburger26104-20261119@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:DMV Jazz Series: Alex Hamburger
@@ -114,7 +78,7 @@ URL:https://www.visitfrederick.org/event/dmv-jazz-series%3a-alex-hamburger/26104
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfeedingthearmy3alogisticsfoodandfootballinthecivilwar26325-20261119@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Feeding the Army: Logistics\, Food and Football in the Civil War
@@ -123,7 +87,7 @@ URL:https://www.visitfrederick.org/event/feeding-the-army%3a-logistics-food-and-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventkaraokewithdjspyder26337-20261119@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Karaoke with DJ Spyder
@@ -132,7 +96,7 @@ URL:https://www.visitfrederick.org/event/karaoke-with-dj-spyder/26337/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261119@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Pour House Trivia at Steinhardt Brewing Company
@@ -141,7 +105,7 @@ URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthegreatwarandgreatflucometothemothercontinent26365-20261119@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:The Great War and Great Flu Come to the Mother Continent
@@ -150,7 +114,7 @@ URL:https://www.visitfrederick.org/event/the-great-war-and-great-flu-come-to-the
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261120@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -159,7 +123,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventartatnoon3afelixgonzaleztorresatglenstone22249-20261120@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Art at Noon: Felix Gonzalez-Torres at Glenstone
@@ -168,7 +132,7 @@ URL:https://www.visitfrederick.org/event/art-at-noon%3a-felix-gonzalez-torres-at
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261120@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -177,7 +141,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261120@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Guided Exhibit Tours
@@ -186,7 +150,7 @@ URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventmarylandchristmasshow9126-20261120@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261130
 SUMMARY:Maryland Christmas Show
@@ -195,7 +159,7 @@ URL:https://www.visitfrederick.org/event/maryland-christmas-show/9126/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventreelreflections26374-20261120@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261219
 SUMMARY:Reel Reflections
@@ -204,7 +168,7 @@ URL:https://www.visitfrederick.org/event/reel-reflections/26374/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventsoundbathhealingwithsabrinaremsberg26312-20261120@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Sound Bath Healing with Sabrina Remsberg
@@ -213,7 +177,7 @@ URL:https://www.visitfrederick.org/event/sound-bath-healing-with-sabrina-remsber
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthe90sunplugged26350-20261120@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:The 90's Unplugged
@@ -222,7 +186,7 @@ URL:https://www.visitfrederick.org/event/the-90s-unplugged/26350/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261120@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:The Crater Sisters' Christmas Special
@@ -231,7 +195,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthewharfratslivegratefuldeadband26342-20261120@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:The Wharf Rats LIVE Grateful Dead Band
@@ -240,7 +204,7 @@ URL:https://www.visitfrederick.org/event/the-wharf-rats-live-grateful-dead-band/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261120@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:The YAAC Show
@@ -249,7 +213,7 @@ URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261121@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -258,7 +222,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventamotownchristmas20746-20261121@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:A Motown Christmas
@@ -267,7 +231,7 @@ URL:https://www.visitfrederick.org/event/a-motown-christmas/20746/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventart26architecturewalkingtour22070-20261121@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Art & Architecture Walking Tour
@@ -275,8 +239,17 @@ DESCRIPTION:Look at Frederick with new eyes. Experience the history and beauty o
 URL:https://www.visitfrederick.org/event/art-%26-architecture-walking-tour/22070/
 END:VEVENT
 BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventdanceunlimitedstorytime26392-20261121@visitfrederick
+DTSTAMP:20261119T185738Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Dance Unlimited Storytime
+DESCRIPTION:Join us for 45 minutes of imagination and fun at Dance Unlimited! Little ones will enjoy an engaging story time\, action songs\, a fun craft\, and lots of opportunities to dance and play. It’s the perfect way for young children to experience the joy of movement in a fun and welcoming environment! For ages 3-6.
+URL:https://www.visitfrederick.org/event/dance-unlimited-storytime/26392/
+END:VEVENT
+BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfieldfreshfarmersmarket23988-20261121@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Field Fresh Farmers Market
@@ -285,7 +258,7 @@ URL:https://www.visitfrederick.org/event/field-fresh-farmers-market/23988/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickfarmersmarket25396-20261121@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Frederick Farmers Market
@@ -293,8 +266,26 @@ DESCRIPTION:Frederick Farmer’s Market welcomes you every Saturday from 10AM to
 URL:https://www.visitfrederick.org/event/frederick-farmers-market/25396/
 END:VEVENT
 BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventghosttoursofhistoricfrederick25002-20261121@visitfrederick
+DTSTAMP:20261119T185738Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Ghost Tours of Historic Frederick
+DESCRIPTION:Take a Remarkable Journey through Frederick’s Gruesome and Bloody Past. Nearly 300 Years of War\, Executions and Revenge. True Documented Stories of the “Paranormal” with \\
+URL:https://www.visitfrederick.org/event/ghost-tours-of-historic-frederick/25002/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventlaunchday7csailingthroughthewintersolstice17638-20261121@visitfrederick
+DTSTAMP:20261119T185738Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Launch Day | Sailing Through the Winter Solstice
+DESCRIPTION:Not only are these boats easy on the eyes\, they raise money for good causes! Vote for your favorite and you’ll be donating to a selected charity at the same time. Learn more about the organization at coloronthecreek.com. Please be cautious and careful as this is an event with heavy machinery and there will be plenty of safe viewing areas on the suspension bridge. Learn more about visiting Sailing Through the Winter Solstice
+URL:https://www.visitfrederick.org/event/launch-day-%7c-sailing-through-the-winter-solstice/17638/
+END:VEVENT
+BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261121@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:The Crater Sisters' Christmas Special
@@ -303,7 +294,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261122@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:The Crater Sisters' Christmas Special
@@ -312,7 +303,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261124@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -321,7 +312,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261125@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -329,26 +320,8 @@ DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long
 URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventgamenight24976-20261125@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:Game Night
-DESCRIPTION:Join us weekly and participate in a FREE poker tournament. Games start at 6:00pm and 8:00pm. Check out our large library of board games. Test your chess skill with a growing group of chess enthusiasts (all levels are welcome). Happy Hour Specials: $3 Beef Tacos\, $3 canned beer\, & $5 Margarita's
-URL:https://www.visitfrederick.org/event/game-night/24976/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20261125@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261126@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -357,7 +330,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261126@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Board Game Night
@@ -366,7 +339,7 @@ URL:https://www.visitfrederick.org/event/board-game-night/23706/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261126@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -375,7 +348,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventkaraokewithdjspyder26337-20261126@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Karaoke with DJ Spyder
@@ -384,7 +357,7 @@ URL:https://www.visitfrederick.org/event/karaoke-with-dj-spyder/26337/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261126@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Pour House Trivia at Steinhardt Brewing Company
@@ -393,7 +366,7 @@ URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261126@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:The Crater Sisters' Christmas Special
@@ -402,7 +375,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261127@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -411,7 +384,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261127@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -420,7 +393,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261127@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Guided Exhibit Tours
@@ -429,7 +402,7 @@ URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261127@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:The Crater Sisters' Christmas Special
@@ -438,7 +411,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261127@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:The YAAC Show
@@ -447,7 +420,7 @@ URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261128@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -455,8 +428,17 @@ DESCRIPTION:Take a deep dive into various topics that have defined Frederick's h
 URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-county-history/24908/
 END:VEVENT
 BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventghosttoursofhistoricfrederick25002-20261128@visitfrederick
+DTSTAMP:20261119T185738Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Ghost Tours of Historic Frederick
+DESCRIPTION:Take a Remarkable Journey through Frederick’s Gruesome and Bloody Past. Nearly 300 Years of War\, Executions and Revenge. True Documented Stories of the “Paranormal” with \\
+URL:https://www.visitfrederick.org/event/ghost-tours-of-historic-frederick/25002/
+END:VEVENT
+BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261128@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:The Crater Sisters' Christmas Special
@@ -465,7 +447,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261129@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:The Crater Sisters' Christmas Special
@@ -474,7 +456,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261201@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -483,7 +465,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261202@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -491,26 +473,8 @@ DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long
 URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventgamenight24976-20261202@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:Game Night
-DESCRIPTION:Join us weekly and participate in a FREE poker tournament. Games start at 6:00pm and 8:00pm. Check out our large library of board games. Test your chess skill with a growing group of chess enthusiasts (all levels are welcome). Happy Hour Specials: $3 Beef Tacos\, $3 canned beer\, & $5 Margarita's
-URL:https://www.visitfrederick.org/event/game-night/24976/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20261202@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261203@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -519,7 +483,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261203@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Board Game Night
@@ -528,7 +492,7 @@ URL:https://www.visitfrederick.org/event/board-game-night/23706/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261203@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -537,7 +501,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventkaraokewithdjspyder26337-20261203@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Karaoke with DJ Spyder
@@ -546,7 +510,7 @@ URL:https://www.visitfrederick.org/event/karaoke-with-dj-spyder/26337/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261203@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Pour House Trivia at Steinhardt Brewing Company
@@ -555,7 +519,7 @@ URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261203@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:The Crater Sisters' Christmas Special
@@ -564,7 +528,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261204@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -573,7 +537,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261204@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -582,7 +546,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261204@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Guided Exhibit Tours
@@ -591,7 +555,7 @@ URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261204@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:The Crater Sisters' Christmas Special
@@ -600,7 +564,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261204@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:The YAAC Show
@@ -609,7 +573,7 @@ URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261205@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -618,7 +582,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261205@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:The Crater Sisters' Christmas Special
@@ -627,7 +591,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261206@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:The Crater Sisters' Christmas Special
@@ -636,7 +600,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261208@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -645,7 +609,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261209@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -653,26 +617,8 @@ DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long
 URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventgamenight24976-20261209@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
-SUMMARY:Game Night
-DESCRIPTION:Join us weekly and participate in a FREE poker tournament. Games start at 6:00pm and 8:00pm. Check out our large library of board games. Test your chess skill with a growing group of chess enthusiasts (all levels are welcome). Happy Hour Specials: $3 Beef Tacos\, $3 canned beer\, & $5 Margarita's
-URL:https://www.visitfrederick.org/event/game-night/24976/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20261209@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261210@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -681,7 +627,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261210@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Board Game Night
@@ -690,7 +636,7 @@ URL:https://www.visitfrederick.org/event/board-game-night/23706/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261210@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -699,7 +645,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventkaraokewithdjspyder26337-20261210@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Karaoke with DJ Spyder
@@ -708,7 +654,7 @@ URL:https://www.visitfrederick.org/event/karaoke-with-dj-spyder/26337/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261210@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Pour House Trivia at Steinhardt Brewing Company
@@ -717,7 +663,7 @@ URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261210@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:The Crater Sisters' Christmas Special
@@ -726,7 +672,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261211@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -735,7 +681,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261211@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -744,7 +690,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261211@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Guided Exhibit Tours
@@ -753,7 +699,7 @@ URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261211@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:The Crater Sisters' Christmas Special
@@ -762,7 +708,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261211@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:The YAAC Show
@@ -771,7 +717,7 @@ URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261212@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -780,7 +726,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261212@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:The Crater Sisters' Christmas Special
@@ -789,7 +735,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261213@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:The Crater Sisters' Christmas Special
@@ -798,7 +744,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261215@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -807,7 +753,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261216@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -815,26 +761,8 @@ DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long
 URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventgamenight24976-20261216@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
-SUMMARY:Game Night
-DESCRIPTION:Join us weekly and participate in a FREE poker tournament. Games start at 6:00pm and 8:00pm. Check out our large library of board games. Test your chess skill with a growing group of chess enthusiasts (all levels are welcome). Happy Hour Specials: $3 Beef Tacos\, $3 canned beer\, & $5 Margarita's
-URL:https://www.visitfrederick.org/event/game-night/24976/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20261216@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261217@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:Board Game Night
@@ -843,7 +771,7 @@ URL:https://www.visitfrederick.org/event/board-game-night/23706/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261217@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -852,7 +780,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventkaraokewithdjspyder26337-20261217@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:Karaoke with DJ Spyder
@@ -861,7 +789,7 @@ URL:https://www.visitfrederick.org/event/karaoke-with-dj-spyder/26337/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261217@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:Pour House Trivia at Steinhardt Brewing Company
@@ -870,7 +798,7 @@ URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261217@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:The Crater Sisters' Christmas Special
@@ -879,7 +807,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261218@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -888,7 +816,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261218@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:The Crater Sisters' Christmas Special
@@ -897,7 +825,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventtheyaacshow24815-20261218@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:The YAAC Show
@@ -906,7 +834,7 @@ URL:https://www.visitfrederick.org/event/the-yaac-show/24815/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261219@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:The Crater Sisters' Christmas Special
@@ -915,7 +843,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261220@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:The Crater Sisters' Christmas Special
@@ -924,7 +852,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261222@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -933,7 +861,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261223@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -941,26 +869,8 @@ DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long
 URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventgamenight24976-20261223@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20261223
-DTEND;VALUE=DATE:20261224
-SUMMARY:Game Night
-DESCRIPTION:Join us weekly and participate in a FREE poker tournament. Games start at 6:00pm and 8:00pm. Check out our large library of board games. Test your chess skill with a growing group of chess enthusiasts (all levels are welcome). Happy Hour Specials: $3 Beef Tacos\, $3 canned beer\, & $5 Margarita's
-URL:https://www.visitfrederick.org/event/game-night/24976/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20261223@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20261223
-DTEND;VALUE=DATE:20261224
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261224@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:Board Game Night
@@ -969,7 +879,7 @@ URL:https://www.visitfrederick.org/event/board-game-night/23706/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261224@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -978,7 +888,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261224@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:Pour House Trivia at Steinhardt Brewing Company
@@ -987,7 +897,7 @@ URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261225@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -996,7 +906,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261229@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -1005,7 +915,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261230@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -1013,26 +923,8 @@ DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long
 URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventgamenight24976-20261230@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20261230
-DTEND;VALUE=DATE:20261231
-SUMMARY:Game Night
-DESCRIPTION:Join us weekly and participate in a FREE poker tournament. Games start at 6:00pm and 8:00pm. Check out our large library of board games. Test your chess skill with a growing group of chess enthusiasts (all levels are welcome). Happy Hour Specials: $3 Beef Tacos\, $3 canned beer\, & $5 Margarita's
-URL:https://www.visitfrederick.org/event/game-night/24976/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20261230@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20261230
-DTEND;VALUE=DATE:20261231
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261231@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Board Game Night
@@ -1041,7 +933,7 @@ URL:https://www.visitfrederick.org/event/board-game-night/23706/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261231@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -1050,461 +942,11 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261231@visitfrederick
-DTSTAMP:20261118T184644Z
+DTSTAMP:20261119T185738Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Pour House Trivia at Steinhardt Brewing Company
 DESCRIPTION:Trivia hosted by Pour House Trivia. Every Thursday 7-9 PM
 URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing-company/18781/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270106@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270106
-DTEND;VALUE=DATE:20270107
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270113@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270113
-DTEND;VALUE=DATE:20270114
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270120@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270120
-DTEND;VALUE=DATE:20270121
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270127@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270127
-DTEND;VALUE=DATE:20270128
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270203@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270203
-DTEND;VALUE=DATE:20270204
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270210@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270210
-DTEND;VALUE=DATE:20270211
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270217@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270217
-DTEND;VALUE=DATE:20270218
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270224@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270224
-DTEND;VALUE=DATE:20270225
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270303@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270303
-DTEND;VALUE=DATE:20270304
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270310@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270310
-DTEND;VALUE=DATE:20270311
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270317@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270317
-DTEND;VALUE=DATE:20270318
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270324@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270324
-DTEND;VALUE=DATE:20270325
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270331@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270331
-DTEND;VALUE=DATE:20270401
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270407@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270407
-DTEND;VALUE=DATE:20270408
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270414@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270414
-DTEND;VALUE=DATE:20270415
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270421@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270421
-DTEND;VALUE=DATE:20270422
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270428@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270428
-DTEND;VALUE=DATE:20270429
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270505@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270505
-DTEND;VALUE=DATE:20270506
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270512@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270512
-DTEND;VALUE=DATE:20270513
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270519@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270519
-DTEND;VALUE=DATE:20270520
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270526@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270526
-DTEND;VALUE=DATE:20270527
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270602@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270602
-DTEND;VALUE=DATE:20270603
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270609@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270609
-DTEND;VALUE=DATE:20270610
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270616@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270616
-DTEND;VALUE=DATE:20270617
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270623@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270623
-DTEND;VALUE=DATE:20270624
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270630@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270630
-DTEND;VALUE=DATE:20270701
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270707@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270707
-DTEND;VALUE=DATE:20270708
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270714@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270714
-DTEND;VALUE=DATE:20270715
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270721@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270721
-DTEND;VALUE=DATE:20270722
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270728@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270728
-DTEND;VALUE=DATE:20270729
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270804@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270804
-DTEND;VALUE=DATE:20270805
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270811@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270811
-DTEND;VALUE=DATE:20270812
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270818@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270818
-DTEND;VALUE=DATE:20270819
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270825@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270825
-DTEND;VALUE=DATE:20270826
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270901@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270901
-DTEND;VALUE=DATE:20270902
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270908@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270908
-DTEND;VALUE=DATE:20270909
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270915@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270915
-DTEND;VALUE=DATE:20270916
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270922@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270922
-DTEND;VALUE=DATE:20270923
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20270929@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20270929
-DTEND;VALUE=DATE:20270930
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20271006@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20271006
-DTEND;VALUE=DATE:20271007
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20271013@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20271013
-DTEND;VALUE=DATE:20271014
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20271020@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20271020
-DTEND;VALUE=DATE:20271021
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20271027@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20271027
-DTEND;VALUE=DATE:20271028
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20271103@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20271103
-DTEND;VALUE=DATE:20271104
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20271110@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20271110
-DTEND;VALUE=DATE:20271111
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20271117@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20271117
-DTEND;VALUE=DATE:20271118
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20271124@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20271124
-DTEND;VALUE=DATE:20271125
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20271201@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20271201
-DTEND;VALUE=DATE:20271202
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20271208@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20271208
-DTEND;VALUE=DATE:20271209
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventsongwritersworkshop26209-20271215@visitfrederick
-DTSTAMP:20261118T184644Z
-DTSTART;VALUE=DATE:20271215
-DTEND;VALUE=DATE:20271216
-SUMMARY:Songwriter's Workshop
-DESCRIPTION:Are you a musician looking for inspiration/feedback? Or\, maybe you’d just like the chance to perform your newest song! Oh boy\, have we got the event for you. Join us for another one of our free songwriting workshops presented by Braindead Live! with the opportunity to perform your song(s)! Workshop signups at 6:45PM. BYO instrument(s) and creativity! PS. Even if you are not interested in participating in the workshop\, this will be a fun\, free event where you\, as an audience member\, will have the opportunity to watch a musician’s creative journey from inception to performance!
-URL:https://www.visitfrederick.org/event/songwriters-workshop/26209/
 END:VEVENT
 END:VCALENDAR
