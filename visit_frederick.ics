@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Visit Frederick Events
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventmerry26brightholidaylightsexperience22605-20251128@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20251128
 DTEND;VALUE=DATE:20270104
 SUMMARY:Merry & Bright Holiday Lights Experience
@@ -15,7 +15,7 @@ URL:https://www.visitfrederick.org/event/merry-%26-bright-holiday-lights-experie
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventechoesofvalor26290-20261106@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261130
 SUMMARY:Echoes of Valor
@@ -24,7 +24,7 @@ URL:https://www.visitfrederick.org/event/echoes-of-valor/26290/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventmarylandchristmasshow9126-20261120@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261130
 SUMMARY:Maryland Christmas Show
@@ -33,7 +33,7 @@ URL:https://www.visitfrederick.org/event/maryland-christmas-show/9126/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventgaverfarmschristmasseason26426-20261121@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261224
 SUMMARY:Gaver Farm's Christmas Season
@@ -41,44 +41,8 @@ DESCRIPTION:Christmas Tree Cutting: huge selection of gorgeous Douglas Fir\, Can
 URL:https://www.visitfrederick.org/event/gaver-farms-christmas-season/26426/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20261125@visitfrederick
-DTSTAMP:20261125T195302Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:Christmas on Carroll at True Standard Distilling
-DESCRIPTION:The holiday magic is here at True Standard Distilling! Come experience our festive decor\, soak up the Christmas vibes\, and sip on our delicious Dangerous Summer holiday cocktails!
-URL:https://www.visitfrederick.org/event/christmas-on-carroll-at-true-standard-distilling/24355/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventdrinksgivingwithnumerant90sgrungebandlive26317-20261125@visitfrederick
-DTSTAMP:20261125T195302Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:Drinksgiving with Numerant 90's Grunge band Live
-DESCRIPTION:Join us for DRINKS-GIVING — Wednesday\, 11.25.26 @ 7:30 PM FREE SHOW! NO COVER! Get ready to ROCK this Drinks-giving with NUMERANT at Rockwell Brewery! Kick off Thanksgiving weekend with a night of your favorite ’90s grunge and modern rock anthems! Grab your friends\, raise a glass\, and get ready to sing along to the songs that defined a generation. From Pearl Jam and Stone Temple Pilots to Foo Fighters\, Nirvana\, The Killers\, and Rage Against the Machine\, NUMERANT is bringing the energy of ’90s and 2000s alternative rock to The Rock! NUMERANT is a five-piece grunge and modern rock band formed in 2023 in Rockville\, Maryland. Made up of seasoned musicians with years of live performance experience\, the band delivers a tight\, high-energy show featuring the biggest rock hits of the ’90s and beyond\, along with a growing collection of original music. With a setlist spanning grunge classics\, alternative rock favorites\, and crowd-pleasing anthems\, NUMERANT brings the kind of live energy that keeps audiences singing\, moving\, and rocking all night long. As Rockwell Brewery puts it: “These guys WILL rock your socks off! Good beers\, good tunes\, great band!” Don't miss NUMERANT at Rockwell Brewery this Drinks-giving! Great beer\, great music\, and a night of rock you won't forget!
-URL:https://www.visitfrederick.org/event/drinksgiving-with-numerant-90s-grunge-band-live/26317/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261125@visitfrederick
-DTSTAMP:20261125T195302Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:Frederick City Parks & Rec: Senior Yoga
-DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long holds are emphasized in this class. Modifications are provided and welcome during your practice. All ages are welcome.
-URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
-END:VEVENT
-BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventgamenight24976-20261125@visitfrederick
-DTSTAMP:20261125T195302Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:Game Night
-DESCRIPTION:Join us weekly and participate in a FREE poker tournament. Games start at 6:00pm and 8:00pm. Check out our large library of board games. Test your chess skill with a growing group of chess enthusiasts (all levels are welcome). Happy Hour Specials: $3 Beef Tacos\, $3 canned beer\, & $5 Margarita's
-URL:https://www.visitfrederick.org/event/game-night/24976/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261126@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -87,7 +51,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261126@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Board Game Night
@@ -96,7 +60,7 @@ URL:https://www.visitfrederick.org/event/board-game-night/23706/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20261126@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Christmas on Carroll at True Standard Distilling
@@ -105,7 +69,7 @@ URL:https://www.visitfrederick.org/event/christmas-on-carroll-at-true-standard-d
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261126@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -114,7 +78,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventkaraokewithdjspyder26337-20261126@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Karaoke with DJ Spyder
@@ -123,7 +87,7 @@ URL:https://www.visitfrederick.org/event/karaoke-with-dj-spyder/26337/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261126@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Pour House Trivia at Steinhardt Brewing Company
@@ -132,7 +96,7 @@ URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthanksgivingbuffetatbrewersalley26278-20261126@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Thanksgiving Buffet at Brewer's Alley
@@ -141,7 +105,7 @@ URL:https://www.visitfrederick.org/event/thanksgiving-buffet-at-brewers-alley/26
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261126@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:The Crater Sisters' Christmas Special
@@ -150,7 +114,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261127@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -159,7 +123,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventbrunswicklive24583-20261127@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Brunswick Live!
@@ -168,7 +132,7 @@ URL:https://www.visitfrederick.org/event/brunswick-live!/24583/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20261127@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Christmas on Carroll at True Standard Distilling
@@ -177,7 +141,7 @@ URL:https://www.visitfrederick.org/event/christmas-on-carroll-at-true-standard-d
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfacswinterartistmarket26375-20261127@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261129
 SUMMARY:FAC's Winter Artist Market
@@ -186,7 +150,7 @@ URL:https://www.visitfrederick.org/event/facs-winter-artist-market/26375/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcardfest26388-20261127@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Frederick Card Fest
@@ -195,7 +159,7 @@ URL:https://www.visitfrederick.org/event/frederick-card-fest/26388/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261127@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -204,7 +168,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrostyfriday17366-20261127@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Frosty Friday
@@ -213,7 +177,7 @@ URL:https://www.visitfrederick.org/event/frosty-friday/17366/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrostyfridaylivemusicwithcrashthelimo26283-20261127@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Frosty Friday Live Music with Crash the Limo
@@ -222,7 +186,7 @@ URL:https://www.visitfrederick.org/event/frosty-friday-live-music-with-crash-the
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventghosttoursofhistoricfrederick25003-20261127@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Ghost Tours of Historic Frederick
@@ -231,7 +195,7 @@ URL:https://www.visitfrederick.org/event/ghost-tours-of-historic-frederick/25003
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261127@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Guided Exhibit Tours
@@ -240,7 +204,7 @@ URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventheritagefredericksfrostyfriday22641-20261127@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Heritage Frederick's Frosty Friday
@@ -249,7 +213,7 @@ URL:https://www.visitfrederick.org/event/heritage-fredericks-frosty-friday/22641
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpopupartistsatthegiftgallery3aclusteredspiresquiltguild26299-20261127@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Pop-Up Artists at the Gift Gallery: Clustered Spires Quilt Guild
@@ -258,7 +222,7 @@ URL:https://www.visitfrederick.org/event/pop-up-artists-at-the-gift-gallery%3a-c
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventstoneygardenschristmasholidaycraftshow26openhouse22631-20261127@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261207
 SUMMARY:Stoney Gardens Christmas Holiday Craft Show & Open House
@@ -267,7 +231,7 @@ URL:https://www.visitfrederick.org/event/stoney-gardens-christmas-holiday-craft-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecooljerksreunionconcert26377-20261127@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:The COOL JERKS Reunion Concert
@@ -276,7 +240,7 @@ URL:https://www.visitfrederick.org/event/the-cool-jerks-reunion-concert/26377/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261127@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:The Crater Sisters' Christmas Special
@@ -285,7 +249,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261128@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -294,7 +258,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventartiststalk3alegendmythlore26438-20261128@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Artists' Talk: Legend! Myth! Lore!
@@ -303,7 +267,7 @@ URL:https://www.visitfrederick.org/event/artists-talk%3a-legend!-myth!-lore!/264
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20261128@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Christmas on Carroll at True Standard Distilling
@@ -312,7 +276,7 @@ URL:https://www.visitfrederick.org/event/christmas-on-carroll-at-true-standard-d
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventghosttoursofhistoricfrederick25002-20261128@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Ghost Tours of Historic Frederick
@@ -321,7 +285,7 @@ URL:https://www.visitfrederick.org/event/ghost-tours-of-historic-frederick/25002
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventholidaywreathsalepresentedbythemiddletownvalleyhistoricalsociety26394-20261128@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261213
 SUMMARY:Holiday Wreath Sale Presented by the Middletown Valley Historical Society
@@ -329,8 +293,26 @@ DESCRIPTION:Please consider a visit to the Middletown Valley Historical Society 
 URL:https://www.visitfrederick.org/event/holiday-wreath-sale-presented-by-the-middletown-valley-historical-society/26394/
 END:VEVENT
 BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventpilates26pintsatsmoketownbrewingwithleighgeorge26315-20261128@visitfrederick
+DTSTAMP:20261126T193014Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Pilates & Pints at Smoketown Brewing with Leigh George
+DESCRIPTION:Join us for a unique morning of movement\, community\, and local flavor at Pilates & Pints! We're partnering with Smoketown Brewing in Brunswick to bring our signature Mat Pilates practice to the beautiful Upstairs at Smoketown event space. This all-levels Mat Pilates class combines mindful movement\, breath awareness\, and focused core engagement to build strength\, improve posture\, and enhance flexibility and balance. Through simple yet effective floor-based exercises\, you'll develop stability\, body awareness\, and a sense of ease that supports everyday well-being. After class\, the experience continues downstairs in Smoketown Brewing's welcoming taproom.Your registration includes one drink voucher to enjoy the beverage of your choice\, including Smoketown's craft beers\, handcrafted mocktails\, or other non-alcoholic options. If you prefer wine\, liquor\, or a cocktail\, your voucher provides a $7 discount toward your purchase. Stretch\, strengthen\, and sip local in Brunswick's charming and historic hometown brewery. What to Prepare and Expect: Bring your own mat. Mats will not be available to borrow Dress in comfortable layers After class\, enjoy a free drink voucher redeemable at Smoketown Brewing\, where you can choose from craft beers\, mocktails\, or other non-alcoholic options
+URL:https://www.visitfrederick.org/event/pilates-%26-pints-at-smoketown-brewing-with-leigh-george/26315/
+END:VEVENT
+BEGIN:VEVENT
+UID:httpswwwvisitfrederickorgeventplushiespistonsandholidaytraditions26389-20261128@visitfrederick
+DTSTAMP:20261126T193014Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Plushies\, Pistons\, and Holiday Traditions
+DESCRIPTION:Stuff Rod™ Car Show Load up your ride with your favorite plush passengers and cruise into our one-of-a-kind Stuff Rod™ Car Show! Free admission for spectators $25 to register a Stuff Rod™ 50% of all Stuff Rod™ registration fees benefit Little Wishes\, an organization that grants immediate and ongoing wishes to seriously ill\, hospitalized children. Merry Market & Holiday Bazaar Shop local this Shop Local Saturday! Browse unique gifts\, discover festive finds\, and support our amazing local small businesses. Holiday Drive-In Movie featuring Polar Express Pile into your car or find a seat\, bring your blankets\, pillows\, and PJs\, and enjoy a festive holiday movie experience with family and friends. Drive-In Movie Admission: Just $10 per car advanced online and $15 day of the event. Advance ticket purchase is encouraged. Spots are limited. Ticket Link Coming Soon
+URL:https://www.visitfrederick.org/event/plushies-pistons-and-holiday-traditions/26389/
+END:VEVENT
+BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261128@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:The Crater Sisters' Christmas Special
@@ -339,7 +321,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20261129@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Christmas on Carroll at True Standard Distilling
@@ -348,7 +330,7 @@ URL:https://www.visitfrederick.org/event/christmas-on-carroll-at-true-standard-d
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261129@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:The Crater Sisters' Christmas Special
@@ -357,7 +339,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261201@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -366,7 +348,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20261202@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Christmas on Carroll at True Standard Distilling
@@ -375,7 +357,7 @@ URL:https://www.visitfrederick.org/event/christmas-on-carroll-at-true-standard-d
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261202@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -383,17 +365,8 @@ DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long
 URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventgamenight24976-20261202@visitfrederick
-DTSTAMP:20261125T195302Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:Game Night
-DESCRIPTION:Join us weekly and participate in a FREE poker tournament. Games start at 6:00pm and 8:00pm. Check out our large library of board games. Test your chess skill with a growing group of chess enthusiasts (all levels are welcome). Happy Hour Specials: $3 Beef Tacos\, $3 canned beer\, & $5 Margarita's
-URL:https://www.visitfrederick.org/event/game-night/24976/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261203@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -402,7 +375,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261203@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Board Game Night
@@ -411,7 +384,7 @@ URL:https://www.visitfrederick.org/event/board-game-night/23706/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20261203@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Christmas on Carroll at True Standard Distilling
@@ -420,7 +393,7 @@ URL:https://www.visitfrederick.org/event/christmas-on-carroll-at-true-standard-d
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261203@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -429,7 +402,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventkaraokewithdjspyder26337-20261203@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Karaoke with DJ Spyder
@@ -438,7 +411,7 @@ URL:https://www.visitfrederick.org/event/karaoke-with-dj-spyder/26337/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261203@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Pour House Trivia at Steinhardt Brewing Company
@@ -447,7 +420,7 @@ URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261203@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:The Crater Sisters' Christmas Special
@@ -456,7 +429,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261204@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -465,7 +438,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20261204@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Christmas on Carroll at True Standard Distilling
@@ -474,7 +447,7 @@ URL:https://www.visitfrederick.org/event/christmas-on-carroll-at-true-standard-d
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261204@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -483,7 +456,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261204@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Guided Exhibit Tours
@@ -492,7 +465,7 @@ URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261204@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:The Crater Sisters' Christmas Special
@@ -501,7 +474,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261205@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -510,7 +483,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20261205@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:Christmas on Carroll at True Standard Distilling
@@ -519,7 +492,7 @@ URL:https://www.visitfrederick.org/event/christmas-on-carroll-at-true-standard-d
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261205@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:The Crater Sisters' Christmas Special
@@ -528,7 +501,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20261206@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:Christmas on Carroll at True Standard Distilling
@@ -537,7 +510,7 @@ URL:https://www.visitfrederick.org/event/christmas-on-carroll-at-true-standard-d
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261206@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:The Crater Sisters' Christmas Special
@@ -546,7 +519,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261208@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -555,7 +528,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20261209@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Christmas on Carroll at True Standard Distilling
@@ -564,7 +537,7 @@ URL:https://www.visitfrederick.org/event/christmas-on-carroll-at-true-standard-d
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261209@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -572,17 +545,8 @@ DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long
 URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventgamenight24976-20261209@visitfrederick
-DTSTAMP:20261125T195302Z
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
-SUMMARY:Game Night
-DESCRIPTION:Join us weekly and participate in a FREE poker tournament. Games start at 6:00pm and 8:00pm. Check out our large library of board games. Test your chess skill with a growing group of chess enthusiasts (all levels are welcome). Happy Hour Specials: $3 Beef Tacos\, $3 canned beer\, & $5 Margarita's
-URL:https://www.visitfrederick.org/event/game-night/24976/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261210@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -591,7 +555,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261210@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Board Game Night
@@ -600,7 +564,7 @@ URL:https://www.visitfrederick.org/event/board-game-night/23706/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20261210@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Christmas on Carroll at True Standard Distilling
@@ -609,7 +573,7 @@ URL:https://www.visitfrederick.org/event/christmas-on-carroll-at-true-standard-d
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261210@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -618,7 +582,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventkaraokewithdjspyder26337-20261210@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Karaoke with DJ Spyder
@@ -627,7 +591,7 @@ URL:https://www.visitfrederick.org/event/karaoke-with-dj-spyder/26337/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261210@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Pour House Trivia at Steinhardt Brewing Company
@@ -636,7 +600,7 @@ URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261210@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:The Crater Sisters' Christmas Special
@@ -645,7 +609,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261211@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -654,7 +618,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20261211@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Christmas on Carroll at True Standard Distilling
@@ -663,7 +627,7 @@ URL:https://www.visitfrederick.org/event/christmas-on-carroll-at-true-standard-d
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261211@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -672,7 +636,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventguidedexhibittours25817-20261211@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Guided Exhibit Tours
@@ -681,7 +645,7 @@ URL:https://www.visitfrederick.org/event/guided-exhibit-tours/25817/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261211@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:The Crater Sisters' Christmas Special
@@ -690,7 +654,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgevent2026exhibitsatmuseumoffrederickcountyhistory24908-20261212@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:2026 Exhibits at Museum of Frederick County History
@@ -699,7 +663,7 @@ URL:https://www.visitfrederick.org/event/2026-exhibits-at-museum-of-frederick-co
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20261212@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Christmas on Carroll at True Standard Distilling
@@ -708,7 +672,7 @@ URL:https://www.visitfrederick.org/event/christmas-on-carroll-at-true-standard-d
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261212@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:The Crater Sisters' Christmas Special
@@ -717,7 +681,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20261213@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:Christmas on Carroll at True Standard Distilling
@@ -726,7 +690,7 @@ URL:https://www.visitfrederick.org/event/christmas-on-carroll-at-true-standard-d
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261213@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:The Crater Sisters' Christmas Special
@@ -735,7 +699,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261215@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -744,7 +708,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20261216@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Christmas on Carroll at True Standard Distilling
@@ -753,7 +717,7 @@ URL:https://www.visitfrederick.org/event/christmas-on-carroll-at-true-standard-d
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261216@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -761,17 +725,8 @@ DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long
 URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventgamenight24976-20261216@visitfrederick
-DTSTAMP:20261125T195302Z
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
-SUMMARY:Game Night
-DESCRIPTION:Join us weekly and participate in a FREE poker tournament. Games start at 6:00pm and 8:00pm. Check out our large library of board games. Test your chess skill with a growing group of chess enthusiasts (all levels are welcome). Happy Hour Specials: $3 Beef Tacos\, $3 canned beer\, & $5 Margarita's
-URL:https://www.visitfrederick.org/event/game-night/24976/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261217@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:Board Game Night
@@ -780,7 +735,7 @@ URL:https://www.visitfrederick.org/event/board-game-night/23706/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20261217@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:Christmas on Carroll at True Standard Distilling
@@ -789,7 +744,7 @@ URL:https://www.visitfrederick.org/event/christmas-on-carroll-at-true-standard-d
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261217@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -798,7 +753,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventkaraokewithdjspyder26337-20261217@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:Karaoke with DJ Spyder
@@ -807,7 +762,7 @@ URL:https://www.visitfrederick.org/event/karaoke-with-dj-spyder/26337/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261217@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:Pour House Trivia at Steinhardt Brewing Company
@@ -816,7 +771,7 @@ URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261217@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:The Crater Sisters' Christmas Special
@@ -825,7 +780,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20261218@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Christmas on Carroll at True Standard Distilling
@@ -834,7 +789,7 @@ URL:https://www.visitfrederick.org/event/christmas-on-carroll-at-true-standard-d
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261218@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -843,7 +798,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261218@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:The Crater Sisters' Christmas Special
@@ -852,7 +807,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20261219@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:Christmas on Carroll at True Standard Distilling
@@ -861,7 +816,7 @@ URL:https://www.visitfrederick.org/event/christmas-on-carroll-at-true-standard-d
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261219@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:The Crater Sisters' Christmas Special
@@ -870,7 +825,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20261220@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:Christmas on Carroll at True Standard Distilling
@@ -879,7 +834,7 @@ URL:https://www.visitfrederick.org/event/christmas-on-carroll-at-true-standard-d
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventthecratersisterschristmasspecial25835-20261220@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:The Crater Sisters' Christmas Special
@@ -888,7 +843,7 @@ URL:https://www.visitfrederick.org/event/the-crater-sisters-christmas-special/25
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261222@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -897,7 +852,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20261223@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:Christmas on Carroll at True Standard Distilling
@@ -906,7 +861,7 @@ URL:https://www.visitfrederick.org/event/christmas-on-carroll-at-true-standard-d
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261223@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -914,17 +869,8 @@ DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long
 URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventgamenight24976-20261223@visitfrederick
-DTSTAMP:20261125T195302Z
-DTSTART;VALUE=DATE:20261223
-DTEND;VALUE=DATE:20261224
-SUMMARY:Game Night
-DESCRIPTION:Join us weekly and participate in a FREE poker tournament. Games start at 6:00pm and 8:00pm. Check out our large library of board games. Test your chess skill with a growing group of chess enthusiasts (all levels are welcome). Happy Hour Specials: $3 Beef Tacos\, $3 canned beer\, & $5 Margarita's
-URL:https://www.visitfrederick.org/event/game-night/24976/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261224@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:Board Game Night
@@ -933,7 +879,7 @@ URL:https://www.visitfrederick.org/event/board-game-night/23706/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20261224@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:Christmas on Carroll at True Standard Distilling
@@ -942,7 +888,7 @@ URL:https://www.visitfrederick.org/event/christmas-on-carroll-at-true-standard-d
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261224@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -951,7 +897,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261224@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:Pour House Trivia at Steinhardt Brewing Company
@@ -960,7 +906,7 @@ URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20261225@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Christmas on Carroll at True Standard Distilling
@@ -969,7 +915,7 @@ URL:https://www.visitfrederick.org/event/christmas-on-carroll-at-true-standard-d
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261225@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -978,7 +924,7 @@ URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20261226@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:Christmas on Carroll at True Standard Distilling
@@ -987,7 +933,7 @@ URL:https://www.visitfrederick.org/event/christmas-on-carroll-at-true-standard-d
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20261227@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:Christmas on Carroll at True Standard Distilling
@@ -996,7 +942,7 @@ URL:https://www.visitfrederick.org/event/christmas-on-carroll-at-true-standard-d
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261229@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -1005,7 +951,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20261230@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:Christmas on Carroll at True Standard Distilling
@@ -1014,7 +960,7 @@ URL:https://www.visitfrederick.org/event/christmas-on-carroll-at-true-standard-d
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventfrederickcityparks26rec3asenioryoga24650-20261230@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:Frederick City Parks & Rec: Senior Yoga
@@ -1022,17 +968,8 @@ DESCRIPTION:A yoga class focused on stretching the body. Slow movements and long
 URL:https://www.visitfrederick.org/event/frederick-city-parks-%26-rec%3a-senior-yoga/24650/
 END:VEVENT
 BEGIN:VEVENT
-UID:httpswwwvisitfrederickorgeventgamenight24976-20261230@visitfrederick
-DTSTAMP:20261125T195302Z
-DTSTART;VALUE=DATE:20261230
-DTEND;VALUE=DATE:20261231
-SUMMARY:Game Night
-DESCRIPTION:Join us weekly and participate in a FREE poker tournament. Games start at 6:00pm and 8:00pm. Check out our large library of board games. Test your chess skill with a growing group of chess enthusiasts (all levels are welcome). Happy Hour Specials: $3 Beef Tacos\, $3 canned beer\, & $5 Margarita's
-URL:https://www.visitfrederick.org/event/game-night/24976/
-END:VEVENT
-BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventboardgamenight23706-20261231@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Board Game Night
@@ -1041,7 +978,7 @@ URL:https://www.visitfrederick.org/event/board-game-night/23706/
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20261231@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Christmas on Carroll at True Standard Distilling
@@ -1050,7 +987,7 @@ URL:https://www.visitfrederick.org/event/christmas-on-carroll-at-true-standard-d
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventcityoffrederickparks26rec3aseniorexercise24651-20261231@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:City of Frederick Parks & Rec: Senior Exercise
@@ -1059,7 +996,7 @@ URL:https://www.visitfrederick.org/event/city-of-frederick-parks-%26-rec%3a-seni
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventpourhousetriviaatsteinhardtbrewingcompany18781-20261231@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Pour House Trivia at Steinhardt Brewing Company
@@ -1068,7 +1005,7 @@ URL:https://www.visitfrederick.org/event/pour-house-trivia-at-steinhardt-brewing
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20270101@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Christmas on Carroll at True Standard Distilling
@@ -1077,7 +1014,7 @@ URL:https://www.visitfrederick.org/event/christmas-on-carroll-at-true-standard-d
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20270102@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 SUMMARY:Christmas on Carroll at True Standard Distilling
@@ -1086,7 +1023,7 @@ URL:https://www.visitfrederick.org/event/christmas-on-carroll-at-true-standard-d
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20270103@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:Christmas on Carroll at True Standard Distilling
@@ -1095,7 +1032,7 @@ URL:https://www.visitfrederick.org/event/christmas-on-carroll-at-true-standard-d
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20270106@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:Christmas on Carroll at True Standard Distilling
@@ -1104,7 +1041,7 @@ URL:https://www.visitfrederick.org/event/christmas-on-carroll-at-true-standard-d
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20270107@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
 SUMMARY:Christmas on Carroll at True Standard Distilling
@@ -1113,7 +1050,7 @@ URL:https://www.visitfrederick.org/event/christmas-on-carroll-at-true-standard-d
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20270108@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:Christmas on Carroll at True Standard Distilling
@@ -1122,7 +1059,7 @@ URL:https://www.visitfrederick.org/event/christmas-on-carroll-at-true-standard-d
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20270109@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:Christmas on Carroll at True Standard Distilling
@@ -1131,7 +1068,7 @@ URL:https://www.visitfrederick.org/event/christmas-on-carroll-at-true-standard-d
 END:VEVENT
 BEGIN:VEVENT
 UID:httpswwwvisitfrederickorgeventchristmasoncarrollattruestandarddistilling24355-20270110@visitfrederick
-DTSTAMP:20261125T195302Z
+DTSTAMP:20261126T193014Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:Christmas on Carroll at True Standard Distilling
